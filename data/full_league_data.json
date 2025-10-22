@@ -1,0 +1,3959 @@
+{
+  "league_name": "大亂鬥",
+  "league_id": "71325",
+  "num_teams": 14,
+  "current_week": 1,
+  "total_weeks": 22,
+  "season": "2025",
+  "teams": [
+    {
+      "rank": 1,
+      "team_id": 1,
+      "team_name": "默絲佛陀攝影掃地伯",
+      "manager": "Murs",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 2,
+      "team_id": 2,
+      "team_name": "哎呦蠻大的",
+      "manager": "brian",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 3,
+      "team_id": 3,
+      "team_name": "Fu班的捍衛戰士獨行俠",
+      "manager": "Fu",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 4,
+      "team_id": 4,
+      "team_name": "Great Team",
+      "manager": "昕彤",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 5,
+      "team_id": 5,
+      "team_name": "JW999",
+      "manager": "JW999",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 6,
+      "team_id": 6,
+      "team_name": "Stojakovic",
+      "manager": "Stojakovic",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 7,
+      "team_id": 7,
+      "team_name": "Super呆呆",
+      "manager": "EDEN",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 8,
+      "team_id": 8,
+      "team_name": "王美露の爹",
+      "manager": "蜆仔",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 9,
+      "team_id": 9,
+      "team_name": "振彥's First-Class Team",
+      "manager": "振彥",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 10,
+      "team_id": 10,
+      "team_name": "會演是英雄",
+      "manager": "Derek",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 11,
+      "team_id": 11,
+      "team_name": "雷霆總冠軍",
+      "manager": "Bruce Lin",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 12,
+      "team_id": 12,
+      "team_name": "李知恩圖報",
+      "manager": "宣宏",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 13,
+      "team_id": 13,
+      "team_name": "櫻木花道",
+      "manager": "新皓",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 14,
+      "team_id": 14,
+      "team_name": "Lakers in 5",
+      "manager": "Curry",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    }
+  ],
+  "matchups_by_week": {
+    "week_1": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 5,
+        "team2_name": "JW999"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      }
+    ],
+    "week_2": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 10,
+        "team1_name": "會演是英雄",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      }
+    ],
+    "week_3": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 3,
+        "team2_name": "Fu班的捍衛戰士獨行俠"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 5,
+        "team2_name": "JW999"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 13,
+        "team1_name": "櫻木花道",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_4": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 4,
+        "team2_name": "Great Team"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "雷霆總冠軍",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_5": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 3,
+        "team2_name": "Fu班的捍衛戰士獨行俠"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "雷霆總冠軍",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      }
+    ],
+    "week_6": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 4,
+        "team2_name": "Great Team"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 12,
+        "team1_name": "李知恩圖報",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_7": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "雷霆總冠軍",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      }
+    ],
+    "week_8": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_9": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 2,
+        "team2_name": "哎呦蠻大的"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 10,
+        "team1_name": "會演是英雄",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 12,
+        "team1_name": "李知恩圖報",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      }
+    ],
+    "week_10": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 5,
+        "team2_name": "JW999"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 10,
+        "team1_name": "會演是英雄",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      }
+    ],
+    "week_11": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 5,
+        "team2_name": "JW999"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_12": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 10,
+        "team1_name": "會演是英雄",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      }
+    ],
+    "week_13": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 4,
+        "team2_name": "Great Team"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      }
+    ],
+    "week_14": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 5,
+        "team2_name": "JW999"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      }
+    ],
+    "week_15": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 10,
+        "team1_name": "會演是英雄",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      }
+    ],
+    "week_16": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 3,
+        "team2_name": "Fu班的捍衛戰士獨行俠"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 5,
+        "team2_name": "JW999"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "王美露の爹",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 13,
+        "team1_name": "櫻木花道",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_17": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 4,
+        "team2_name": "Great Team"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 6,
+        "team2_name": "Stojakovic"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "雷霆總冠軍",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_18": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 3,
+        "team2_name": "Fu班的捍衛戰士獨行俠"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "Great Team",
+        "team2_id": 12,
+        "team2_name": "李知恩圖報"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "Super呆呆",
+        "team2_id": 9,
+        "team2_name": "振彥's First-Class Team"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "雷霆總冠軍",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      }
+    ],
+    "week_19": [
+      {
+        "team1_id": 1,
+        "team1_name": "默絲佛陀攝影掃地伯",
+        "team2_id": 11,
+        "team2_name": "雷霆總冠軍"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "哎呦蠻大的",
+        "team2_id": 4,
+        "team2_name": "Great Team"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Fu班的捍衛戰士獨行俠",
+        "team2_id": 8,
+        "team2_name": "王美露の爹"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "JW999",
+        "team2_id": 7,
+        "team2_name": "Super呆呆"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "Stojakovic",
+        "team2_id": 10,
+        "team2_name": "會演是英雄"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "振彥's First-Class Team",
+        "team2_id": 13,
+        "team2_name": "櫻木花道"
+      },
+      {
+        "team1_id": 12,
+        "team1_name": "李知恩圖報",
+        "team2_id": 14,
+        "team2_name": "Lakers in 5"
+      }
+    ],
+    "week_20": [],
+    "week_21": [],
+    "week_22": []
+  },
+  "team_schedules": {
+    "1": {
+      "1": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "2": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "3": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "4": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "5": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "6": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "7": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "8": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "9": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "10": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "11": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "12": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "13": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "14": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "15": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "16": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "17": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "18": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "19": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      }
+    },
+    "2": {
+      "1": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "2": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "3": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "4": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "5": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "6": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "7": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "8": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "9": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "10": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "11": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "12": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "13": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "14": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "15": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "16": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "17": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "18": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "19": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      }
+    },
+    "3": {
+      "1": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "2": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "3": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "4": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "5": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "6": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "7": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "8": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "9": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "10": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "11": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "12": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "13": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "14": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "15": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "16": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "17": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "18": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "19": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      }
+    },
+    "4": {
+      "1": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "2": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "3": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "4": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "5": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "6": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "7": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "8": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "9": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "10": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "11": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "12": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "13": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "14": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "15": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "16": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "17": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "18": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "19": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      }
+    },
+    "5": {
+      "1": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "2": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "3": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "4": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "5": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "6": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "7": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "8": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "9": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "10": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "11": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "12": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "13": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "14": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "15": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "16": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "17": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "18": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "19": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      }
+    },
+    "6": {
+      "1": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "2": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "3": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "4": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "5": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "6": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "7": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "8": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "9": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "10": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "11": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "12": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "13": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "14": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "15": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "16": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "17": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "18": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "19": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      }
+    },
+    "7": {
+      "1": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "2": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "3": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "4": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "5": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "6": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "7": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "8": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "9": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "10": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "11": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "12": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "13": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "14": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "15": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "16": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "17": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "18": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "19": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      }
+    },
+    "8": {
+      "1": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "2": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "3": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "4": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "5": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "6": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "7": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "8": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "9": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "10": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "11": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "12": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "13": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "14": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "15": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "16": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "17": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "18": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "19": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      }
+    },
+    "9": {
+      "1": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "2": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "3": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "4": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "5": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "6": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "7": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "8": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "9": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "10": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "11": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "12": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "13": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "14": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "15": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "16": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "17": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "18": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "19": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      }
+    },
+    "10": {
+      "1": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "2": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "3": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "4": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "5": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "6": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "7": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "8": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "9": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "10": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "11": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "12": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "13": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "14": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "15": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "16": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "17": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "18": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "19": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      }
+    },
+    "11": {
+      "1": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "2": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "3": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "4": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "5": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "6": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "7": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "8": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "9": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "10": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "11": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "12": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "13": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "14": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "15": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "16": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "17": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "18": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "19": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      }
+    },
+    "12": {
+      "1": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "2": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "3": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "4": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "5": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "6": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "7": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "8": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "9": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "10": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "11": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "12": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "13": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "14": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "15": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "16": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "17": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "18": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "19": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      }
+    },
+    "13": {
+      "1": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "2": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "3": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "4": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "5": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "6": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "7": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "8": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "9": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "10": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "11": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "12": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "13": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "14": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "15": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "16": {
+        "opponent_id": 14,
+        "opponent_name": "Lakers in 5"
+      },
+      "17": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "18": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "19": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      }
+    },
+    "14": {
+      "1": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "2": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "3": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "4": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "5": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "6": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      },
+      "7": {
+        "opponent_id": 2,
+        "opponent_name": "哎呦蠻大的"
+      },
+      "8": {
+        "opponent_id": 8,
+        "opponent_name": "王美露の爹"
+      },
+      "9": {
+        "opponent_id": 10,
+        "opponent_name": "會演是英雄"
+      },
+      "10": {
+        "opponent_id": 7,
+        "opponent_name": "Super呆呆"
+      },
+      "11": {
+        "opponent_id": 9,
+        "opponent_name": "振彥's First-Class Team"
+      },
+      "12": {
+        "opponent_id": 5,
+        "opponent_name": "JW999"
+      },
+      "13": {
+        "opponent_id": 6,
+        "opponent_name": "Stojakovic"
+      },
+      "14": {
+        "opponent_id": 3,
+        "opponent_name": "Fu班的捍衛戰士獨行俠"
+      },
+      "15": {
+        "opponent_id": 4,
+        "opponent_name": "Great Team"
+      },
+      "16": {
+        "opponent_id": 13,
+        "opponent_name": "櫻木花道"
+      },
+      "17": {
+        "opponent_id": 11,
+        "opponent_name": "雷霆總冠軍"
+      },
+      "18": {
+        "opponent_id": 1,
+        "opponent_name": "默絲佛陀攝影掃地伯"
+      },
+      "19": {
+        "opponent_id": 12,
+        "opponent_name": "李知恩圖報"
+      }
+    }
+  },
+  "rosters": {
+    "1": [
+      {
+        "player_id": 6721,
+        "name": "Andrew Nembhard",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 5826,
+        "name": "Donovan Mitchell",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CLE"
+      },
+      {
+        "player_id": 5764,
+        "name": "Lonzo Ball",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CLE"
+      },
+      {
+        "player_id": 5009,
+        "name": "Bradley Beal",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 10315,
+        "name": "Kyle Filipowski",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 6692,
+        "name": "Chet Holmgren",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 10289,
+        "name": "Yves Missi",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "NOP"
+      },
+      {
+        "player_id": 5185,
+        "name": "Giannis Antetokounmpo",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 6516,
+        "name": "Jalen Suggs",
+        "positions": [
+          "PG"
+        ],
+        "status": "GTD",
+        "team": "ORL"
+      },
+      {
+        "player_id": 6420,
+        "name": "Jaden McDaniels",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 6173,
+        "name": "Cameron Johnson",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "DEN"
+      },
+      {
+        "player_id": 5765,
+        "name": "Jayson Tatum",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "BOS"
+      },
+      {
+        "player_id": 4390,
+        "name": "Russell Westbrook",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 4840,
+        "name": "Kyrie Irving",
+        "positions": [
+          "PG"
+        ],
+        "status": "INJ",
+        "team": "DAL"
+      }
+    ],
+    "2": [
+      {
+        "player_id": 4612,
+        "name": "Stephen Curry",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 4892,
+        "name": "Klay Thompson",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 5324,
+        "name": "Zach LaVine",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 4244,
+        "name": "Kevin Durant",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 5769,
+        "name": "Lauri Markkanen",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 10296,
+        "name": "Zaccharie Risacher",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6219,
+        "name": "Nic Claxton",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "BKN"
+      },
+      {
+        "player_id": 6572,
+        "name": "Santi Aldama",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 10285,
+        "name": "Donovan Clingan",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 10308,
+        "name": "Quinten Post",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5069,
+        "name": "Draymond Green",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 6549,
+        "name": "Jonathan Kuminga",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5767,
+        "name": "De'Aaron Fox",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "SAS"
+      },
+      {
+        "player_id": 5490,
+        "name": "Kevon Looney",
+        "positions": [
+          "C"
+        ],
+        "status": "INJ",
+        "team": "NOP"
+      }
+    ],
+    "3": [
+      {
+        "player_id": 4563,
+        "name": "James Harden",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 6395,
+        "name": "LaMelo Ball",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 6019,
+        "name": "Collin Sexton",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 5350,
+        "name": "Jerami Grant",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 4896,
+        "name": "Kawhi Leonard",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 5464,
+        "name": "Kristaps Porziņģis",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 5832,
+        "name": "John Collins",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 5294,
+        "name": "Joel Embiid",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6577,
+        "name": "Herbert Jones",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NOP"
+      },
+      {
+        "player_id": 10340,
+        "name": "Jaylen Wells",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6171,
+        "name": "Rui Hachimura",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6558,
+        "name": "Alperen Sengun",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 6167,
+        "name": "Darius Garland",
+        "positions": [
+          "PG"
+        ],
+        "status": "INJ",
+        "team": "CLE"
+      },
+      {
+        "player_id": 4614,
+        "name": "DeMar DeRozan",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 6695,
+        "name": "Jaden Ivey",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "DET"
+      }
+    ],
+    "4": [
+      {
+        "player_id": 6035,
+        "name": "Anfernee Simons",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 5602,
+        "name": "Jaylen Brown",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "GTD",
+        "team": "BOS"
+      },
+      {
+        "player_id": 6513,
+        "name": "Jalen Green",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "PHX"
+      },
+      {
+        "player_id": 10104,
+        "name": "Brandon Miller",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 6165,
+        "name": "RJ Barrett",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 5482,
+        "name": "Bobby Portis",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 6703,
+        "name": "Jalen Duren",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 4897,
+        "name": "Nikola Vučević",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "CHI"
+      },
+      {
+        "player_id": 10115,
+        "name": "Brandin Podziemski",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5484,
+        "name": "Tyus Jones",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 10118,
+        "name": "Cam Whitmore",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 5727,
+        "name": "Fred VanVleet",
+        "positions": [
+          "PG"
+        ],
+        "status": "INJ",
+        "team": "HOU"
+      }
+    ],
+    "5": [
+      {
+        "player_id": 6433,
+        "name": "Tre Jones",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CHI"
+      },
+      {
+        "player_id": 6512,
+        "name": "Cade Cunningham",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 6422,
+        "name": "Desmond Bane",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 10462,
+        "name": "Ace Bailey",
+        "positions": [
+          "SF"
+        ],
+        "status": "GTD",
+        "team": "UTA"
+      },
+      {
+        "player_id": 6025,
+        "name": "Michael Porter Jr.",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "BKN"
+      },
+      {
+        "player_id": 5894,
+        "name": "Chris Boucher",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 5471,
+        "name": "Myles Turner",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 6018,
+        "name": "Wendell Carter Jr.",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 6205,
+        "name": "Nickeil Alexander-Walker",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6166,
+        "name": "De'Andre Hunter",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "GTD",
+        "team": "CLE"
+      },
+      {
+        "player_id": 6022,
+        "name": "Shai Gilgeous-Alexander",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 6564,
+        "name": "Isaiah Jackson",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 10108,
+        "name": "Amen Thompson",
+        "positions": [
+          "PG",
+          "SG",
+          "SF"
+        ],
+        "status": "GTD",
+        "team": "HOU"
+      },
+      {
+        "player_id": 10099,
+        "name": "Bilal Coulibaly",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "INJ",
+        "team": "WAS"
+      }
+    ],
+    "6": [
+      {
+        "player_id": 5187,
+        "name": "Dennis Schröder",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 6254,
+        "name": "Luguentz Dort",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 10467,
+        "name": "Dylan Harper",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 6580,
+        "name": "Ayo Dosunmu",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "CHI"
+      },
+      {
+        "player_id": 6581,
+        "name": "Neemias Queta",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 4245,
+        "name": "Al Horford",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5352,
+        "name": "Nikola Jokić",
+        "positions": [
+          "C"
+        ],
+        "status": "GTD",
+        "team": "DEN"
+      },
+      {
+        "player_id": 6617,
+        "name": "Jay Huff",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 4622,
+        "name": "Jrue Holiday",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 10454,
+        "name": "VJ Edgecombe",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6696,
+        "name": "Bennedict Mathurin",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 6174,
+        "name": "P.J. Washington",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 6694,
+        "name": "Keegan Murray",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "SAC"
+      },
+      {
+        "player_id": 5642,
+        "name": "Domantas Sabonis",
+        "positions": [
+          "C"
+        ],
+        "status": "INJ",
+        "team": "SAC"
+      },
+      {
+        "player_id": 5473,
+        "name": "Devin Booker",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "PHX"
+      }
+    ],
+    "7": [
+      {
+        "player_id": 6044,
+        "name": "Jalen Brunson",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "NYK"
+      },
+      {
+        "player_id": 10100,
+        "name": "Keyonte George",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 5292,
+        "name": "Andrew Wiggins",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 6559,
+        "name": "Trey Murphy III",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NOP"
+      },
+      {
+        "player_id": 5840,
+        "name": "Kyle Kuzma",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 6619,
+        "name": "Sam Hauser",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 5658,
+        "name": "Pascal Siakam",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 5835,
+        "name": "Jarrett Allen",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "CLE"
+      },
+      {
+        "player_id": 4901,
+        "name": "Tobias Harris",
+        "positions": [
+          "PF"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 6218,
+        "name": "Kevin Porter Jr.",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 10288,
+        "name": "Reed Sheppard",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 5637,
+        "name": "Buddy Hield",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5432,
+        "name": "Karl-Anthony Towns",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "GTD",
+        "team": "NYK"
+      },
+      {
+        "player_id": 10065,
+        "name": "Toumani Camara",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "POR"
+      }
+    ],
+    "8": [
+      {
+        "player_id": 6698,
+        "name": "Dyson Daniels",
+        "positions": [
+          "PG",
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6417,
+        "name": "Immanuel Quickley",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 6697,
+        "name": "Shaedon Sharpe",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 10468,
+        "name": "Cooper Flagg",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 6562,
+        "name": "Jalen Johnson",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6023,
+        "name": "Miles Bridges",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 10476,
+        "name": "Ryan Kalkbrenner",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 5827,
+        "name": "Bam Adebayo",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 10265,
+        "name": "Matas Buzelis",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "CHI"
+      },
+      {
+        "player_id": 10450,
+        "name": "Kon Knueppel",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 4886,
+        "name": "Jonas Valančiūnas",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "DEN"
+      },
+      {
+        "player_id": 6711,
+        "name": "Christian Braun",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "DEN"
+      },
+      {
+        "player_id": 6175,
+        "name": "Tyler Herro",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "MIA"
+      },
+      {
+        "player_id": 10273,
+        "name": "Bub Carrington",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "WAS"
+      }
+    ],
+    "9": [
+      {
+        "player_id": 6418,
+        "name": "Payton Pritchard",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 5842,
+        "name": "Derrick White",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 6016,
+        "name": "Trae Young",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 5506,
+        "name": "Norman Powell",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 6015,
+        "name": "Jaren Jackson Jr.",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 5318,
+        "name": "Julius Randle",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 6712,
+        "name": "Walker Kessler",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 6398,
+        "name": "Onyeka Okongwu",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 5161,
+        "name": "CJ McCollum",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 6567,
+        "name": "Quentin Grimes",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6707,
+        "name": "Tari Eason",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 10092,
+        "name": "Jaime Jaquez Jr.",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIA"
+      }
+    ],
+    "10": [
+      {
+        "player_id": 6413,
+        "name": "Tyrese Maxey",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 5754,
+        "name": "Alex Caruso",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 3930,
+        "name": "Chris Paul",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 4725,
+        "name": "Paul George",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6693,
+        "name": "Jabari Smith Jr.",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 5007,
+        "name": "Anthony Davis",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 10094,
+        "name": "Victor Wembanyama",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 6705,
+        "name": "Mark Williams",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "PHX"
+      },
+      {
+        "player_id": 6406,
+        "name": "Aaron Nesmith",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 5013,
+        "name": "Harrison Barnes",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 5159,
+        "name": "Kentavious Caldwell-Pope",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6717,
+        "name": "Nikola Jović",
+        "positions": [
+          "PF"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 10282,
+        "name": "Isaiah Collier",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "UTA"
+      }
+    ],
+    "11": [
+      {
+        "player_id": 6216,
+        "name": "Jordan Poole",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "NOP"
+      },
+      {
+        "player_id": 6515,
+        "name": "Scottie Barnes",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 5601,
+        "name": "Brandon Ingram",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 6691,
+        "name": "Paolo Banchero",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 5856,
+        "name": "Isaiah Hartenstein",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 10294,
+        "name": "Alex Sarr",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 5433,
+        "name": "D'Angelo Russell",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 5824,
+        "name": "Malik Monk",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 10107,
+        "name": "Cason Wallace",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 10272,
+        "name": "Kyshawn George",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 6551,
+        "name": "Davion Mitchell",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 10464,
+        "name": "Yang Hansen",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 10287,
+        "name": "Zach Edey",
+        "positions": [
+          "C"
+        ],
+        "status": "INJ",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6702,
+        "name": "Jalen Williams",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "OKC"
+      },
+      {
+        "player_id": 6556,
+        "name": "Moses Moody",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "INJ",
+        "team": "GSW"
+      }
+    ],
+    "12": [
+      {
+        "player_id": 6548,
+        "name": "Josh Giddey",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CHI"
+      },
+      {
+        "player_id": 6014,
+        "name": "Luka Dončić",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6048,
+        "name": "Gary Trent Jr.",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 6401,
+        "name": "Deni Avdija",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 5073,
+        "name": "Khris Middleton",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 6253,
+        "name": "Naz Reid",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 5640,
+        "name": "Jakob Poeltl",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 4472,
+        "name": "Brook Lopez",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 10290,
+        "name": "Stephon Castle",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 6753,
+        "name": "Keon Ellis",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 4912,
+        "name": "Jimmy Butler III",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 6400,
+        "name": "Obi Toppin",
+        "positions": [
+          "PF"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 3704,
+        "name": "LeBron James",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6404,
+        "name": "Tyrese Haliburton",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "IND"
+      }
+    ],
+    "13": [
+      {
+        "player_id": 6355,
+        "name": "Anthony Edwards",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "GTD",
+        "team": "MIN"
+      },
+      {
+        "player_id": 5636,
+        "name": "Kris Dunn",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 6164,
+        "name": "Ja Morant",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6163,
+        "name": "Zion Williamson",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NOP"
+      },
+      {
+        "player_id": 6514,
+        "name": "Evan Mobley",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "CLE"
+      },
+      {
+        "player_id": 5836,
+        "name": "OG Anunoby",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "GTD",
+        "team": "NYK"
+      },
+      {
+        "player_id": 5197,
+        "name": "Rudy Gobert",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 10274,
+        "name": "Kel'el Ware",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "GTD",
+        "team": "MIA"
+      },
+      {
+        "player_id": 10097,
+        "name": "Dereck Lively II",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 5858,
+        "name": "Dillon Brooks",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "PHX"
+      },
+      {
+        "player_id": 5638,
+        "name": "Jamal Murray",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "GTD",
+        "team": "DEN"
+      },
+      {
+        "player_id": 6597,
+        "name": "Aaron Wiggins",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "OKC"
+      }
+    ],
+    "14": [
+      {
+        "player_id": 6606,
+        "name": "Austin Reaves",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 5843,
+        "name": "Josh Hart",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "NYK"
+      },
+      {
+        "player_id": 6569,
+        "name": "Cam Thomas",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "BKN"
+      },
+      {
+        "player_id": 6550,
+        "name": "Franz Wagner",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 6021,
+        "name": "Mikal Bridges",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NYK"
+      },
+      {
+        "player_id": 10096,
+        "name": "Ausar Thompson",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 5663,
+        "name": "Ivica Zubac",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 5958,
+        "name": "Deandre Ayton",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6028,
+        "name": "Donte DiVincenzo",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 6403,
+        "name": "Devin Vassell",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 5295,
+        "name": "Aaron Gordon",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "GTD",
+        "team": "DEN"
+      },
+      {
+        "player_id": 5475,
+        "name": "Kelly Oubre Jr.",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6169,
+        "name": "Coby White",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "CHI"
+      }
+    ]
+  },
+  "last_updated": "2025-10-22 16:15:00"
+}

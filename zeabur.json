@@ -1,0 +1,23 @@
+{
+  "name": "fantasy-basketball-data-center",
+  "services": [
+    {
+      "name": "data-center",
+      "buildCommand": "npm install",
+      "startCommand": "npm start",
+      "environment": "node",
+      "rootDirectory": "./",
+      "outputDirectory": "./",
+      "envVars": [
+        "PORT",
+        "NODE_ENV"
+      ],
+      "ports": [
+        {
+          "containerPort": 8080,
+          "protocol": "HTTP"
+        }
+      ]
+    }
+  ]
+}
