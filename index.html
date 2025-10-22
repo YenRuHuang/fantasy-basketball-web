@@ -33,13 +33,51 @@
             margin-bottom: 25px;
             box-shadow: 0 15px 40px rgba(0,0,0,0.25);
         }
+        
+        /* 分頁容器 - 新增滑動提示 */
+        .tabs-wrapper {
+            position: relative;
+            margin-bottom: 25px;
+        }
+        
         .tabs {
             display: flex;
             gap: 5px;
-            margin-bottom: 25px;
             border-bottom: 3px solid #e5e7eb;
             overflow-x: auto;
+            overflow-y: hidden;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none; /* Firefox */
+            scroll-behavior: smooth;
         }
+        
+        .tabs::-webkit-scrollbar {
+            display: none; /* Chrome, Safari */
+        }
+        
+        /* 滑動提示箭頭 */
+        .scroll-indicator {
+            display: none;
+            position: absolute;
+            right: 0;
+            top: 0;
+            bottom: 3px;
+            width: 60px;
+            background: linear-gradient(90deg, transparent 0%, rgba(126, 34, 206, 0.9) 100%);
+            pointer-events: none;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 10px;
+            color: white;
+            font-size: 24px;
+            animation: pulse 2s ease-in-out infinite;
+        }
+        
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+        
         .tab {
             padding: 15px 25px;
             background: transparent;
@@ -52,6 +90,7 @@
             border-bottom: 3px solid transparent;
             white-space: nowrap;
             font-family: inherit;
+            flex-shrink: 0; /* 防止壓縮 */
         }
         .tab.active { color: #7e22ce; border-bottom-color: #7e22ce; font-weight: 700; }
         .tab:hover:not(.active) { color: #9333ea; background: rgba(126, 34, 206, 0.05); }
@@ -150,6 +189,7 @@
             border-radius: 50%;
             font-weight: 700;
             color: white;
+            font-size: 14px;
         }
         .rank-1 { background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%); color: #333; }
         .rank-2 { background: linear-gradient(135deg, #c0c0c0 0%, #e8e8e8 100%); color: #333; }
@@ -165,14 +205,95 @@
             background: #7e22ce;
             color: white;
         }
+        
+        /* 手機版優化 */
         @media (max-width: 768px) {
-            h1 { font-size: 2em; }
-            .tabs { gap: 0; }
-            .tab { padding: 12px 16px; font-size: 14px; }
+            body { padding: 10px; }
+            h1 { font-size: 1.8em; letter-spacing: 1px; }
+            .subtitle { font-size: 0.95em; }
+            .last-update { font-size: 0.85em; }
+            .card { padding: 20px; border-radius: 15px; }
+            
+            /* 顯示滑動提示 */
+            .scroll-indicator { display: flex; }
+            
+            .tabs { gap: 0; padding-right: 60px; }
+            .tab { 
+                padding: 12px 20px; 
+                font-size: 15px;
+                min-width: auto;
+            }
+            
+            /* 表格優化 - 使用卡片式佈局 */
+            .standings-mobile {
+                display: block;
+            }
+            
+            .standings-mobile table {
+                display: none; /* 隱藏原本的表格 */
+            }
+            
+            .team-card {
+                background: #f9fafb;
+                border-radius: 12px;
+                padding: 15px;
+                margin-bottom: 12px;
+                border-left: 4px solid #7e22ce;
+                box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            }
+            
+            .team-card-header {
+                display: flex;
+                align-items: center;
+                margin-bottom: 12px;
+                padding-bottom: 12px;
+                border-bottom: 2px solid #e5e7eb;
+            }
+            
+            .team-card-rank {
+                margin-right: 12px;
+            }
+            
+            .team-card-name {
+                flex: 1;
+                font-size: 1.1em;
+                font-weight: 700;
+                color: #1f2937;
+            }
+            
+            .team-card-body {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 10px;
+            }
+            
+            .team-card-stat {
+                display: flex;
+                flex-direction: column;
+            }
+            
+            .team-card-stat-label {
+                font-size: 0.85em;
+                color: #6b7280;
+                margin-bottom: 4px;
+            }
+            
+            .team-card-stat-value {
+                font-size: 1.1em;
+                font-weight: 700;
+                color: #1f2937;
+            }
+            
+            /* 其他表格保持滾動 */
             table { font-size: 13px; }
-            th, td { padding: 10px 8px; }
+            th, td { padding: 10px 6px; }
             .stats-grid { grid-template-columns: 1fr; }
             .stat-value { font-size: 1.5em; }
+            
+            .position-badge {
+                padding: 3px 8px;
+                font-size: 0.75em;
+            }
         }
     </style>
 </head>
@@ -184,17 +305,22 @@
             <div class="last-update" id="last-update">載入中...</div>
         </header>
 
-        <div class="tabs">
-            <button class="tab active" onclick="showTab('standings')">聯盟排名</button>
-            <button class="tab" onclick="showTab('matchups')">本週對戰</button>
-            <button class="tab" onclick="showTab('schedule')">完整賽程</button>
-            <button class="tab" onclick="showTab('roster')">球員陣容</button>
-            <button class="tab" onclick="showTab('stats')">球隊統計</button>
-            <button class="tab" onclick="showTab('info')">聯盟資訊</button>
+        <div class="tabs-wrapper">
+            <div class="tabs" id="tabs-container">
+                <button class="tab active" onclick="showTab('standings')">聯盟排名</button>
+                <button class="tab" onclick="showTab('matchups')">本週對戰</button>
+                <button class="tab" onclick="showTab('schedule')">完整賽程</button>
+                <button class="tab" onclick="showTab('roster')">球員陣容</button>
+                <button class="tab" onclick="showTab('stats')">球隊統計</button>
+                <button class="tab" onclick="showTab('info')">聯盟資訊</button>
+            </div>
+            <div class="scroll-indicator">→</div>
         </div>
 
         <div id="standings-tab" class="tab-content active">
-            <div class="card"><div id="standings-content"><div class="loading">載入排名數據</div></div></div>
+            <div class="card">
+                <div id="standings-content"><div class="loading">載入排名數據</div></div>
+            </div>
         </div>
 
         <div id="matchups-tab" class="tab-content">
@@ -238,6 +364,27 @@
 
     <script>
         let leagueData = null;
+        
+        // 檢查是否為手機
+        function isMobile() {
+            return window.innerWidth <= 768;
+        }
+        
+        // 隱藏滑動提示（當滾動到最右邊）
+        function checkScrollIndicator() {
+            const tabsContainer = document.getElementById('tabs-container');
+            const indicator = document.querySelector('.scroll-indicator');
+            
+            if (tabsContainer && indicator) {
+                const isAtEnd = tabsContainer.scrollLeft + tabsContainer.clientWidth >= tabsContainer.scrollWidth - 10;
+                indicator.style.display = isAtEnd ? 'none' : 'flex';
+            }
+        }
+        
+        // 監聽滾動
+        document.getElementById('tabs-container')?.addEventListener('scroll', checkScrollIndicator);
+        window.addEventListener('resize', checkScrollIndicator);
+        
         async function loadData() {
             try {
                 try {
@@ -253,10 +400,16 @@
                 alert('無法載入數據，請稍後再試');
             }
         }
+        
         function initializeApp() {
             if (leagueData.last_updated) document.getElementById('last-update').textContent = `最後更新: ${leagueData.last_updated}`;
-            populateTeamSelects(); loadStandings(); loadMatchups(); loadInfo();
+            populateTeamSelects(); 
+            loadStandings(); 
+            loadMatchups(); 
+            loadInfo();
+            checkScrollIndicator();
         }
+        
         function populateTeamSelects() {
             const teams = leagueData.teams;
             ['team-select-roster', 'team-select-stats', 'team-select-schedule'].forEach(selectId => {
@@ -269,19 +422,64 @@
                 });
             });
         }
+        
         function loadStandings() {
             const teams = leagueData.teams.sort((a, b) => a.rank - b.rank);
             const content = document.getElementById('standings-content');
-            let html = '<table><thead><tr><th>排名</th><th>隊伍名稱</th><th>經理</th><th>勝</th><th>負</th><th>和</th><th>勝率</th></tr></thead><tbody>';
-            teams.forEach(team => {
-                const total = team.wins + team.losses + team.ties;
-                const winRate = total > 0 ? (team.wins / total * 100).toFixed(1) : '0.0';
-                const rankClass = team.rank === 1 ? 'rank-1' : team.rank === 2 ? 'rank-2' : team.rank === 3 ? 'rank-3' : 'rank-other';
-                html += `<tr><td><span class="rank-badge ${rankClass}">${team.rank}</span></td><td><strong>${team.team_name}</strong></td><td>${team.manager}</td><td><strong>${team.wins}</strong></td><td>${team.losses}</td><td>${team.ties}</td><td>${winRate}%</td></tr>`;
-            });
-            html += '</tbody></table>';
-            content.innerHTML = html;
+            
+            if (isMobile()) {
+                // 手機版：使用卡片式佈局
+                let html = '<div class="standings-mobile">';
+                teams.forEach(team => {
+                    const total = team.wins + team.losses + team.ties;
+                    const winRate = total > 0 ? (team.wins / total * 100).toFixed(1) : '0.0';
+                    const rankClass = team.rank === 1 ? 'rank-1' : team.rank === 2 ? 'rank-2' : team.rank === 3 ? 'rank-3' : 'rank-other';
+                    
+                    html += `
+                        <div class="team-card">
+                            <div class="team-card-header">
+                                <div class="team-card-rank">
+                                    <span class="rank-badge ${rankClass}">${team.rank}</span>
+                                </div>
+                                <div class="team-card-name">${team.team_name}</div>
+                            </div>
+                            <div class="team-card-body">
+                                <div class="team-card-stat">
+                                    <div class="team-card-stat-label">經理</div>
+                                    <div class="team-card-stat-value">${team.manager}</div>
+                                </div>
+                                <div class="team-card-stat">
+                                    <div class="team-card-stat-label">戰績</div>
+                                    <div class="team-card-stat-value">${team.wins}-${team.losses}-${team.ties}</div>
+                                </div>
+                                <div class="team-card-stat">
+                                    <div class="team-card-stat-label">勝率</div>
+                                    <div class="team-card-stat-value">${winRate}%</div>
+                                </div>
+                                <div class="team-card-stat">
+                                    <div class="team-card-stat-label">排名</div>
+                                    <div class="team-card-stat-value">#${team.rank}</div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                });
+                html += '</div>';
+                content.innerHTML = html;
+            } else {
+                // 桌面版：使用表格
+                let html = '<table><thead><tr><th>排名</th><th>隊伍名稱</th><th>經理</th><th>勝</th><th>負</th><th>和</th><th>勝率</th></tr></thead><tbody>';
+                teams.forEach(team => {
+                    const total = team.wins + team.losses + team.ties;
+                    const winRate = total > 0 ? (team.wins / total * 100).toFixed(1) : '0.0';
+                    const rankClass = team.rank === 1 ? 'rank-1' : team.rank === 2 ? 'rank-2' : team.rank === 3 ? 'rank-3' : 'rank-other';
+                    html += `<tr><td><span class="rank-badge ${rankClass}">${team.rank}</span></td><td><strong>${team.team_name}</strong></td><td>${team.manager}</td><td><strong>${team.wins}</strong></td><td>${team.losses}</td><td>${team.ties}</td><td>${winRate}%</td></tr>`;
+                });
+                html += '</tbody></table>';
+                content.innerHTML = html;
+            }
         }
+        
         function loadMatchups() {
             const currentWeek = leagueData.current_week;
             const matchups = leagueData.matchups_by_week[`week_${currentWeek}`] || [];
@@ -294,6 +492,7 @@
             html += '</tbody></table>';
             content.innerHTML = html;
         }
+        
         function loadRoster() {
             const teamId = document.getElementById('team-select-roster').value;
             if (!teamId) return;
@@ -309,6 +508,7 @@
             html += '</tbody></table>';
             content.innerHTML = html;
         }
+        
         function loadStats() {
             const teamId = document.getElementById('team-select-stats').value;
             if (!teamId) return;
@@ -319,6 +519,7 @@
             const content = document.getElementById('stats-content');
             content.innerHTML = `<h2 style="margin-bottom: 20px; color: #7e22ce;">${team.team_name} - 統計數據</h2><div class="stats-grid"><div class="stat-item"><div class="stat-label">球員數量</div><div class="stat-value">${roster.length}</div></div><div class="stat-item"><div class="stat-label">經理</div><div class="stat-value" style="font-size: 1.3em;">${team.manager}</div></div><div class="stat-item"><div class="stat-label">戰績</div><div class="stat-value">${team.wins}-${team.losses}-${team.ties}</div></div><div class="stat-item"><div class="stat-label">PG</div><div class="stat-value">${positionCounts['PG'] || 0}</div></div><div class="stat-item"><div class="stat-label">SG</div><div class="stat-value">${positionCounts['SG'] || 0}</div></div><div class="stat-item"><div class="stat-label">SF</div><div class="stat-value">${positionCounts['SF'] || 0}</div></div><div class="stat-item"><div class="stat-label">PF</div><div class="stat-value">${positionCounts['PF'] || 0}</div></div><div class="stat-item"><div class="stat-label">C</div><div class="stat-value">${positionCounts['C'] || 0}</div></div></div>`;
         }
+        
         function loadSchedule() {
             const teamId = document.getElementById('team-select-schedule').value;
             if (!teamId) return;
@@ -336,17 +537,26 @@
             html += '</tbody></table>';
             content.innerHTML = html;
         }
+        
         function loadInfo() {
             const content = document.getElementById('info-content');
             content.innerHTML = `<h2 style="margin-bottom: 20px; color: #7e22ce;">聯盟資訊</h2><div class="stats-grid"><div class="stat-item"><div class="stat-label">聯盟名稱</div><div class="stat-value" style="font-size: 1.5em;">${leagueData.league_name}</div></div><div class="stat-item"><div class="stat-label">聯盟 ID</div><div class="stat-value" style="font-size: 1.3em;">${leagueData.league_id}</div></div><div class="stat-item"><div class="stat-label">隊伍數量</div><div class="stat-value">${leagueData.num_teams}</div></div><div class="stat-item"><div class="stat-label">當前週次</div><div class="stat-value">Week ${leagueData.current_week}</div></div><div class="stat-item"><div class="stat-label">賽季</div><div class="stat-value">${leagueData.season}</div></div><div class="stat-item"><div class="stat-label">賽季總週數</div><div class="stat-value">${leagueData.total_weeks}</div></div></div>`;
         }
+        
         function showTab(tabName) {
             document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
             document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
             document.getElementById(`${tabName}-tab`).classList.add('active');
             event.target.classList.add('active');
         }
+        
         window.onload = loadData;
+        window.addEventListener('resize', () => {
+            // 當螢幕大小改變時重新載入排名（切換卡片/表格模式）
+            if (leagueData && document.getElementById('standings-tab').classList.contains('active')) {
+                loadStandings();
+            }
+        });
     </script>
 </body>
 </html>
