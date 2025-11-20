@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy 大亂鬥 Data Center</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .selector {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+            font-size: 1.1em;
+        }
+
+        select {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #667eea;
+            border-radius: 8px;
+            background: white;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        select:hover {
+            border-color: #764ba2;
+        }
+
+        select:focus {
+            outline: none;
+            border-color: #764ba2;
+            box-shadow: 0 0 0 3px rgba(118, 75, 162, 0.1);
+        }
+
+        .roster-grid {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #eee;
+        }
+
+        tr:hover {
+            background: #f8f9fa;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .stat-item {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .stat-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 5px;
+        }
+
+        .stat-value {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+            font-size: 1.2em;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            border-bottom: 2px solid #eee;
+        }
+
+        .tab {
+            padding: 12px 24px;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+            color: #666;
+            transition: all 0.3s;
+            border-bottom: 3px solid transparent;
+        }
+
+        .tab.active {
+            color: #667eea;
+            border-bottom-color: #667eea;
+            font-weight: 600;
+        }
+
+        .tab:hover {
+            color: #667eea;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            .stats-grid {
+                grid-template-columns: 1fr;
+            }
+
+            table {
+                font-size: 0.9em;
+            }
+
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏀 Fantasy 大亂鬥 Data Center</h1>
+
+        <div class="tabs">
+            <button class="tab active" onclick="showTab('roster')">球員陣容</button>
+            <button class="tab" onclick="showTab('stats')">球隊統計</button>
+            <button class="tab" onclick="showTab('schedule')">完整賽程</button>
+        </div>
+
+        <!-- 球員陣容 -->
+        <div id="roster-tab" class="tab-content active">
+            <div class="card">
+                <div class="selector">
+                    <label for="team-select-roster">選擇隊伍：</label>
+                    <select id="team-select-roster" onchange="loadRoster()">
+                        <option value="">請選擇...</option>
+                    </select>
+                </div>
+
+                <div id="roster-content" class="roster-grid">
+                    <div class="loading">請選擇一支隊伍</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 球隊統計 -->
+        <div id="stats-tab" class="tab-content">
+            <div class="card">
+                <div class="selector">
+                    <label for="team-select-stats">選擇隊伍：</label>
+                    <select id="team-select-stats" onchange="loadStats()">
+                        <option value="">請選擇...</option>
+                    </select>
+                </div>
+
+                <div id="stats-content">
+                    <div class="loading">請選擇一支隊伍</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 完整賽程 -->
+        <div id="schedule-tab" class="tab-content">
+            <div class="card">
+                <div class="selector">
+                    <label for="team-select-schedule">選擇隊伍：</label>
+                    <select id="team-select-schedule" onchange="loadSchedule()">
+                        <option value="">請選擇...</option>
+                    </select>
+                </div>
+
+                <div id="schedule-content" class="roster-grid">
+                    <div class="loading">請選擇一支隊伍</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 從 JSON 載入數據
+        let leagueData = null;
+
+        async function loadData() {
+            try {
+                // 這裡需要從你的伺服器載入 full_league_data.json
+                // 暫時使用本地數據
+                const response = await fetch('data/full_league_data.json');
+                leagueData = await response.json();
+
+                populateTeamSelects();
+            } catch (error) {
+                console.error('載入數據失敗:', error);
+                alert('無法載入數據，請稍後再試');
+            }
+        }
+
+        function populateTeamSelects() {
+            const teams = leagueData.teams;
+            const selects = ['team-select-roster', 'team-select-stats', 'team-select-schedule'];
+
+            selects.forEach(selectId => {
+                const select = document.getElementById(selectId);
+                teams.forEach(team => {
+                    const option = document.createElement('option');
+                    option.value = team.team_id;
+                    option.textContent = team.team_name;
+                    select.appendChild(option);
+                });
+            });
+        }
+
+        function loadRoster() {
+            const teamId = document.getElementById('team-select-roster').value;
+            if (!teamId) return;
+
+            const roster = leagueData.rosters[teamId];
+            const content = document.getElementById('roster-content');
+
+            if (!roster || roster.length === 0) {
+                content.innerHTML = '<div class="loading">此隊伍沒有球員數據</div>';
+                return;
+            }
+
+            let html = `
+                <table>
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>球員名稱</th>
+                            <th>NBA隊伍</th>
+                            <th>位置</th>
+                            <th>狀態</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            roster.forEach((player, index) => {
+                html += `
+                    <tr>
+                        <td>${index + 1}</td>
+                        <td><strong>${player.name}</strong></td>
+                        <td>${player.team || '-'}</td>
+                        <td>${player.positions.join(', ')}</td>
+                        <td>${player.status || '-'}</td>
+                    </tr>
+                `;
+            });
+
+            html += '</tbody></table>';
+            content.innerHTML = html;
+        }
+
+        function loadStats() {
+            const teamId = document.getElementById('team-select-stats').value;
+            if (!teamId) return;
+
+            const team = leagueData.teams.find(t => t.team_id == teamId);
+            const roster = leagueData.rosters[teamId] || [];
+
+            // 計算位置分佈
+            const positionCounts = {};
+            roster.forEach(player => {
+                player.positions.forEach(pos => {
+                    positionCounts[pos] = (positionCounts[pos] || 0) + 1;
+                });
+            });
+
+            const content = document.getElementById('stats-content');
+            content.innerHTML = `
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-label">球員數量</div>
+                        <div class="stat-value">${roster.length}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">經理</div>
+                        <div class="stat-value">${team.manager}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">戰績</div>
+                        <div class="stat-value">${team.wins}-${team.losses}-${team.ties}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">PG</div>
+                        <div class="stat-value">${positionCounts['PG'] || 0}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">SG</div>
+                        <div class="stat-value">${positionCounts['SG'] || 0}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">SF</div>
+                        <div class="stat-value">${positionCounts['SF'] || 0}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">PF</div>
+                        <div class="stat-value">${positionCounts['PF'] || 0}</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-label">C</div>
+                        <div class="stat-value">${positionCounts['C'] || 0}</div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function loadSchedule() {
+            const teamId = document.getElementById('team-select-schedule').value;
+            if (!teamId) return;
+
+            const team = leagueData.teams.find(t => t.team_id == teamId);
+            const schedule = leagueData.team_schedules[teamId];
+
+            const content = document.getElementById('schedule-content');
+
+            let html = `
+                <h3 style="margin-bottom: 15px;">${team.team_name} - 完整賽程</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>週次</th>
+                            <th>對手</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+            `;
+
+            for (let week = 1; week <= 19; week++) {
+                const weekKey = week.toString();
+                const opponent = schedule[weekKey];
+                html += `
+                    <tr>
+                        <td><strong>Week ${week}</strong></td>
+                        <td>${opponent ? opponent.opponent_name : '-'}</td>
+                    </tr>
+                `;
+            }
+
+            html += '</tbody></table>';
+            content.innerHTML = html;
+        }
+
+        function showTab(tabName) {
+            // 隱藏所有分頁
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+
+            // 顯示選中的分頁
+            document.getElementById(`${tabName}-tab`).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        // 頁面載入時初始化
+        window.onload = loadData;
+    </script>
+</body>
+</html>
