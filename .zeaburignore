@@ -1,0 +1,7 @@
+# Ignore Python files to prevent Zeabur from detecting this as a Python project
+*.py
+requirements.txt
+config/
+data/
+logs/
+.git_backup/

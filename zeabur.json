@@ -1,21 +1,4 @@
 {
-  "name": "snakestar-basketball-data-center",
-  "services": [
-    {
-      "name": "data-center",
-      "buildCommand": "npm install",
-      "startCommand": "npm start",
-      "environment": "node",
-      "envVars": [
-        "PORT",
-        "NODE_ENV"
-      ],
-      "ports": [
-        {
-          "containerPort": 8080,
-          "protocol": "HTTP"
-        }
-      ]
-    }
-  ]
+  "buildCommand": "npm install",
+  "startCommand": "npm start"
 }
