@@ -56,7 +56,7 @@ if has_games:
         team_strengths[team_id] = win_rate
 else:
     # 比賽尚未開始，使用球員陣容強度評估
-    print(\"  (比賽尚未開始，使用球員陣容強度評估隊伍實力)\")\n    
+    print("  (比賽尚未開始，使用球員陣容強度評估隊伍實力)")    
     # 計算每隊的球員數和多位置球員數
     roster_scores = {}
     for team in teams:

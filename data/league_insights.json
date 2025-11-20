@@ -1,427 +1,427 @@
 {
-  "generated_at": "2025-11-21 00:56:34",
+  "generated_at": "2025-11-21 01:05:20",
   "league_name": "大亂鬥",
   "current_week": 5,
   "total_weeks": 22,
   "insights": {
     "schedule_difficulty": [
       {
-        "team_name": "默絲佛陀攝影掃地伯",
-        "team_id": "1",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
+        "team_name": "Stojakovic",
+        "team_id": "6",
+        "current_win_rate": 0.466,
+        "avg_opponent_strength": 0.646,
+        "difficulty_level": "困難",
+        "emoji": "🔴",
         "future_opponents": [
           {
             "week": 5,
-            "opponent": "Lakers in 5",
-            "win_rate": 0.5
+            "opponent": "王美露の爹",
+            "win_rate": 0.7
           },
           {
             "week": 6,
-            "opponent": "雷霆總冠軍",
-            "win_rate": 0.5
+            "opponent": "會演是英雄",
+            "win_rate": 0.583
           },
           {
             "week": 7,
-            "opponent": "櫻木花道",
-            "win_rate": 0.5
+            "opponent": "Super呆呆",
+            "win_rate": 0.7
           },
           {
             "week": 8,
-            "opponent": "李知恩圖報",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "哎呦蠻大的",
-        "team_id": "2",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "Fu班的捍衛戰士獨行俠",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "Great Team",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "Lakers in 5",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "雷霆總冠軍",
-            "win_rate": 0.5
+            "opponent": "振彥's First-Class Team",
+            "win_rate": 0.602
           }
         ]
       },
       {
         "team_name": "Fu班的捍衛戰士獨行俠",
         "team_id": "3",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
+        "current_win_rate": 0.583,
+        "avg_opponent_strength": 0.622,
+        "difficulty_level": "困難",
+        "emoji": "🔴",
         "future_opponents": [
           {
             "week": 5,
             "opponent": "哎呦蠻大的",
-            "win_rate": 0.5
+            "win_rate": 0.505
           },
           {
             "week": 6,
             "opponent": "王美露の爹",
-            "win_rate": 0.5
+            "win_rate": 0.7
           },
           {
             "week": 7,
             "opponent": "會演是英雄",
-            "win_rate": 0.5
+            "win_rate": 0.583
           },
           {
             "week": 8,
             "opponent": "Super呆呆",
-            "win_rate": 0.5
+            "win_rate": 0.7
           }
         ]
       },
       {
         "team_name": "Great Team",
         "team_id": "4",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
+        "current_win_rate": 0.417,
+        "avg_opponent_strength": 0.585,
         "difficulty_level": "中等",
         "emoji": "🟡",
         "future_opponents": [
           {
             "week": 5,
             "opponent": "李知恩圖報",
-            "win_rate": 0.5
+            "win_rate": 0.554
           },
           {
             "week": 6,
             "opponent": "哎呦蠻大的",
-            "win_rate": 0.5
+            "win_rate": 0.505
           },
           {
             "week": 7,
             "opponent": "王美露の爹",
-            "win_rate": 0.5
+            "win_rate": 0.7
           },
           {
             "week": 8,
             "opponent": "會演是英雄",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "JW999",
-        "team_id": "5",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "會演是英雄",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "Super呆呆",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "振彥's First-Class Team",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "櫻木花道",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "Stojakovic",
-        "team_id": "6",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "王美露の爹",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "會演是英雄",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "Super呆呆",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "振彥's First-Class Team",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "Super呆呆",
-        "team_id": "7",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "振彥's First-Class Team",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "JW999",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "Stojakovic",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "Fu班的捍衛戰士獨行俠",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "王美露の爹",
-        "team_id": "8",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "Stojakovic",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "Fu班的捍衛戰士獨行俠",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "Great Team",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "Lakers in 5",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "振彥's First-Class Team",
-        "team_id": "9",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "Super呆呆",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "櫻木花道",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "JW999",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "Stojakovic",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "會演是英雄",
-        "team_id": "10",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "JW999",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "Stojakovic",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "Fu班的捍衛戰士獨行俠",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "Great Team",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "雷霆總冠軍",
-        "team_id": "11",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "櫻木花道",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "默絲佛陀攝影掃地伯",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "李知恩圖報",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "哎呦蠻大的",
-            "win_rate": 0.5
-          }
-        ]
-      },
-      {
-        "team_name": "李知恩圖報",
-        "team_id": "12",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
-        "difficulty_level": "中等",
-        "emoji": "🟡",
-        "future_opponents": [
-          {
-            "week": 5,
-            "opponent": "Great Team",
-            "win_rate": 0.5
-          },
-          {
-            "week": 6,
-            "opponent": "Lakers in 5",
-            "win_rate": 0.5
-          },
-          {
-            "week": 7,
-            "opponent": "雷霆總冠軍",
-            "win_rate": 0.5
-          },
-          {
-            "week": 8,
-            "opponent": "默絲佛陀攝影掃地伯",
-            "win_rate": 0.5
+            "win_rate": 0.583
           }
         ]
       },
       {
         "team_name": "櫻木花道",
         "team_id": "13",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
+        "current_win_rate": 0.3,
+        "avg_opponent_strength": 0.58,
         "difficulty_level": "中等",
         "emoji": "🟡",
         "future_opponents": [
           {
             "week": 5,
             "opponent": "雷霆總冠軍",
-            "win_rate": 0.5
+            "win_rate": 0.583
           },
           {
             "week": 6,
             "opponent": "振彥's First-Class Team",
-            "win_rate": 0.5
+            "win_rate": 0.602
           },
           {
             "week": 7,
             "opponent": "默絲佛陀攝影掃地伯",
-            "win_rate": 0.5
+            "win_rate": 0.485
           },
           {
             "week": 8,
             "opponent": "JW999",
-            "win_rate": 0.5
+            "win_rate": 0.651
+          }
+        ]
+      },
+      {
+        "team_name": "Super呆呆",
+        "team_id": "7",
+        "current_win_rate": 0.7,
+        "avg_opponent_strength": 0.576,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "振彥's First-Class Team",
+            "win_rate": 0.602
+          },
+          {
+            "week": 6,
+            "opponent": "JW999",
+            "win_rate": 0.651
+          },
+          {
+            "week": 7,
+            "opponent": "Stojakovic",
+            "win_rate": 0.466
+          },
+          {
+            "week": 8,
+            "opponent": "Fu班的捍衛戰士獨行俠",
+            "win_rate": 0.583
           }
         ]
       },
       {
         "team_name": "Lakers in 5",
         "team_id": "14",
-        "current_win_rate": 0.5,
-        "avg_opponent_strength": 0.5,
+        "current_win_rate": 0.651,
+        "avg_opponent_strength": 0.561,
         "difficulty_level": "中等",
         "emoji": "🟡",
         "future_opponents": [
           {
             "week": 5,
             "opponent": "默絲佛陀攝影掃地伯",
-            "win_rate": 0.5
+            "win_rate": 0.485
           },
           {
             "week": 6,
             "opponent": "李知恩圖報",
-            "win_rate": 0.5
+            "win_rate": 0.554
           },
           {
             "week": 7,
             "opponent": "哎呦蠻大的",
-            "win_rate": 0.5
+            "win_rate": 0.505
           },
           {
             "week": 8,
             "opponent": "王美露の爹",
-            "win_rate": 0.5
+            "win_rate": 0.7
+          }
+        ]
+      },
+      {
+        "team_name": "哎呦蠻大的",
+        "team_id": "2",
+        "current_win_rate": 0.505,
+        "avg_opponent_strength": 0.559,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "Fu班的捍衛戰士獨行俠",
+            "win_rate": 0.583
+          },
+          {
+            "week": 6,
+            "opponent": "Great Team",
+            "win_rate": 0.417
+          },
+          {
+            "week": 7,
+            "opponent": "Lakers in 5",
+            "win_rate": 0.651
+          },
+          {
+            "week": 8,
+            "opponent": "雷霆總冠軍",
+            "win_rate": 0.583
+          }
+        ]
+      },
+      {
+        "team_name": "JW999",
+        "team_id": "5",
+        "current_win_rate": 0.651,
+        "avg_opponent_strength": 0.546,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "會演是英雄",
+            "win_rate": 0.583
+          },
+          {
+            "week": 6,
+            "opponent": "Super呆呆",
+            "win_rate": 0.7
+          },
+          {
+            "week": 7,
+            "opponent": "振彥's First-Class Team",
+            "win_rate": 0.602
+          },
+          {
+            "week": 8,
+            "opponent": "櫻木花道",
+            "win_rate": 0.3
+          }
+        ]
+      },
+      {
+        "team_name": "李知恩圖報",
+        "team_id": "12",
+        "current_win_rate": 0.554,
+        "avg_opponent_strength": 0.534,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "Great Team",
+            "win_rate": 0.417
+          },
+          {
+            "week": 6,
+            "opponent": "Lakers in 5",
+            "win_rate": 0.651
+          },
+          {
+            "week": 7,
+            "opponent": "雷霆總冠軍",
+            "win_rate": 0.583
+          },
+          {
+            "week": 8,
+            "opponent": "默絲佛陀攝影掃地伯",
+            "win_rate": 0.485
+          }
+        ]
+      },
+      {
+        "team_name": "王美露の爹",
+        "team_id": "8",
+        "current_win_rate": 0.7,
+        "avg_opponent_strength": 0.529,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "Stojakovic",
+            "win_rate": 0.466
+          },
+          {
+            "week": 6,
+            "opponent": "Fu班的捍衛戰士獨行俠",
+            "win_rate": 0.583
+          },
+          {
+            "week": 7,
+            "opponent": "Great Team",
+            "win_rate": 0.417
+          },
+          {
+            "week": 8,
+            "opponent": "Lakers in 5",
+            "win_rate": 0.651
+          }
+        ]
+      },
+      {
+        "team_name": "振彥's First-Class Team",
+        "team_id": "9",
+        "current_win_rate": 0.602,
+        "avg_opponent_strength": 0.529,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "Super呆呆",
+            "win_rate": 0.7
+          },
+          {
+            "week": 6,
+            "opponent": "櫻木花道",
+            "win_rate": 0.3
+          },
+          {
+            "week": 7,
+            "opponent": "JW999",
+            "win_rate": 0.651
+          },
+          {
+            "week": 8,
+            "opponent": "Stojakovic",
+            "win_rate": 0.466
+          }
+        ]
+      },
+      {
+        "team_name": "會演是英雄",
+        "team_id": "10",
+        "current_win_rate": 0.583,
+        "avg_opponent_strength": 0.529,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "JW999",
+            "win_rate": 0.651
+          },
+          {
+            "week": 6,
+            "opponent": "Stojakovic",
+            "win_rate": 0.466
+          },
+          {
+            "week": 7,
+            "opponent": "Fu班的捍衛戰士獨行俠",
+            "win_rate": 0.583
+          },
+          {
+            "week": 8,
+            "opponent": "Great Team",
+            "win_rate": 0.417
+          }
+        ]
+      },
+      {
+        "team_name": "默絲佛陀攝影掃地伯",
+        "team_id": "1",
+        "current_win_rate": 0.485,
+        "avg_opponent_strength": 0.522,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "Lakers in 5",
+            "win_rate": 0.651
+          },
+          {
+            "week": 6,
+            "opponent": "雷霆總冠軍",
+            "win_rate": 0.583
+          },
+          {
+            "week": 7,
+            "opponent": "櫻木花道",
+            "win_rate": 0.3
+          },
+          {
+            "week": 8,
+            "opponent": "李知恩圖報",
+            "win_rate": 0.554
+          }
+        ]
+      },
+      {
+        "team_name": "雷霆總冠軍",
+        "team_id": "11",
+        "current_win_rate": 0.583,
+        "avg_opponent_strength": 0.461,
+        "difficulty_level": "容易",
+        "emoji": "🟢",
+        "future_opponents": [
+          {
+            "week": 5,
+            "opponent": "櫻木花道",
+            "win_rate": 0.3
+          },
+          {
+            "week": 6,
+            "opponent": "默絲佛陀攝影掃地伯",
+            "win_rate": 0.485
+          },
+          {
+            "week": 7,
+            "opponent": "李知恩圖報",
+            "win_rate": 0.554
+          },
+          {
+            "week": 8,
+            "opponent": "哎呦蠻大的",
+            "win_rate": 0.505
           }
         ]
       }
@@ -3304,77 +3304,77 @@
       "current_week": 5,
       "total_matchups": 7,
       "top_matchup": {
-        "team1": "默絲佛陀攝影掃地伯",
-        "team1_wr": 0.5,
-        "team2": "Lakers in 5",
-        "team2_wr": 0.5,
-        "avg_strength": 0.5,
-        "matchup_type": "勢均力敵"
+        "team1": "Super呆呆",
+        "team1_wr": 0.7,
+        "team2": "振彥's First-Class Team",
+        "team2_wr": 0.602,
+        "avg_strength": 0.651,
+        "matchup_type": "強強對決"
       },
       "bottom_matchup": {
         "team1": "雷霆總冠軍",
-        "team1_wr": 0.5,
+        "team1_wr": 0.583,
         "team2": "櫻木花道",
-        "team2_wr": 0.5,
-        "avg_strength": 0.5,
-        "matchup_type": "勢均力敵"
+        "team2_wr": 0.3,
+        "avg_strength": 0.441,
+        "matchup_type": "實力懸殊"
       },
       "all_matchups": [
         {
+          "team1": "Super呆呆",
+          "team1_wr": 0.7,
+          "team2": "振彥's First-Class Team",
+          "team2_wr": 0.602,
+          "avg_strength": 0.651,
+          "matchup_type": "強強對決"
+        },
+        {
+          "team1": "JW999",
+          "team1_wr": 0.651,
+          "team2": "會演是英雄",
+          "team2_wr": 0.583,
+          "avg_strength": 0.617,
+          "matchup_type": "強強對決"
+        },
+        {
+          "team1": "Stojakovic",
+          "team1_wr": 0.466,
+          "team2": "王美露の爹",
+          "team2_wr": 0.7,
+          "avg_strength": 0.583,
+          "matchup_type": "實力懸殊"
+        },
+        {
           "team1": "默絲佛陀攝影掃地伯",
-          "team1_wr": 0.5,
+          "team1_wr": 0.485,
           "team2": "Lakers in 5",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
-          "matchup_type": "勢均力敵"
+          "team2_wr": 0.651,
+          "avg_strength": 0.568,
+          "matchup_type": "實力懸殊"
         },
         {
           "team1": "哎呦蠻大的",
-          "team1_wr": 0.5,
+          "team1_wr": 0.505,
           "team2": "Fu班的捍衛戰士獨行俠",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
+          "team2_wr": 0.583,
+          "avg_strength": 0.544,
           "matchup_type": "勢均力敵"
         },
         {
           "team1": "Great Team",
-          "team1_wr": 0.5,
+          "team1_wr": 0.417,
           "team2": "李知恩圖報",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
-          "matchup_type": "勢均力敵"
-        },
-        {
-          "team1": "JW999",
-          "team1_wr": 0.5,
-          "team2": "會演是英雄",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
-          "matchup_type": "勢均力敵"
-        },
-        {
-          "team1": "Stojakovic",
-          "team1_wr": 0.5,
-          "team2": "王美露の爹",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
-          "matchup_type": "勢均力敵"
-        },
-        {
-          "team1": "Super呆呆",
-          "team1_wr": 0.5,
-          "team2": "振彥's First-Class Team",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
-          "matchup_type": "勢均力敵"
+          "team2_wr": 0.554,
+          "avg_strength": 0.485,
+          "matchup_type": "實力懸殊"
         },
         {
           "team1": "雷霆總冠軍",
-          "team1_wr": 0.5,
+          "team1_wr": 0.583,
           "team2": "櫻木花道",
-          "team2_wr": 0.5,
-          "avg_strength": 0.5,
-          "matchup_type": "勢均力敵"
+          "team2_wr": 0.3,
+          "avg_strength": 0.441,
+          "matchup_type": "實力懸殊"
         }
       ]
     }
