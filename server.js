@@ -14,7 +14,8 @@ const PORT = process.env.PORT || 8080;
 // 中間件
 app.use(cors());
 app.use(express.json());
-app.use(express.static(__dirname));
+app.use(express.static(path.join(__dirname, 'web')));
+app.use('/data', express.static(path.join(__dirname, 'data')));
 
 // 健康檢查
 app.get('/health', (req, res) => {
@@ -90,7 +91,7 @@ app.get('/api/roster/:teamId', (req, res) => {
 
 // 主頁面
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
+    res.sendFile(path.join(__dirname, 'web', 'index.html'));
 });
 
 // 404 處理

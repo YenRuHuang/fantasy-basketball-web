@@ -2556,14 +2556,14 @@
         "team": "CHI"
       },
       {
-        "player_id": 10118,
-        "name": "Cam Whitmore",
+        "player_id": 5482,
+        "name": "Bobby Portis",
         "positions": [
-          "SF",
-          "PF"
+          "PF",
+          "C"
         ],
         "status": "",
-        "team": "WAS"
+        "team": "MIL"
       },
       {
         "player_id": 5602,
@@ -2605,16 +2605,6 @@
         "team": "TOR"
       },
       {
-        "player_id": 10104,
-        "name": "Brandon Miller",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "CHA"
-      },
-      {
         "player_id": 5903,
         "name": "Luke Kornet",
         "positions": [
@@ -2624,14 +2614,24 @@
         "team": "SAS"
       },
       {
-        "player_id": 5482,
-        "name": "Bobby Portis",
+        "player_id": 10118,
+        "name": "Cam Whitmore",
         "positions": [
-          "PF",
-          "C"
+          "SF",
+          "PF"
         ],
         "status": "",
-        "team": "MIL"
+        "team": "WAS"
+      },
+      {
+        "player_id": 10104,
+        "name": "Brandon Miller",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "CHA"
       },
       {
         "player_id": 6513,
@@ -2806,14 +2806,14 @@
     ],
     "6": [
       {
-        "player_id": 6433,
-        "name": "Tre Jones",
+        "player_id": 5473,
+        "name": "Devin Booker",
         "positions": [
           "PG",
           "SG"
         ],
-        "status": "INJ",
-        "team": "CHI"
+        "status": "",
+        "team": "PHX"
       },
       {
         "player_id": 10454,
@@ -2833,6 +2833,16 @@
         ],
         "status": "",
         "team": "IND"
+      },
+      {
+        "player_id": 6694,
+        "name": "Keegan Murray",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "SAC"
       },
       {
         "player_id": 6499,
@@ -2855,15 +2865,6 @@
         "team": "DAL"
       },
       {
-        "player_id": 5352,
-        "name": "Nikola Jokić",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "DEN"
-      },
-      {
         "player_id": 6581,
         "name": "Neemias Queta",
         "positions": [
@@ -2872,6 +2873,15 @@
         ],
         "status": "",
         "team": "BOS"
+      },
+      {
+        "player_id": 5642,
+        "name": "Domantas Sabonis",
+        "positions": [
+          "C"
+        ],
+        "status": "GTD",
+        "team": "SAC"
       },
       {
         "player_id": 6580,
@@ -2894,6 +2904,15 @@
         "team": "SAC"
       },
       {
+        "player_id": 5352,
+        "name": "Nikola Jokić",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "DEN"
+      },
+      {
         "player_id": 5905,
         "name": "Royce O'Neale",
         "positions": [
@@ -2902,26 +2921,6 @@
         ],
         "status": "",
         "team": "PHX"
-      },
-      {
-        "player_id": 5473,
-        "name": "Devin Booker",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "PHX"
-      },
-      {
-        "player_id": 6694,
-        "name": "Keegan Murray",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "SAC"
       },
       {
         "player_id": 4622,
@@ -2934,13 +2933,14 @@
         "team": "POR"
       },
       {
-        "player_id": 5642,
-        "name": "Domantas Sabonis",
+        "player_id": 6433,
+        "name": "Tre Jones",
         "positions": [
-          "C"
+          "PG",
+          "SG"
         ],
-        "status": "GTD",
-        "team": "SAC"
+        "status": "INJ",
+        "team": "CHI"
       },
       {
         "player_id": 10467,
@@ -3140,14 +3140,14 @@
         "team": "DAL"
       },
       {
-        "player_id": 6697,
-        "name": "Shaedon Sharpe",
+        "player_id": 5013,
+        "name": "Harrison Barnes",
         "positions": [
-          "SG",
-          "SF"
+          "SF",
+          "PF"
         ],
-        "status": "GTD",
-        "team": "POR"
+        "status": "",
+        "team": "SAS"
       },
       {
         "player_id": 6562,
@@ -3179,6 +3179,16 @@
         "team": "CHA"
       },
       {
+        "player_id": 5827,
+        "name": "Bam Adebayo",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
         "player_id": 10450,
         "name": "Kon Knueppel",
         "positions": [
@@ -3199,6 +3209,16 @@
         "team": "TOR"
       },
       {
+        "player_id": 6697,
+        "name": "Shaedon Sharpe",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "GTD",
+        "team": "POR"
+      },
+      {
         "player_id": 6023,
         "name": "Miles Bridges",
         "positions": [
@@ -3207,26 +3227,6 @@
         ],
         "status": "",
         "team": "CHA"
-      },
-      {
-        "player_id": 5827,
-        "name": "Bam Adebayo",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "MIA"
-      },
-      {
-        "player_id": 5013,
-        "name": "Harrison Barnes",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "SAS"
       },
       {
         "player_id": 6175,
@@ -4148,5 +4148,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-20 19:31:09"
+  "last_updated": "2025-11-21 00:01:00"
 }
