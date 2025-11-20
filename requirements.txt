@@ -16,3 +16,7 @@ python-dotenv
 # 日期處理
 python-dateutil
 pytz
+
+# Google Sheets
+gspread
+google-auth

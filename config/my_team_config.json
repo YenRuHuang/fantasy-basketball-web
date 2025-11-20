@@ -1,0 +1,15 @@
+{
+  "team_id": "8",
+  "team_name": "默斯佛陀",
+  "manager": "Murs",
+  "service_account_file": "config/google_service_account.json",
+  "spreadsheet_id": "1pUQXTchghIqwBXTZGOSC0ufVfXqHtOjRJK2WqY8oo2A",
+  "sheets": {
+    "roster": "我的陣容",
+    "stats": "球員數據",
+    "matchup": "本週對戰",
+    "schedule": "我的賽程",
+    "analysis": "深度分析",
+    "trades": "交易建議"
+  }
+}

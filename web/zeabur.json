@@ -1,13 +1,11 @@
 {
-  "name": "fantasy-basketball-data-center",
+  "name": "snakestar-basketball-data-center",
   "services": [
     {
       "name": "data-center",
       "buildCommand": "npm install",
       "startCommand": "npm start",
       "environment": "node",
-      "rootDirectory": "./",
-      "outputDirectory": "./",
       "envVars": [
         "PORT",
         "NODE_ENV"

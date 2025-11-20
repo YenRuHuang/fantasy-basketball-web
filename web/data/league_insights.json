@@ -1,0 +1,3302 @@
+{
+  "generated_at": "2025-10-23 12:32:20",
+  "league_name": "蛇星刁手",
+  "current_week": 1,
+  "total_weeks": 23,
+  "insights": {
+    "schedule_difficulty": [
+      {
+        "team_name": "火箭總冠軍",
+        "team_id": "1",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "Derek's Nifty Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "夜光閃亮亮復仇鬼",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "苦命家",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "Hong's Breathtaking Team",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "洋基工程",
+        "team_id": "2",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "高雄肛鐵人",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "Derek's Nifty Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "夜光閃亮亮復仇鬼",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "苦命家",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "Benig",
+        "team_id": "3",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "一顆馬鈴薯",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "默斯佛陀",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "Mayor of New York City",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "焦糖's Wonderful Team",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "苦命家",
+        "team_id": "4",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "Mayor of New York City",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "焦糖's Wonderful Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "火箭總冠軍",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "洋基工程",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "Eugene's Excellent Team",
+        "team_id": "5",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "投錯框被犯規妨礙中籃還and1",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "高雄肛鐵人",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "一顆馬鈴薯",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "Derek's Nifty Team",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "一顆馬鈴薯",
+        "team_id": "6",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "Benig",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "投錯框被犯規妨礙中籃還and1",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "Eugene's Excellent Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "默斯佛陀",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "夜光閃亮亮復仇鬼",
+        "team_id": "7",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "焦糖's Wonderful Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "火箭總冠軍",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "洋基工程",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "高雄肛鐵人",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "默斯佛陀",
+        "team_id": "8",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "Hong's Breathtaking Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "Benig",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "投錯框被犯規妨礙中籃還and1",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "一顆馬鈴薯",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "team_id": "9",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "Eugene's Excellent Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "一顆馬鈴薯",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "默斯佛陀",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "Mayor of New York City",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "Derek's Nifty Team",
+        "team_id": "10",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "火箭總冠軍",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "洋基工程",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "高雄肛鐵人",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "Eugene's Excellent Team",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "Mayor of New York City",
+        "team_id": "11",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "苦命家",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "Hong's Breathtaking Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "Benig",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "投錯框被犯規妨礙中籃還and1",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "Hong's Breathtaking Team",
+        "team_id": "12",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "默斯佛陀",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "Mayor of New York City",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "焦糖's Wonderful Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "火箭總冠軍",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "焦糖's Wonderful Team",
+        "team_id": "13",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "夜光閃亮亮復仇鬼",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "苦命家",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "Hong's Breathtaking Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "Benig",
+            "win_rate": 0.5
+          }
+        ]
+      },
+      {
+        "team_name": "高雄肛鐵人",
+        "team_id": "14",
+        "current_win_rate": 0.5,
+        "avg_opponent_strength": 0.5,
+        "difficulty_level": "中等",
+        "emoji": "🟡",
+        "future_opponents": [
+          {
+            "week": 1,
+            "opponent": "洋基工程",
+            "win_rate": 0.5
+          },
+          {
+            "week": 2,
+            "opponent": "Eugene's Excellent Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 3,
+            "opponent": "Derek's Nifty Team",
+            "win_rate": 0.5
+          },
+          {
+            "week": 4,
+            "opponent": "夜光閃亮亮復仇鬼",
+            "win_rate": 0.5
+          }
+        ]
+      }
+    ],
+    "position_depth": [
+      {
+        "team_name": "火箭總冠軍",
+        "team_id": "1",
+        "total_players": 14,
+        "positions": {
+          "PG": 3,
+          "SG": 5,
+          "SF": 7,
+          "PF": 5,
+          "C": 4
+        },
+        "strongest_position": "SF",
+        "weakest_position": "PG"
+      },
+      {
+        "team_name": "洋基工程",
+        "team_id": "2",
+        "total_players": 13,
+        "positions": {
+          "PG": 3,
+          "SG": 5,
+          "SF": 5,
+          "PF": 3,
+          "C": 5
+        },
+        "strongest_position": "SG",
+        "weakest_position": "PG"
+      },
+      {
+        "team_name": "Benig",
+        "team_id": "3",
+        "total_players": 15,
+        "positions": {
+          "PG": 4,
+          "SG": 6,
+          "SF": 8,
+          "PF": 5,
+          "C": 3
+        },
+        "strongest_position": "SF",
+        "weakest_position": "C"
+      },
+      {
+        "team_name": "苦命家",
+        "team_id": "4",
+        "total_players": 16,
+        "positions": {
+          "PG": 6,
+          "SG": 6,
+          "SF": 7,
+          "PF": 6,
+          "C": 3
+        },
+        "strongest_position": "SF",
+        "weakest_position": "C"
+      },
+      {
+        "team_name": "Eugene's Excellent Team",
+        "team_id": "5",
+        "total_players": 15,
+        "positions": {
+          "PG": 4,
+          "SG": 6,
+          "SF": 6,
+          "PF": 8,
+          "C": 5
+        },
+        "strongest_position": "PF",
+        "weakest_position": "PG"
+      },
+      {
+        "team_name": "一顆馬鈴薯",
+        "team_id": "6",
+        "total_players": 15,
+        "positions": {
+          "PG": 5,
+          "SG": 5,
+          "SF": 5,
+          "PF": 8,
+          "C": 4
+        },
+        "strongest_position": "PF",
+        "weakest_position": "C"
+      },
+      {
+        "team_name": "夜光閃亮亮復仇鬼",
+        "team_id": "7",
+        "total_players": 14,
+        "positions": {
+          "PG": 5,
+          "SG": 6,
+          "SF": 3,
+          "PF": 3,
+          "C": 5
+        },
+        "strongest_position": "SG",
+        "weakest_position": "SF"
+      },
+      {
+        "team_name": "默斯佛陀",
+        "team_id": "8",
+        "total_players": 15,
+        "positions": {
+          "PG": 3,
+          "SG": 7,
+          "SF": 7,
+          "PF": 5,
+          "C": 4
+        },
+        "strongest_position": "SG",
+        "weakest_position": "PG"
+      },
+      {
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "team_id": "9",
+        "total_players": 15,
+        "positions": {
+          "PG": 5,
+          "SG": 6,
+          "SF": 4,
+          "PF": 7,
+          "C": 5
+        },
+        "strongest_position": "PF",
+        "weakest_position": "SF"
+      },
+      {
+        "team_name": "Derek's Nifty Team",
+        "team_id": "10",
+        "total_players": 13,
+        "positions": {
+          "PG": 4,
+          "SG": 6,
+          "SF": 5,
+          "PF": 5,
+          "C": 4
+        },
+        "strongest_position": "SG",
+        "weakest_position": "PG"
+      },
+      {
+        "team_name": "Mayor of New York City",
+        "team_id": "11",
+        "total_players": 16,
+        "positions": {
+          "PG": 7,
+          "SG": 6,
+          "SF": 5,
+          "PF": 3,
+          "C": 4
+        },
+        "strongest_position": "PG",
+        "weakest_position": "PF"
+      },
+      {
+        "team_name": "Hong's Breathtaking Team",
+        "team_id": "12",
+        "total_players": 13,
+        "positions": {
+          "PG": 3,
+          "SG": 4,
+          "SF": 7,
+          "PF": 4,
+          "C": 3
+        },
+        "strongest_position": "SF",
+        "weakest_position": "PG"
+      },
+      {
+        "team_name": "焦糖's Wonderful Team",
+        "team_id": "13",
+        "total_players": 17,
+        "positions": {
+          "PG": 6,
+          "SG": 6,
+          "SF": 5,
+          "PF": 5,
+          "C": 4
+        },
+        "strongest_position": "PG",
+        "weakest_position": "C"
+      },
+      {
+        "team_name": "高雄肛鐵人",
+        "team_id": "14",
+        "total_players": 13,
+        "positions": {
+          "PG": 2,
+          "SG": 6,
+          "SF": 6,
+          "PF": 5,
+          "C": 5
+        },
+        "strongest_position": "SG",
+        "weakest_position": "PG"
+      }
+    ],
+    "trade_reference": [
+      {
+        "player_name": "Brandon Ingram",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "num_positions": 3,
+        "health_status": "健康",
+        "versatility_score": 80,
+        "health_adjustment": 0,
+        "trade_value": 80
+      },
+      {
+        "player_name": "Dyson Daniels",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG",
+          "SG",
+          "SF"
+        ],
+        "num_positions": 3,
+        "health_status": "健康",
+        "versatility_score": 80,
+        "health_adjustment": 0,
+        "trade_value": 80
+      },
+      {
+        "player_name": "Scottie Barnes",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "num_positions": 3,
+        "health_status": "健康",
+        "versatility_score": 80,
+        "health_adjustment": 0,
+        "trade_value": 80
+      },
+      {
+        "player_name": "Keon Ellis",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jrue Holiday",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jaylen Wells",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Dillon Brooks",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Deni Avdija",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Zion Williamson",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Chris Boucher",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Andrew Nembhard",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Christian Braun",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kevin Durant",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Devin Booker",
+        "team_name": "洋基工程",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "AJ Green",
+        "team_name": "洋基工程",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Bradley Beal",
+        "team_name": "洋基工程",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "OG Anunoby",
+        "team_name": "洋基工程",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jaren Jackson Jr.",
+        "team_name": "洋基工程",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jaylen Brown",
+        "team_name": "洋基工程",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Anfernee Simons",
+        "team_name": "洋基工程",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Rui Hachimura",
+        "team_name": "洋基工程",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Donovan Mitchell",
+        "team_name": "Benig",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Amen Thompson",
+        "team_name": "Benig",
+        "positions": [
+          "PG",
+          "SG",
+          "SF"
+        ],
+        "num_positions": 3,
+        "health_status": "每日觀察",
+        "versatility_score": 80,
+        "health_adjustment": -10,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Bennedict Mathurin",
+        "team_name": "Benig",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Brandon Miller",
+        "team_name": "Benig",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jonathan Kuminga",
+        "team_name": "Benig",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Cameron Johnson",
+        "team_name": "Benig",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Ochai Agbaji",
+        "team_name": "Benig",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Ronald Holland II",
+        "team_name": "Benig",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "LaMelo Ball",
+        "team_name": "苦命家",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kawhi Leonard",
+        "team_name": "苦命家",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Michael Porter Jr.",
+        "team_name": "苦命家",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Ausar Thompson",
+        "team_name": "苦命家",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jabari Smith Jr.",
+        "team_name": "苦命家",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jerami Grant",
+        "team_name": "苦命家",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Cade Cunningham",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Derrick White",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Lauri Markkanen",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Evan Mobley",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kyle Kuzma",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "John Collins",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kyle Filipowski",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "CJ McCollum",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Zaccharie Risacher",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Royce O'Neale",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Josh Giddey",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jordan Poole",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Ayo Dosunmu",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Giannis Antetokounmpo",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Naz Reid",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Santi Aldama",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Cam Whitmore",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Aaron Gordon",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Tre Jones",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Shaedon Sharpe",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Toumani Camara",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Paolo Banchero",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kel'el Ware",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Donte DiVincenzo",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Reed Sheppard",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Tim Hardaway Jr.",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Zach LaVine",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Nickeil Alexander-Walker",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "P.J. Washington",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Mikal Bridges",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jalen Johnson",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Anthony Davis",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Quentin Grimes",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Keyonte George",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Buddy Hield",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Anthony Edwards",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Stephon Castle",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Matas Buzelis",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Khris Middleton",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kelly Oubre Jr.",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Bam Adebayo",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kristaps Porziņģis",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Lonzo Ball",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Chet Holmgren",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Bub Carrington",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Desmond Bane",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Devin Vassell",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Tari Eason",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Karl-Anthony Towns",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Bobby Portis",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Brandin Podziemski",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Neemias Queta",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Aaron Wiggins",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Austin Reaves",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Collin Sexton",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Sam Hauser",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Julius Randle",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Immanuel Quickley",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Gary Trent Jr.",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kentavious Caldwell-Pope",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Franz Wagner",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Trey Murphy III",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jaden McDaniels",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Duncan Robinson",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Gradey Dick",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Kyshawn George",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "James Harden",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Miles Bridges",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Herbert Jones",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Cam Thomas",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Taylor Hendricks",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jamal Murray",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Guerschon Yabusele",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Dennis Schröder",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Norman Powell",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Andrew Wiggins",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Jimmy Butler III",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Pascal Siakam",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "RJ Barrett",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Klay Thompson",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Miles McBride",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Draymond Green",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Al Horford",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Nic Claxton",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Brook Lopez",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "DeMar DeRozan",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "SF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Myles Turner",
+        "team_name": "洋基工程",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Nikola Vučević",
+        "team_name": "洋基工程",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Aaron Nesmith",
+        "team_name": "洋基工程",
+        "positions": [
+          "SF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Jay Huff",
+        "team_name": "洋基工程",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Jalen Duren",
+        "team_name": "Benig",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Alex Sarr",
+        "team_name": "Benig",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "VJ Edgecombe",
+        "team_name": "Benig",
+        "positions": [
+          "SG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "D'Angelo Russell",
+        "team_name": "Benig",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Luke Kornet",
+        "team_name": "Benig",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Luka Dončić",
+        "team_name": "苦命家",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "每日觀察",
+        "versatility_score": 70,
+        "health_adjustment": -10,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Chris Paul",
+        "team_name": "苦命家",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Alperen Sengun",
+        "team_name": "苦命家",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Kevin Porter Jr.",
+        "team_name": "苦命家",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "每日觀察",
+        "versatility_score": 70,
+        "health_adjustment": -10,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Ace Bailey",
+        "team_name": "苦命家",
+        "positions": [
+          "SF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Goga Bitadze",
+        "team_name": "苦命家",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Tyus Jones",
+        "team_name": "苦命家",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Paul George",
+        "team_name": "苦命家",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "num_positions": 3,
+        "health_status": "受傷",
+        "versatility_score": 80,
+        "health_adjustment": -20,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Steven Adams",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Ryan Kalkbrenner",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Russell Westbrook",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Cooper Flagg",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "SF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Davion Mitchell",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Josh Hart",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "num_positions": 3,
+        "health_status": "受傷",
+        "versatility_score": 80,
+        "health_adjustment": -20,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Obi Toppin",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Jalen Brunson",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Rudy Gobert",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Donovan Clingan",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Wendell Carter Jr.",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Shai Gilgeous-Alexander",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Malik Monk",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Dereck Lively II",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Deandre Ayton",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Tre Johnson",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "SG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Cason Wallace",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "每日觀察",
+        "versatility_score": 70,
+        "health_adjustment": -10,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Isaiah Hartenstein",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Tyrese Maxey",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Jarrett Allen",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Trae Young",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Tobias Harris",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Joel Embiid",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Walker Kessler",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Jakob Poeltl",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Kon Knueppel",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "SF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Ja Morant",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Payton Pritchard",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Victor Wembanyama",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Onyeka Okongwu",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Jalen Suggs",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Yang Hansen",
+        "team_name": "Hong's Breathtaking Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Dylan Harper",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "SG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Egor Dëmin",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Mark Williams",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Moussa Diabaté",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Nikola Jović",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PF"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Stephen Curry",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Nikola Jokić",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Ivica Zubac",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Luguentz Dort",
+        "team_name": "高雄肛鐵人",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "每日觀察",
+        "versatility_score": 70,
+        "health_adjustment": -10,
+        "trade_value": 60
+      },
+      {
+        "player_name": "Yves Missi",
+        "team_name": "洋基工程",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "每日觀察",
+        "versatility_score": 60,
+        "health_adjustment": -10,
+        "trade_value": 50
+      },
+      {
+        "player_name": "De'Andre Hunter",
+        "team_name": "Benig",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Jaden Ivey",
+        "team_name": "Benig",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Jalen Green",
+        "team_name": "苦命家",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Moses Moody",
+        "team_name": "苦命家",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Alex Caruso",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Coby White",
+        "team_name": "Eugene's Excellent Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "LeBron James",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Isaiah Collier",
+        "team_name": "一顆馬鈴薯",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Jared McCain",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Jalen Williams",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Dejounte Murray",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Jayson Tatum",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Keegan Murray",
+        "team_name": "Derek's Nifty Team",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Tyler Herro",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Bilal Coulibaly",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "De'Aaron Fox",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Domantas Sabonis",
+        "team_name": "火箭總冠軍",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Ty Jerome",
+        "team_name": "夜光閃亮亮復仇鬼",
+        "positions": [
+          "SG"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Daniel Gafford",
+        "team_name": "默斯佛陀",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Mitchell Robinson",
+        "team_name": "投錯框被犯規妨礙中籃還and1",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Kyrie Irving",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Scoot Henderson",
+        "team_name": "Mayor of New York City",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Zach Edey",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Darius Garland",
+        "team_name": "焦糖's Wonderful Team",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      }
+    ],
+    "weekly_report": {
+      "current_week": 1,
+      "total_matchups": 7,
+      "top_matchup": {
+        "team1": "火箭總冠軍",
+        "team1_wr": 0.5,
+        "team2": "Derek's Nifty Team",
+        "team2_wr": 0.5,
+        "avg_strength": 0.5,
+        "matchup_type": "勢均力敵"
+      },
+      "bottom_matchup": {
+        "team1": "默斯佛陀",
+        "team1_wr": 0.5,
+        "team2": "Hong's Breathtaking Team",
+        "team2_wr": 0.5,
+        "avg_strength": 0.5,
+        "matchup_type": "勢均力敵"
+      },
+      "all_matchups": [
+        {
+          "team1": "火箭總冠軍",
+          "team1_wr": 0.5,
+          "team2": "Derek's Nifty Team",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        },
+        {
+          "team1": "洋基工程",
+          "team1_wr": 0.5,
+          "team2": "高雄肛鐵人",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        },
+        {
+          "team1": "Benig",
+          "team1_wr": 0.5,
+          "team2": "一顆馬鈴薯",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        },
+        {
+          "team1": "苦命家",
+          "team1_wr": 0.5,
+          "team2": "Mayor of New York City",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        },
+        {
+          "team1": "Eugene's Excellent Team",
+          "team1_wr": 0.5,
+          "team2": "投錯框被犯規妨礙中籃還and1",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        },
+        {
+          "team1": "夜光閃亮亮復仇鬼",
+          "team1_wr": 0.5,
+          "team2": "焦糖's Wonderful Team",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        },
+        {
+          "team1": "默斯佛陀",
+          "team1_wr": 0.5,
+          "team2": "Hong's Breathtaking Team",
+          "team2_wr": 0.5,
+          "avg_strength": 0.5,
+          "matchup_type": "勢均力敵"
+        }
+      ]
+    }
+  }
+}

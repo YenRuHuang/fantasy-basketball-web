@@ -1,0 +1,15 @@
+{
+  "team_id": "YOUR_TEAM_ID",
+  "team_name": "YOUR_TEAM_NAME",
+  "manager": "YOUR_NAME",
+  "service_account_file": "config/google_service_account.json",
+  "spreadsheet_id": "YOUR_PERSONAL_SPREADSHEET_ID_HERE",
+  "sheets": {
+    "roster": "我的陣容",
+    "stats": "球員數據",
+    "matchup": "本週對戰",
+    "schedule": "我的賽程",
+    "analysis": "深度分析",
+    "trades": "交易建議"
+  }
+}

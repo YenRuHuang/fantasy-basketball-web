@@ -1,0 +1,11 @@
+{
+  "league_name": "蛇星刁手",
+  "service_account_file": "config/google_service_account.json",
+  "spreadsheet_id": "YOUR_SPREADSHEET_ID_HERE",
+  "sheets": {
+    "teams": "隊伍排名",
+    "matchups": "本週對戰",
+    "schedule": "完整賽程",
+    "rosters": "球員陣容"
+  }
+}

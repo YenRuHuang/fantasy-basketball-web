@@ -1,16 +1,16 @@
 {
-  "league_name": "大亂鬥",
-  "league_id": "71325",
+  "league_name": "蛇星刁手",
+  "league_id": "30947",
   "num_teams": 14,
-  "current_week": 5,
-  "total_weeks": 22,
+  "current_week": 1,
+  "total_weeks": 23,
   "season": "2025",
   "teams": [
     {
       "rank": 1,
       "team_id": 1,
-      "team_name": "默絲佛陀攝影掃地伯",
-      "manager": "Murs",
+      "team_name": "火箭總冠軍",
+      "manager": "新皓",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -18,8 +18,8 @@
     {
       "rank": 2,
       "team_id": 2,
-      "team_name": "哎呦蠻大的",
-      "manager": "brian",
+      "team_name": "洋基工程",
+      "manager": "宇軒",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -27,8 +27,8 @@
     {
       "rank": 3,
       "team_id": 3,
-      "team_name": "Fu班的捍衛戰士獨行俠",
-      "manager": "Fu",
+      "team_name": "Benig",
+      "manager": "杜韋喆",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -36,8 +36,8 @@
     {
       "rank": 4,
       "team_id": 4,
-      "team_name": "Great Team",
-      "manager": "昕彤",
+      "team_name": "苦命家",
+      "manager": "brian",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -45,8 +45,8 @@
     {
       "rank": 5,
       "team_id": 5,
-      "team_name": "JW999",
-      "manager": "JW999",
+      "team_name": "Eugene's Excellent Team",
+      "manager": "Eugene",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "team_id": 6,
-      "team_name": "Stojakovic",
-      "manager": "Stojakovic",
+      "team_name": "一顆馬鈴薯",
+      "manager": "EDEN",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -63,8 +63,8 @@
     {
       "rank": 7,
       "team_id": 7,
-      "team_name": "Super呆呆",
-      "manager": "EDEN",
+      "team_name": "夜光閃亮亮復仇鬼",
+      "manager": "雷雷",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -72,8 +72,8 @@
     {
       "rank": 8,
       "team_id": 8,
-      "team_name": "王美露の爹",
-      "manager": "蜆仔",
+      "team_name": "默斯佛陀",
+      "manager": "Murs",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -81,8 +81,8 @@
     {
       "rank": 9,
       "team_id": 9,
-      "team_name": "振彥's First-Class Team",
-      "manager": "振彥",
+      "team_name": "投錯框被犯規妨礙中籃還and1",
+      "manager": "KU",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -90,7 +90,7 @@
     {
       "rank": 10,
       "team_id": 10,
-      "team_name": "會演是英雄",
+      "team_name": "Derek's Nifty Team",
       "manager": "Derek",
       "wins": 0,
       "losses": 0,
@@ -99,8 +99,8 @@
     {
       "rank": 11,
       "team_id": 11,
-      "team_name": "雷霆總冠軍",
-      "manager": "Bruce Lin",
+      "team_name": "Mayor of New York City",
+      "manager": "柏廷",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -108,8 +108,8 @@
     {
       "rank": 12,
       "team_id": 12,
-      "team_name": "李知恩圖報",
-      "manager": "宣宏",
+      "team_name": "Hong's Breathtaking Team",
+      "manager": "Hong",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -117,8 +117,8 @@
     {
       "rank": 13,
       "team_id": 13,
-      "team_name": "櫻木花道",
-      "manager": "新皓",
+      "team_name": "焦糖's Wonderful Team",
+      "manager": "焦糖",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -126,8 +126,8 @@
     {
       "rank": 14,
       "team_id": 14,
-      "team_name": "Lakers in 5",
-      "manager": "Curry",
+      "team_name": "高雄肛鐵人",
+      "manager": "亭諺",
       "wins": 0,
       "losses": 0,
       "ties": 0
@@ -137,2026 +137,2135 @@
     "week_1": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 5,
-        "team2_name": "JW999"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team1_name": "洋基工程",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "Benig",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "苦命家",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
-        "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_id": 5,
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 8,
-        "team1_name": "王美露の爹",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
-      },
-      {
-        "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
+        "team1_name": "默斯佛陀",
         "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team2_name": "Hong's Breathtaking Team"
       }
     ],
     "week_2": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 6,
-        "team2_name": "Stojakovic"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "洋基工程",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_name": "Benig",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "苦命家",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "Mayor of New York City",
         "team2_id": 12,
-        "team2_name": "李知恩圖報"
-      },
-      {
-        "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
-      },
-      {
-        "team1_id": 10,
-        "team1_name": "會演是英雄",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "Hong's Breathtaking Team"
       }
     ],
     "week_3": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 3,
-        "team2_name": "Fu班的捍衛戰士獨行俠"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 4,
+        "team2_name": "苦命家"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 5,
-        "team2_name": "JW999"
+        "team1_name": "洋基工程",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
-        "team1_id": 4,
-        "team1_name": "Great Team",
+        "team1_id": 3,
+        "team1_name": "Benig",
         "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team2_name": "Mayor of New York City"
       },
       {
-        "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
-      },
-      {
-        "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_id": 5,
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
       },
       {
         "team1_id": 8,
-        "team1_name": "王美露の爹",
+        "team1_name": "默斯佛陀",
         "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
-        "team1_id": 13,
-        "team1_name": "櫻木花道",
+        "team1_id": 10,
+        "team1_name": "Derek's Nifty Team",
         "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 12,
+        "team1_name": "Hong's Breathtaking Team",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       }
     ],
     "week_4": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 4,
-        "team2_name": "Great Team"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 6,
-        "team2_name": "Stojakovic"
+        "team1_name": "洋基工程",
+        "team2_id": 4,
+        "team2_name": "苦命家"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "Benig",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "一顆馬鈴薯",
         "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
-      },
-      {
-        "team1_id": 11,
-        "team1_name": "雷霆總冠軍",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       }
     ],
     "week_5": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 3,
+        "team2_name": "Benig"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 3,
-        "team2_name": "Fu班的捍衛戰士獨行俠"
+        "team1_name": "洋基工程",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "苦命家",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
         "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
-        "team1_id": 11,
-        "team1_name": "雷霆總冠軍",
+        "team1_id": 9,
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
         "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "焦糖's Wonderful Team"
       }
     ],
     "week_6": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 4,
-        "team2_name": "Great Team"
+        "team1_name": "洋基工程",
+        "team2_id": 3,
+        "team2_name": "Benig"
       },
       {
-        "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_id": 4,
+        "team1_name": "苦命家",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
+        "team1_name": "Eugene's Excellent Team",
         "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
-        "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_id": 8,
+        "team1_name": "默斯佛陀",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
         "team1_id": 12,
-        "team1_name": "李知恩圖報",
+        "team1_name": "Hong's Breathtaking Team",
         "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team2_name": "高雄肛鐵人"
       }
     ],
     "week_7": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "洋基工程",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "Benig",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_name": "苦命家",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
-        "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team1_id": 8,
+        "team1_name": "默斯佛陀",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
-        "team1_id": 11,
-        "team1_name": "雷霆總冠軍",
+        "team1_id": 10,
+        "team1_name": "Derek's Nifty Team",
         "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team2_name": "Hong's Breathtaking Team"
       }
     ],
     "week_8": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_name": "洋基工程",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team1_name": "Benig",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "苦命家",
+        "team2_id": 5,
+        "team2_name": "Eugene's Excellent Team"
       },
       {
-        "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_id": 7,
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
-        "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
-      },
-      {
-        "team1_id": 8,
-        "team1_name": "王美露の爹",
+        "team1_id": 9,
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
         "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "Mayor of New York City",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       }
     ],
     "week_9": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 2,
-        "team2_name": "哎呦蠻大的"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "洋基工程",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "Benig",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team1_name": "苦命家",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 6,
-        "team2_name": "Stojakovic"
-      },
-      {
-        "team1_id": 8,
-        "team1_name": "王美露の爹",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
-      },
-      {
-        "team1_id": 10,
-        "team1_name": "會演是英雄",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
-      },
-      {
-        "team1_id": 12,
-        "team1_name": "李知恩圖報",
+        "team1_name": "Eugene's Excellent Team",
         "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "焦糖's Wonderful Team"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 9,
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       }
     ],
     "week_10": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "洋基工程",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 5,
-        "team2_name": "JW999"
+        "team1_name": "Benig",
+        "team2_id": 4,
+        "team2_name": "苦命家"
       },
       {
-        "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_id": 5,
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
-        "team1_id": 10,
-        "team1_name": "會演是英雄",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_id": 8,
+        "team1_name": "默斯佛陀",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       }
     ],
     "week_11": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 5,
+        "team2_name": "Eugene's Excellent Team"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
+        "team1_name": "洋基工程",
         "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 6,
-        "team2_name": "Stojakovic"
+        "team1_name": "Benig",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 5,
-        "team2_name": "JW999"
+        "team1_name": "苦命家",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
-        "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_id": 6,
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 8,
-        "team1_name": "王美露の爹",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "默斯佛陀",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
-        "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
+        "team1_id": 11,
+        "team1_name": "Mayor of New York City",
         "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team2_name": "高雄肛鐵人"
       }
     ],
     "week_12": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 7,
-        "team2_name": "Super呆呆"
-      },
-      {
-        "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 2,
+        "team2_name": "洋基工程"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "Benig",
+        "team2_id": 5,
+        "team2_name": "Eugene's Excellent Team"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
+        "team1_name": "苦命家",
         "team2_id": 6,
-        "team2_name": "Stojakovic"
+        "team2_name": "一顆馬鈴薯"
       },
       {
-        "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_id": 7,
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 10,
-        "team1_name": "會演是英雄",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "Derek's Nifty Team",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
+      },
+      {
+        "team1_id": 13,
+        "team1_name": "焦糖's Wonderful Team",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       }
     ],
     "week_13": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "洋基工程",
+        "team2_id": 5,
+        "team2_name": "Eugene's Excellent Team"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 4,
-        "team2_name": "Great Team"
+        "team1_name": "Benig",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
-        "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_id": 4,
+        "team1_name": "苦命家",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
-        "team1_id": 8,
-        "team1_name": "王美露の爹",
+        "team1_id": 10,
+        "team1_name": "Derek's Nifty Team",
         "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "焦糖's Wonderful Team"
       }
     ],
     "week_14": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 5,
-        "team2_name": "JW999"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team1_name": "洋基工程",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "Benig",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "苦命家",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
-        "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_id": 5,
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
+      },
+      {
+        "team1_id": 7,
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 8,
-        "team1_name": "王美露の爹",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
-      },
-      {
-        "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
+        "team1_name": "默斯佛陀",
         "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team2_name": "Hong's Breathtaking Team"
       }
     ],
     "week_15": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 6,
-        "team2_name": "Stojakovic"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "洋基工程",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_name": "Benig",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "苦命家",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
+      },
+      {
+        "team1_id": 11,
+        "team1_name": "Mayor of New York City",
         "team2_id": 12,
-        "team2_name": "李知恩圖報"
-      },
-      {
-        "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
-      },
-      {
-        "team1_id": 10,
-        "team1_name": "會演是英雄",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "Hong's Breathtaking Team"
       }
     ],
     "week_16": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 3,
-        "team2_name": "Fu班的捍衛戰士獨行俠"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 4,
+        "team2_name": "苦命家"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 5,
-        "team2_name": "JW999"
+        "team1_name": "洋基工程",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
-        "team1_id": 4,
-        "team1_name": "Great Team",
+        "team1_id": 3,
+        "team1_name": "Benig",
         "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team2_name": "Mayor of New York City"
       },
       {
-        "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
-      },
-      {
-        "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_id": 5,
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
       },
       {
         "team1_id": 8,
-        "team1_name": "王美露の爹",
+        "team1_name": "默斯佛陀",
         "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
-        "team1_id": 13,
-        "team1_name": "櫻木花道",
+        "team1_id": 10,
+        "team1_name": "Derek's Nifty Team",
         "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 12,
+        "team1_name": "Hong's Breathtaking Team",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       }
     ],
     "week_17": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 4,
-        "team2_name": "Great Team"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 6,
-        "team2_name": "Stojakovic"
+        "team1_name": "洋基工程",
+        "team2_id": 4,
+        "team2_name": "苦命家"
       },
       {
         "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "Benig",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
+      },
+      {
+        "team1_id": 6,
+        "team1_name": "一顆馬鈴薯",
         "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
-      },
-      {
-        "team1_id": 11,
-        "team1_name": "雷霆總冠軍",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       }
     ],
     "week_18": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 3,
+        "team2_name": "Benig"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 3,
-        "team2_name": "Fu班的捍衛戰士獨行俠"
+        "team1_name": "洋基工程",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
       },
       {
         "team1_id": 4,
-        "team1_name": "Great Team",
-        "team2_id": 12,
-        "team2_name": "李知恩圖報"
+        "team1_name": "苦命家",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 8,
+        "team2_name": "默斯佛陀"
       },
       {
         "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
         "team1_id": 7,
-        "team1_name": "Super呆呆",
-        "team2_id": 9,
-        "team2_name": "振彥's First-Class Team"
+        "team1_name": "夜光閃亮亮復仇鬼",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
-        "team1_id": 11,
-        "team1_name": "雷霆總冠軍",
+        "team1_id": 9,
+        "team1_name": "投錯框被犯規妨礙中籃還and1",
         "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team2_name": "焦糖's Wonderful Team"
       }
     ],
     "week_19": [
       {
         "team1_id": 1,
-        "team1_name": "默絲佛陀攝影掃地伯",
-        "team2_id": 11,
-        "team2_name": "雷霆總冠軍"
+        "team1_name": "火箭總冠軍",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
       },
       {
         "team1_id": 2,
-        "team1_name": "哎呦蠻大的",
-        "team2_id": 4,
-        "team2_name": "Great Team"
+        "team1_name": "洋基工程",
+        "team2_id": 3,
+        "team2_name": "Benig"
       },
       {
-        "team1_id": 3,
-        "team1_name": "Fu班的捍衛戰士獨行俠",
-        "team2_id": 8,
-        "team2_name": "王美露の爹"
+        "team1_id": 4,
+        "team1_name": "苦命家",
+        "team2_id": 10,
+        "team2_name": "Derek's Nifty Team"
       },
       {
         "team1_id": 5,
-        "team1_name": "JW999",
+        "team1_name": "Eugene's Excellent Team",
         "team2_id": 7,
-        "team2_name": "Super呆呆"
+        "team2_name": "夜光閃亮亮復仇鬼"
       },
       {
         "team1_id": 6,
-        "team1_name": "Stojakovic",
-        "team2_id": 10,
-        "team2_name": "會演是英雄"
+        "team1_name": "一顆馬鈴薯",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
       },
       {
-        "team1_id": 9,
-        "team1_name": "振彥's First-Class Team",
-        "team2_id": 13,
-        "team2_name": "櫻木花道"
+        "team1_id": 8,
+        "team1_name": "默斯佛陀",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
       },
       {
         "team1_id": 12,
-        "team1_name": "李知恩圖報",
+        "team1_name": "Hong's Breathtaking Team",
         "team2_id": 14,
-        "team2_name": "Lakers in 5"
+        "team2_name": "高雄肛鐵人"
       }
     ],
-    "week_20": [],
+    "week_20": [
+      {
+        "team1_id": 1,
+        "team1_name": "火箭總冠軍",
+        "team2_id": 6,
+        "team2_name": "一顆馬鈴薯"
+      },
+      {
+        "team1_id": 2,
+        "team1_name": "洋基工程",
+        "team2_id": 9,
+        "team2_name": "投錯框被犯規妨礙中籃還and1"
+      },
+      {
+        "team1_id": 3,
+        "team1_name": "Benig",
+        "team2_id": 14,
+        "team2_name": "高雄肛鐵人"
+      },
+      {
+        "team1_id": 4,
+        "team1_name": "苦命家",
+        "team2_id": 7,
+        "team2_name": "夜光閃亮亮復仇鬼"
+      },
+      {
+        "team1_id": 5,
+        "team1_name": "Eugene's Excellent Team",
+        "team2_id": 11,
+        "team2_name": "Mayor of New York City"
+      },
+      {
+        "team1_id": 8,
+        "team1_name": "默斯佛陀",
+        "team2_id": 13,
+        "team2_name": "焦糖's Wonderful Team"
+      },
+      {
+        "team1_id": 10,
+        "team1_name": "Derek's Nifty Team",
+        "team2_id": 12,
+        "team2_name": "Hong's Breathtaking Team"
+      }
+    ],
     "week_21": [],
-    "week_22": []
+    "week_22": [],
+    "week_23": []
   },
   "team_schedules": {
     "1": {
       "1": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "2": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "3": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "4": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "5": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "6": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "7": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "8": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "9": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "10": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "11": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "12": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "13": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "14": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "15": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "16": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "17": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "18": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "19": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
+      },
+      "20": {
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       }
     },
     "2": {
       "1": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "2": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "3": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "4": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "5": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "6": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "7": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "8": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "9": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "10": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "11": {
         "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "12": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "13": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "14": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "15": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "16": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "17": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "18": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "19": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
+      },
+      "20": {
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       }
     },
     "3": {
       "1": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "2": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "3": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "4": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "5": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "6": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "7": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "8": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "9": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "10": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "11": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "12": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "13": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "14": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "15": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "16": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "17": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "18": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "19": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
+      },
+      "20": {
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       }
     },
     "4": {
       "1": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "2": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "3": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "4": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "5": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "6": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "7": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "8": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "9": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "10": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "11": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "12": {
         "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_name": "一顆馬鈴薯"
       },
       "13": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "14": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "15": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "16": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "17": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "18": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "19": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
+      },
+      "20": {
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       }
     },
     "5": {
       "1": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "2": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "3": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "4": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "5": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "6": {
         "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "7": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "8": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "9": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "10": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "11": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "12": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "13": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "14": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "15": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "16": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "17": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "18": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "19": {
         "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_name": "夜光閃亮亮復仇鬼"
+      },
+      "20": {
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       }
     },
     "6": {
       "1": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "2": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "3": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "4": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "5": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "6": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "7": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "8": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "9": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "10": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "11": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "12": {
         "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_name": "苦命家"
       },
       "13": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "14": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "15": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "16": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "17": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "18": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "19": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
+      },
+      "20": {
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       }
     },
     "7": {
       "1": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "2": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "3": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "4": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "5": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "6": {
         "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_name": "Eugene's Excellent Team"
       },
       "7": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "8": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "9": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "10": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "11": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "12": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "13": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "14": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "15": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "16": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "17": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "18": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "19": {
         "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_name": "Eugene's Excellent Team"
+      },
+      "20": {
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       }
     },
     "8": {
       "1": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "2": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "3": {
         "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "4": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "5": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "6": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "7": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "8": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "9": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "10": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "11": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "12": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "13": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "14": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "15": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "16": {
         "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "17": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "18": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "19": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
+      },
+      "20": {
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       }
     },
     "9": {
       "1": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "2": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "3": {
         "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_name": "默斯佛陀"
       },
       "4": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "5": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "6": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "7": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "8": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "9": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "10": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "11": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "12": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "13": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "14": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "15": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "16": {
         "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_name": "默斯佛陀"
       },
       "17": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "18": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "19": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
+      },
+      "20": {
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       }
     },
     "10": {
       "1": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "2": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "3": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "4": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "5": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "6": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "7": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "8": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "9": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "10": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "11": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "12": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "13": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "14": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "15": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "16": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "17": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "18": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "19": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
+      },
+      "20": {
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       }
     },
     "11": {
       "1": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "2": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "3": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "4": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "5": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "6": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "7": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "8": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "9": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "10": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "11": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "12": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "13": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "14": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "15": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "16": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "17": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "18": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "19": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
+      },
+      "20": {
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       }
     },
     "12": {
       "1": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "2": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "3": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "4": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "5": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "6": {
         "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_name": "高雄肛鐵人"
       },
       "7": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "8": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "9": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "10": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "11": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "12": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "13": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "14": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "15": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "16": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "17": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "18": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "19": {
         "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_name": "高雄肛鐵人"
+      },
+      "20": {
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       }
     },
     "13": {
       "1": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "2": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "3": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "4": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "5": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "6": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "7": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "8": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "9": {
-        "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "10": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "11": {
         "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_name": "洋基工程"
       },
       "12": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 14,
+        "opponent_name": "高雄肛鐵人"
       },
       "13": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "14": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "15": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "16": {
-        "opponent_id": 14,
-        "opponent_name": "Lakers in 5"
+        "opponent_id": 12,
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "17": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "18": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "19": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
+      },
+      "20": {
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       }
     },
     "14": {
       "1": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "2": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "3": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "4": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "5": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "6": {
         "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_name": "Hong's Breathtaking Team"
       },
       "7": {
-        "opponent_id": 2,
-        "opponent_name": "哎呦蠻大的"
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       },
       "8": {
-        "opponent_id": 8,
-        "opponent_name": "王美露の爹"
+        "opponent_id": 9,
+        "opponent_name": "投錯框被犯規妨礙中籃還and1"
       },
       "9": {
-        "opponent_id": 10,
-        "opponent_name": "會演是英雄"
+        "opponent_id": 6,
+        "opponent_name": "一顆馬鈴薯"
       },
       "10": {
-        "opponent_id": 7,
-        "opponent_name": "Super呆呆"
+        "opponent_id": 8,
+        "opponent_name": "默斯佛陀"
       },
       "11": {
-        "opponent_id": 9,
-        "opponent_name": "振彥's First-Class Team"
+        "opponent_id": 11,
+        "opponent_name": "Mayor of New York City"
       },
       "12": {
-        "opponent_id": 5,
-        "opponent_name": "JW999"
+        "opponent_id": 13,
+        "opponent_name": "焦糖's Wonderful Team"
       },
       "13": {
-        "opponent_id": 6,
-        "opponent_name": "Stojakovic"
+        "opponent_id": 1,
+        "opponent_name": "火箭總冠軍"
       },
       "14": {
-        "opponent_id": 3,
-        "opponent_name": "Fu班的捍衛戰士獨行俠"
+        "opponent_id": 2,
+        "opponent_name": "洋基工程"
       },
       "15": {
-        "opponent_id": 4,
-        "opponent_name": "Great Team"
+        "opponent_id": 5,
+        "opponent_name": "Eugene's Excellent Team"
       },
       "16": {
-        "opponent_id": 13,
-        "opponent_name": "櫻木花道"
+        "opponent_id": 10,
+        "opponent_name": "Derek's Nifty Team"
       },
       "17": {
-        "opponent_id": 11,
-        "opponent_name": "雷霆總冠軍"
+        "opponent_id": 7,
+        "opponent_name": "夜光閃亮亮復仇鬼"
       },
       "18": {
-        "opponent_id": 1,
-        "opponent_name": "默絲佛陀攝影掃地伯"
+        "opponent_id": 4,
+        "opponent_name": "苦命家"
       },
       "19": {
         "opponent_id": 12,
-        "opponent_name": "李知恩圖報"
+        "opponent_name": "Hong's Breathtaking Team"
+      },
+      "20": {
+        "opponent_id": 3,
+        "opponent_name": "Benig"
       }
     }
   },
   "rosters": {
     "1": [
       {
-        "player_id": 6516,
-        "name": "Jalen Suggs",
+        "player_id": 6753,
+        "name": "Keon Ellis",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "",
-        "team": "ORL"
+        "team": "SAC"
       },
       {
-        "player_id": 5826,
-        "name": "Donovan Mitchell",
+        "player_id": 4622,
+        "name": "Jrue Holiday",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "",
-        "team": "CLE"
+        "team": "POR"
       },
       {
-        "player_id": 5582,
-        "name": "T.J. McConnell",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "IND"
-      },
-      {
-        "player_id": 6420,
-        "name": "Jaden McDaniels",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "GTD",
-        "team": "MIN"
-      },
-      {
-        "player_id": 6766,
-        "name": "Simone Fontecchio",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "MIA"
-      },
-      {
-        "player_id": 6452,
-        "name": "Sam Merrill",
+        "player_id": 10340,
+        "name": "Jaylen Wells",
         "positions": [
           "SG",
           "SF"
         ],
-        "status": "GTD",
-        "team": "CLE"
+        "status": "",
+        "team": "MEM"
       },
       {
-        "player_id": 6692,
-        "name": "Chet Holmgren",
+        "player_id": 5858,
+        "name": "Dillon Brooks",
         "positions": [
-          "PF",
-          "C"
+          "SF",
+          "PF"
         ],
         "status": "",
-        "team": "OKC"
+        "team": "PHX"
       },
       {
-        "player_id": 10289,
-        "name": "Yves Missi",
+        "player_id": 6401,
+        "name": "Deni Avdija",
         "positions": [
-          "C"
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 6163,
+        "name": "Zion Williamson",
+        "positions": [
+          "SF",
+          "PF"
         ],
         "status": "",
         "team": "NOP"
       },
       {
-        "player_id": 10304,
-        "name": "Ajay Mitchell",
+        "player_id": 6219,
+        "name": "Nic Claxton",
         "positions": [
-          "PG",
-          "SG"
+          "C"
         ],
         "status": "",
-        "team": "OKC"
+        "team": "BKN"
+      },
+      {
+        "player_id": 4472,
+        "name": "Brook Lopez",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 4614,
+        "name": "DeMar DeRozan",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 5894,
+        "name": "Chris Boucher",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "BOS"
       },
       {
         "player_id": 6721,
@@ -2169,111 +2278,19 @@
         "team": "IND"
       },
       {
-        "player_id": 6408,
-        "name": "Isaiah Stewart",
+        "player_id": 6711,
+        "name": "Christian Braun",
         "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "DET"
-      },
-      {
-        "player_id": 6173,
-        "name": "Cameron Johnson",
-        "positions": [
-          "SF",
-          "PF"
+          "SG",
+          "SF"
         ],
         "status": "",
         "team": "DEN"
       },
       {
-        "player_id": 5765,
-        "name": "Jayson Tatum",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "BOS"
-      },
-      {
-        "player_id": 4840,
-        "name": "Kyrie Irving",
-        "positions": [
-          "PG"
-        ],
-        "status": "INJ",
-        "team": "DAL"
-      },
-      {
-        "player_id": 5185,
-        "name": "Giannis Antetokounmpo",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "INJ",
-        "team": "MIL"
-      }
-    ],
-    "2": [
-      {
-        "player_id": 4612,
-        "name": "Stephen Curry",
-        "positions": [
-          "PG"
-        ],
-        "status": "GTD",
-        "team": "GSW"
-      },
-      {
-        "player_id": 4892,
-        "name": "Klay Thompson",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "DAL"
-      },
-      {
-        "player_id": 5324,
-        "name": "Zach LaVine",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "SAC"
-      },
-      {
-        "player_id": 6549,
-        "name": "Jonathan Kuminga",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "GSW"
-      },
-      {
-        "player_id": 5069,
-        "name": "Draymond Green",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "GTD",
-        "team": "GSW"
-      },
-      {
         "player_id": 4244,
         "name": "Kevin Durant",
         "positions": [
-          "SG",
           "SF",
           "PF"
         ],
@@ -2281,289 +2298,65 @@
         "team": "HOU"
       },
       {
-        "player_id": 6219,
-        "name": "Nic Claxton",
+        "player_id": 5642,
+        "name": "Domantas Sabonis",
         "positions": [
           "C"
         ],
+        "status": "INJ",
+        "team": "SAC"
+      }
+    ],
+    "2": [
+      {
+        "player_id": 5473,
+        "name": "Devin Booker",
+        "positions": [
+          "PG",
+          "SG"
+        ],
         "status": "",
-        "team": "BKN"
+        "team": "PHX"
       },
       {
-        "player_id": 6572,
-        "name": "Santi Aldama",
+        "player_id": 6755,
+        "name": "AJ Green",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 5009,
+        "name": "Bradley Beal",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 5836,
+        "name": "OG Anunoby",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NYK"
+      },
+      {
+        "player_id": 6015,
+        "name": "Jaren Jackson Jr.",
         "positions": [
           "PF",
           "C"
         ],
         "status": "",
         "team": "MEM"
-      },
-      {
-        "player_id": 10296,
-        "name": "Zaccharie Risacher",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "GTD",
-        "team": "ATL"
-      },
-      {
-        "player_id": 10285,
-        "name": "Donovan Clingan",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "POR"
-      },
-      {
-        "player_id": 10308,
-        "name": "Quinten Post",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "GSW"
-      },
-      {
-        "player_id": 5769,
-        "name": "Lauri Markkanen",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "UTA"
-      },
-      {
-        "player_id": 5767,
-        "name": "De'Aaron Fox",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "SAS"
-      },
-      {
-        "player_id": 5490,
-        "name": "Kevon Looney",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "NOP"
-      }
-    ],
-    "3": [
-      {
-        "player_id": 10316,
-        "name": "Daniss Jenkins",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "DET"
-      },
-      {
-        "player_id": 4563,
-        "name": "James Harden",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "LAC"
-      },
-      {
-        "player_id": 6734,
-        "name": "Ryan Rollins",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "MIL"
-      },
-      {
-        "player_id": 6577,
-        "name": "Herbert Jones",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "NOP"
-      },
-      {
-        "player_id": 4614,
-        "name": "DeMar DeRozan",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "SAC"
-      },
-      {
-        "player_id": 5832,
-        "name": "John Collins",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "LAC"
-      },
-      {
-        "player_id": 6226,
-        "name": "Daniel Gafford",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "DAL"
-      },
-      {
-        "player_id": 5464,
-        "name": "Kristaps Porziņģis",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "INJ",
-        "team": "ATL"
-      },
-      {
-        "player_id": 6395,
-        "name": "LaMelo Ball",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "CHA"
-      },
-      {
-        "player_id": 6679,
-        "name": "Brandon Williams",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "DAL"
-      },
-      {
-        "player_id": 6558,
-        "name": "Alperen Sengun",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "HOU"
-      },
-      {
-        "player_id": 6171,
-        "name": "Rui Hachimura",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "LAL"
-      },
-      {
-        "player_id": 4896,
-        "name": "Kawhi Leonard",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "LAC"
-      },
-      {
-        "player_id": 6167,
-        "name": "Darius Garland",
-        "positions": [
-          "PG"
-        ],
-        "status": "INJ",
-        "team": "CLE"
-      },
-      {
-        "player_id": 5294,
-        "name": "Joel Embiid",
-        "positions": [
-          "C"
-        ],
-        "status": "INJ",
-        "team": "PHI"
-      },
-      {
-        "player_id": 6037,
-        "name": "Landry Shamet",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "NYK"
-      }
-    ],
-    "4": [
-      {
-        "player_id": 6035,
-        "name": "Anfernee Simons",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "BOS"
-      },
-      {
-        "player_id": 6019,
-        "name": "Collin Sexton",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "CHA"
-      },
-      {
-        "player_id": 10115,
-        "name": "Brandin Podziemski",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "GSW"
-      },
-      {
-        "player_id": 6030,
-        "name": "Kevin Huerter",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "CHI"
-      },
-      {
-        "player_id": 10118,
-        "name": "Cam Whitmore",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "WAS"
       },
       {
         "player_id": 5602,
@@ -2576,13 +2369,13 @@
         "team": "BOS"
       },
       {
-        "player_id": 6703,
-        "name": "Jalen Duren",
+        "player_id": 5471,
+        "name": "Myles Turner",
         "positions": [
           "C"
         ],
         "status": "",
-        "team": "DET"
+        "team": "MIL"
       },
       {
         "player_id": 4897,
@@ -2594,144 +2387,63 @@
         "team": "CHI"
       },
       {
-        "player_id": 6165,
-        "name": "RJ Barrett",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "TOR"
-      },
-      {
-        "player_id": 10104,
-        "name": "Brandon Miller",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "CHA"
-      },
-      {
-        "player_id": 5903,
-        "name": "Luke Kornet",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "SAS"
-      },
-      {
-        "player_id": 5482,
-        "name": "Bobby Portis",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "MIL"
-      },
-      {
-        "player_id": 6513,
-        "name": "Jalen Green",
+        "player_id": 6035,
+        "name": "Anfernee Simons",
         "positions": [
           "PG",
           "SG"
         ],
-        "status": "INJ",
-        "team": "PHX"
+        "status": "",
+        "team": "BOS"
       },
       {
-        "player_id": 5660,
-        "name": "Dejounte Murray",
+        "player_id": 10289,
+        "name": "Yves Missi",
         "positions": [
-          "PG",
-          "SG"
+          "C"
         ],
-        "status": "INJ",
+        "status": "GTD",
         "team": "NOP"
-      }
-    ],
-    "5": [
-      {
-        "player_id": 6022,
-        "name": "Shai Gilgeous-Alexander",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "OKC"
       },
       {
-        "player_id": 10465,
-        "name": "Cedric Coward",
+        "player_id": 6171,
+        "name": "Rui Hachimura",
         "positions": [
-          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6406,
+        "name": "Aaron Nesmith",
+        "positions": [
           "SF"
         ],
         "status": "",
-        "team": "MEM"
+        "team": "IND"
       },
       {
-        "player_id": 5843,
-        "name": "Josh Hart",
+        "player_id": 6617,
+        "name": "Jay Huff",
         "positions": [
-          "SG",
-          "SF",
-          "PF"
+          "C"
         ],
         "status": "",
-        "team": "NYK"
-      },
+        "team": "IND"
+      }
+    ],
+    "3": [
       {
-        "player_id": 6025,
-        "name": "Michael Porter Jr.",
+        "player_id": 5826,
+        "name": "Donovan Mitchell",
         "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "BKN"
-      },
-      {
-        "player_id": 6166,
-        "name": "De'Andre Hunter",
-        "positions": [
-          "SF",
-          "PF"
+          "PG",
+          "SG"
         ],
         "status": "",
         "team": "CLE"
-      },
-      {
-        "player_id": 6422,
-        "name": "Desmond Bane",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "ORL"
-      },
-      {
-        "player_id": 6018,
-        "name": "Wendell Carter Jr.",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "ORL"
-      },
-      {
-        "player_id": 5471,
-        "name": "Myles Turner",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "MIL"
       },
       {
         "player_id": 10108,
@@ -2741,88 +2453,8 @@
           "SG",
           "SF"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "HOU"
-      },
-      {
-        "player_id": 6205,
-        "name": "Nickeil Alexander-Walker",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "ATL"
-      },
-      {
-        "player_id": 5327,
-        "name": "Jusuf Nurkić",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "UTA"
-      },
-      {
-        "player_id": 10099,
-        "name": "Bilal Coulibaly",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "WAS"
-      },
-      {
-        "player_id": 6712,
-        "name": "Walker Kessler",
-        "positions": [
-          "C"
-        ],
-        "status": "INJ",
-        "team": "UTA"
-      },
-      {
-        "player_id": 6512,
-        "name": "Cade Cunningham",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "DET"
-      },
-      {
-        "player_id": 5747,
-        "name": "Derrick Jones Jr.",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "LAC"
-      }
-    ],
-    "6": [
-      {
-        "player_id": 6433,
-        "name": "Tre Jones",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "INJ",
-        "team": "CHI"
-      },
-      {
-        "player_id": 10454,
-        "name": "VJ Edgecombe",
-        "positions": [
-          "SG"
-        ],
-        "status": "",
-        "team": "PHI"
       },
       {
         "player_id": 6696,
@@ -2835,246 +2467,199 @@
         "team": "IND"
       },
       {
-        "player_id": 6499,
-        "name": "Naji Marshall",
+        "player_id": 10104,
+        "name": "Brandon Miller",
         "positions": [
           "SF",
           "PF"
         ],
         "status": "",
-        "team": "DAL"
+        "team": "CHA"
       },
       {
-        "player_id": 6174,
-        "name": "P.J. Washington",
+        "player_id": 6549,
+        "name": "Jonathan Kuminga",
         "positions": [
           "SF",
           "PF"
         ],
         "status": "",
-        "team": "DAL"
+        "team": "GSW"
       },
       {
-        "player_id": 5352,
-        "name": "Nikola Jokić",
+        "player_id": 6173,
+        "name": "Cameron Johnson",
         "positions": [
-          "C"
+          "SF",
+          "PF"
         ],
         "status": "",
         "team": "DEN"
       },
       {
-        "player_id": 6581,
-        "name": "Neemias Queta",
+        "player_id": 6703,
+        "name": "Jalen Duren",
         "positions": [
-          "PF",
           "C"
         ],
         "status": "",
-        "team": "BOS"
+        "team": "DET"
       },
       {
-        "player_id": 6580,
-        "name": "Ayo Dosunmu",
+        "player_id": 10294,
+        "name": "Alex Sarr",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 10454,
+        "name": "VJ Edgecombe",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 5433,
+        "name": "D'Angelo Russell",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 5903,
+        "name": "Luke Kornet",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 6704,
+        "name": "Ochai Agbaji",
         "positions": [
           "SG",
           "SF"
         ],
         "status": "",
-        "team": "CHI"
+        "team": "TOR"
       },
       {
-        "player_id": 5187,
-        "name": "Dennis Schröder",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "SAC"
-      },
-      {
-        "player_id": 5905,
-        "name": "Royce O'Neale",
+        "player_id": 10263,
+        "name": "Ronald Holland II",
         "positions": [
           "SF",
           "PF"
         ],
         "status": "",
-        "team": "PHX"
+        "team": "DET"
       },
       {
-        "player_id": 5473,
-        "name": "Devin Booker",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "PHX"
-      },
-      {
-        "player_id": 6694,
-        "name": "Keegan Murray",
+        "player_id": 6166,
+        "name": "De'Andre Hunter",
         "positions": [
           "SF",
           "PF"
         ],
         "status": "INJ",
-        "team": "SAC"
+        "team": "CLE"
       },
       {
-        "player_id": 4622,
-        "name": "Jrue Holiday",
+        "player_id": 6695,
+        "name": "Jaden Ivey",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "INJ",
-        "team": "POR"
-      },
-      {
-        "player_id": 5642,
-        "name": "Domantas Sabonis",
-        "positions": [
-          "C"
-        ],
-        "status": "GTD",
-        "team": "SAC"
-      },
-      {
-        "player_id": 10467,
-        "name": "Dylan Harper",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "INJ",
-        "team": "SAS"
+        "team": "DET"
       }
     ],
-    "7": [
+    "4": [
       {
-        "player_id": 6044,
-        "name": "Jalen Brunson",
+        "player_id": 6014,
+        "name": "Luka Dončić",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "GTD",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6395,
+        "name": "LaMelo Ball",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 3930,
+        "name": "Chris Paul",
         "positions": [
           "PG"
         ],
         "status": "",
-        "team": "NYK"
+        "team": "LAC"
       },
       {
-        "player_id": 10288,
-        "name": "Reed Sheppard",
+        "player_id": 4896,
+        "name": "Kawhi Leonard",
         "positions": [
-          "PG",
-          "SG"
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 6025,
+        "name": "Michael Porter Jr.",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "BKN"
+      },
+      {
+        "player_id": 10096,
+        "name": "Ausar Thompson",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 6558,
+        "name": "Alperen Sengun",
+        "positions": [
+          "C"
         ],
         "status": "",
         "team": "HOU"
       },
       {
-        "player_id": 6559,
-        "name": "Trey Murphy III",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "NOP"
-      },
-      {
-        "player_id": 10103,
-        "name": "Jarace Walker",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "IND"
-      },
-      {
-        "player_id": 5840,
-        "name": "Kyle Kuzma",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "MIL"
-      },
-      {
-        "player_id": 5292,
-        "name": "Andrew Wiggins",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "MIA"
-      },
-      {
-        "player_id": 5658,
-        "name": "Pascal Siakam",
-        "positions": [
-          "SF",
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "IND"
-      },
-      {
-        "player_id": 5432,
-        "name": "Karl-Anthony Towns",
+        "player_id": 6693,
+        "name": "Jabari Smith Jr.",
         "positions": [
           "PF",
           "C"
         ],
         "status": "",
-        "team": "NYK"
-      },
-      {
-        "player_id": 10065,
-        "name": "Toumani Camara",
-        "positions": [
-          "SF",
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "POR"
-      },
-      {
-        "player_id": 5835,
-        "name": "Jarrett Allen",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "CLE"
-      },
-      {
-        "player_id": 10100,
-        "name": "Keyonte George",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "UTA"
-      },
-      {
-        "player_id": 6073,
-        "name": "Duncan Robinson",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "DET"
+        "team": "HOU"
       },
       {
         "player_id": 6218,
@@ -3083,393 +2668,8 @@
           "PG",
           "SG"
         ],
-        "status": "INJ",
+        "status": "GTD",
         "team": "MIL"
-      },
-      {
-        "player_id": 4901,
-        "name": "Tobias Harris",
-        "positions": [
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "DET"
-      },
-      {
-        "player_id": 6619,
-        "name": "Sam Hauser",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "BOS"
-      }
-    ],
-    "8": [
-      {
-        "player_id": 6698,
-        "name": "Dyson Daniels",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "ATL"
-      },
-      {
-        "player_id": 4390,
-        "name": "Russell Westbrook",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "SAC"
-      },
-      {
-        "player_id": 10468,
-        "name": "Cooper Flagg",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "status": "GTD",
-        "team": "DAL"
-      },
-      {
-        "player_id": 6697,
-        "name": "Shaedon Sharpe",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "GTD",
-        "team": "POR"
-      },
-      {
-        "player_id": 6562,
-        "name": "Jalen Johnson",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "ATL"
-      },
-      {
-        "player_id": 10265,
-        "name": "Matas Buzelis",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "CHI"
-      },
-      {
-        "player_id": 10476,
-        "name": "Ryan Kalkbrenner",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "CHA"
-      },
-      {
-        "player_id": 10450,
-        "name": "Kon Knueppel",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "CHA"
-      },
-      {
-        "player_id": 6417,
-        "name": "Immanuel Quickley",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "TOR"
-      },
-      {
-        "player_id": 6023,
-        "name": "Miles Bridges",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "CHA"
-      },
-      {
-        "player_id": 5827,
-        "name": "Bam Adebayo",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "MIA"
-      },
-      {
-        "player_id": 5013,
-        "name": "Harrison Barnes",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "SAS"
-      },
-      {
-        "player_id": 6175,
-        "name": "Tyler Herro",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "INJ",
-        "team": "MIA"
-      },
-      {
-        "player_id": 6711,
-        "name": "Christian Braun",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "INJ",
-        "team": "DEN"
-      },
-      {
-        "player_id": 6032,
-        "name": "Grayson Allen",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "INJ",
-        "team": "PHX"
-      },
-      {
-        "player_id": 10315,
-        "name": "Kyle Filipowski",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "GTD",
-        "team": "UTA"
-      }
-    ],
-    "9": [
-      {
-        "player_id": 10107,
-        "name": "Cason Wallace",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "OKC"
-      },
-      {
-        "player_id": 6567,
-        "name": "Quentin Grimes",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "PHI"
-      },
-      {
-        "player_id": 5506,
-        "name": "Norman Powell",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "MIA"
-      },
-      {
-        "player_id": 10092,
-        "name": "Jaime Jaquez Jr.",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "MIA"
-      },
-      {
-        "player_id": 6015,
-        "name": "Jaren Jackson Jr.",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "GTD",
-        "team": "MEM"
-      },
-      {
-        "player_id": 6398,
-        "name": "Onyeka Okongwu",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "ATL"
-      },
-      {
-        "player_id": 5318,
-        "name": "Julius Randle",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "MIN"
-      },
-      {
-        "player_id": 6614,
-        "name": "Jock Landale",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "MEM"
-      },
-      {
-        "player_id": 5161,
-        "name": "CJ McCollum",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "WAS"
-      },
-      {
-        "player_id": 6418,
-        "name": "Payton Pritchard",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "BOS"
-      },
-      {
-        "player_id": 5842,
-        "name": "Derrick White",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "BOS"
-      },
-      {
-        "player_id": 6751,
-        "name": "Collin Gillespie",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "PHX"
-      },
-      {
-        "player_id": 6016,
-        "name": "Trae Young",
-        "positions": [
-          "PG"
-        ],
-        "status": "INJ",
-        "team": "ATL"
-      },
-      {
-        "player_id": 6707,
-        "name": "Tari Eason",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "HOU"
-      },
-      {
-        "player_id": 6073,
-        "name": "Duncan Robinson",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "DET"
-      }
-    ],
-    "10": [
-      {
-        "player_id": 6413,
-        "name": "Tyrese Maxey",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "PHI"
-      },
-      {
-        "player_id": 10095,
-        "name": "Anthony Black",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "ORL"
-      },
-      {
-        "player_id": 4725,
-        "name": "Paul George",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "GTD",
-        "team": "PHI"
-      },
-      {
-        "player_id": 10275,
-        "name": "Tristan da Silva",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "ORL"
-      },
-      {
-        "player_id": 6693,
-        "name": "Jabari Smith Jr.",
-        "positions": [
-          "SF",
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "HOU"
       },
       {
         "player_id": 5350,
@@ -3482,118 +2682,52 @@
         "team": "POR"
       },
       {
-        "player_id": 6705,
-        "name": "Mark Williams",
+        "player_id": 10462,
+        "name": "Ace Bailey",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 6206,
+        "name": "Goga Bitadze",
         "positions": [
           "C"
         ],
         "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 5484,
+        "name": "Tyus Jones",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 6513,
+        "name": "Jalen Green",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
         "team": "PHX"
       },
       {
-        "player_id": 5163,
-        "name": "Steven Adams",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "HOU"
-      },
-      {
-        "player_id": 6429,
-        "name": "Vít Krejčí",
+        "player_id": 4725,
+        "name": "Paul George",
         "positions": [
           "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "ATL"
-      },
-      {
-        "player_id": 10327,
-        "name": "Cam Spencer",
-        "positions": [
-          "SG"
-        ],
-        "status": "",
-        "team": "MEM"
-      },
-      {
-        "player_id": 5754,
-        "name": "Alex Caruso",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "OKC"
-      },
-      {
-        "player_id": 6717,
-        "name": "Nikola Jović",
-        "positions": [
+          "SF",
           "PF"
         ],
-        "status": "GTD",
-        "team": "MIA"
-      },
-      {
-        "player_id": 6406,
-        "name": "Aaron Nesmith",
-        "positions": [
-          "SG",
-          "SF"
-        ],
         "status": "INJ",
-        "team": "IND"
-      },
-      {
-        "player_id": 10094,
-        "name": "Victor Wembanyama",
-        "positions": [
-          "C"
-        ],
-        "status": "INJ",
-        "team": "SAS"
-      },
-      {
-        "player_id": 5007,
-        "name": "Anthony Davis",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "status": "INJ",
-        "team": "DAL"
-      }
-    ],
-    "11": [
-      {
-        "player_id": 10440,
-        "name": "Jeremiah Fears",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "NOP"
-      },
-      {
-        "player_id": 5824,
-        "name": "Malik Monk",
-        "positions": [
-          "SG"
-        ],
-        "status": "",
-        "team": "SAC"
-      },
-      {
-        "player_id": 6551,
-        "name": "Davion Mitchell",
-        "positions": [
-          "PG"
-        ],
-        "status": "",
-        "team": "MIA"
+        "team": "PHI"
       },
       {
         "player_id": 6556,
@@ -3602,19 +2736,30 @@
           "SG",
           "SF"
         ],
-        "status": "",
+        "status": "INJ",
         "team": "GSW"
-      },
+      }
+    ],
+    "5": [
       {
-        "player_id": 6515,
-        "name": "Scottie Barnes",
+        "player_id": 6512,
+        "name": "Cade Cunningham",
         "positions": [
-          "SG",
-          "SF",
-          "PF"
+          "PG",
+          "SG"
         ],
         "status": "",
-        "team": "TOR"
+        "team": "DET"
+      },
+      {
+        "player_id": 5842,
+        "name": "Derrick White",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "BOS"
       },
       {
         "player_id": 5601,
@@ -3628,102 +2773,133 @@
         "team": "TOR"
       },
       {
-        "player_id": 5856,
-        "name": "Isaiah Hartenstein",
+        "player_id": 5769,
+        "name": "Lauri Markkanen",
         "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "OKC"
-      },
-      {
-        "player_id": 10287,
-        "name": "Zach Edey",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "MEM"
-      },
-      {
-        "player_id": 10272,
-        "name": "Kyshawn George",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "WAS"
-      },
-      {
-        "player_id": 10444,
-        "name": "Derik Queen",
-        "positions": [
-          "C"
-        ],
-        "status": "",
-        "team": "NOP"
-      },
-      {
-        "player_id": 10294,
-        "name": "Alex Sarr",
-        "positions": [
-          "C"
-        ],
-        "status": "GTD",
-        "team": "WAS"
-      },
-      {
-        "player_id": 10282,
-        "name": "Isaiah Collier",
-        "positions": [
-          "PG",
-          "SG"
+          "SF",
+          "PF"
         ],
         "status": "",
         "team": "UTA"
       },
       {
-        "player_id": 6216,
-        "name": "Jordan Poole",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "INJ",
-        "team": "NOP"
-      },
-      {
-        "player_id": 6691,
-        "name": "Paolo Banchero",
+        "player_id": 6514,
+        "name": "Evan Mobley",
         "positions": [
           "PF",
           "C"
         ],
-        "status": "INJ",
-        "team": "ORL"
+        "status": "",
+        "team": "CLE"
       },
       {
-        "player_id": 6702,
-        "name": "Jalen Williams",
+        "player_id": 5840,
+        "name": "Kyle Kuzma",
         "positions": [
           "SF",
           "PF"
         ],
-        "status": "INJ",
-        "team": "OKC"
-      }
-    ],
-    "12": [
+        "status": "",
+        "team": "MIL"
+      },
       {
-        "player_id": 6014,
-        "name": "Luka Dončić",
+        "player_id": 5832,
+        "name": "John Collins",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 10315,
+        "name": "Kyle Filipowski",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 5161,
+        "name": "CJ McCollum",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "",
-        "team": "LAL"
+        "team": "WAS"
+      },
+      {
+        "player_id": 10296,
+        "name": "Zaccharie Risacher",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 5163,
+        "name": "Steven Adams",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 5905,
+        "name": "Royce O'Neale",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "PHX"
+      },
+      {
+        "player_id": 10476,
+        "name": "Ryan Kalkbrenner",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 5754,
+        "name": "Alex Caruso",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "INJ",
+        "team": "OKC"
+      },
+      {
+        "player_id": 6169,
+        "name": "Coby White",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "CHI"
+      }
+    ],
+    "6": [
+      {
+        "player_id": 4390,
+        "name": "Russell Westbrook",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "SAC"
       },
       {
         "player_id": 6548,
@@ -3736,24 +2912,43 @@
         "team": "CHI"
       },
       {
-        "player_id": 6217,
-        "name": "Keldon Johnson",
+        "player_id": 6216,
+        "name": "Jordan Poole",
         "positions": [
-          "SF",
-          "PF"
+          "PG",
+          "SG"
         ],
         "status": "",
-        "team": "SAS"
+        "team": "NOP"
       },
       {
-        "player_id": 6401,
-        "name": "Deni Avdija",
+        "player_id": 6580,
+        "name": "Ayo Dosunmu",
         "positions": [
-          "SF",
-          "PF"
+          "SG",
+          "SF"
         ],
         "status": "",
-        "team": "POR"
+        "team": "CHI"
+      },
+      {
+        "player_id": 5185,
+        "name": "Giannis Antetokounmpo",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 10468,
+        "name": "Cooper Flagg",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "DAL"
       },
       {
         "player_id": 6253,
@@ -3766,31 +2961,63 @@
         "team": "MIN"
       },
       {
-        "player_id": 6733,
-        "name": "Moussa Diabaté",
+        "player_id": 6572,
+        "name": "Santi Aldama",
         "positions": [
+          "PF",
           "C"
         ],
         "status": "",
-        "team": "CHA"
+        "team": "MEM"
       },
       {
-        "player_id": 5640,
-        "name": "Jakob Poeltl",
+        "player_id": 6551,
+        "name": "Davion Mitchell",
         "positions": [
-          "C"
+          "PG"
         ],
         "status": "",
-        "team": "TOR"
+        "team": "MIA"
       },
       {
-        "player_id": 5015,
-        "name": "Andre Drummond",
+        "player_id": 10118,
+        "name": "Cam Whitmore",
         "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 5843,
+        "name": "Josh Hart",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "NYK"
+      },
+      {
+        "player_id": 5295,
+        "name": "Aaron Gordon",
+        "positions": [
+          "PF",
           "C"
         ],
         "status": "",
-        "team": "PHI"
+        "team": "DEN"
+      },
+      {
+        "player_id": 6400,
+        "name": "Obi Toppin",
+        "positions": [
+          "PF"
+        ],
+        "status": "",
+        "team": "IND"
       },
       {
         "player_id": 3704,
@@ -3799,121 +3026,69 @@
           "SF",
           "PF"
         ],
-        "status": "",
+        "status": "INJ",
         "team": "LAL"
       },
       {
-        "player_id": 5194,
-        "name": "Tim Hardaway Jr.",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "DEN"
-      },
-      {
-        "player_id": 10292,
-        "name": "Ryan Dunn",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "PHX"
-      },
-      {
-        "player_id": 6404,
-        "name": "Tyrese Haliburton",
+        "player_id": 10282,
+        "name": "Isaiah Collier",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "INJ",
-        "team": "IND"
-      },
-      {
-        "player_id": 4912,
-        "name": "Jimmy Butler III",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "GTD",
-        "team": "GSW"
-      },
-      {
-        "player_id": 10290,
-        "name": "Stephon Castle",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "INJ",
-        "team": "SAS"
-      },
-      {
-        "player_id": 10113,
-        "name": "Ben Sheppard",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "IND"
+        "team": "UTA"
       }
     ],
-    "13": [
+    "7": [
       {
-        "player_id": 6355,
-        "name": "Anthony Edwards",
+        "player_id": 6433,
+        "name": "Tre Jones",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "",
-        "team": "MIN"
+        "team": "CHI"
       },
       {
-        "player_id": 6725,
-        "name": "Max Christie",
+        "player_id": 6697,
+        "name": "Shaedon Sharpe",
         "positions": [
           "SG",
           "SF"
         ],
         "status": "",
-        "team": "DAL"
+        "team": "POR"
       },
       {
-        "player_id": 5638,
-        "name": "Jamal Murray",
+        "player_id": 6044,
+        "name": "Jalen Brunson",
         "positions": [
-          "PG",
-          "SG"
+          "PG"
         ],
         "status": "",
-        "team": "DEN"
+        "team": "NYK"
       },
       {
-        "player_id": 5858,
-        "name": "Dillon Brooks",
+        "player_id": 10065,
+        "name": "Toumani Camara",
         "positions": [
           "SF",
           "PF"
         ],
         "status": "",
-        "team": "PHX"
+        "team": "POR"
       },
       {
-        "player_id": 6514,
-        "name": "Evan Mobley",
+        "player_id": 6691,
+        "name": "Paolo Banchero",
         "positions": [
           "PF",
           "C"
         ],
         "status": "",
-        "team": "CLE"
+        "team": "ORL"
       },
       {
         "player_id": 10274,
@@ -3935,76 +3110,13 @@
         "team": "MIN"
       },
       {
-        "player_id": 5636,
-        "name": "Kris Dunn",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "status": "",
-        "team": "LAC"
-      },
-      {
-        "player_id": 10097,
-        "name": "Dereck Lively II",
+        "player_id": 10285,
+        "name": "Donovan Clingan",
         "positions": [
           "C"
         ],
         "status": "",
-        "team": "DAL"
-      },
-      {
-        "player_id": 6164,
-        "name": "Ja Morant",
-        "positions": [
-          "PG"
-        ],
-        "status": "INJ",
-        "team": "MEM"
-      },
-      {
-        "player_id": 6163,
-        "name": "Zion Williamson",
-        "positions": [
-          "SF",
-          "PF",
-          "C"
-        ],
-        "status": "",
-        "team": "NOP"
-      },
-      {
-        "player_id": 5836,
-        "name": "OG Anunoby",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "NYK"
-      },
-      {
-        "player_id": 6597,
-        "name": "Aaron Wiggins",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "INJ",
-        "team": "OKC"
-      }
-    ],
-    "14": [
-      {
-        "player_id": 6606,
-        "name": "Austin Reaves",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "status": "",
-        "team": "LAL"
+        "team": "POR"
       },
       {
         "player_id": 6028,
@@ -4017,6 +3129,381 @@
         "team": "MIN"
       },
       {
+        "player_id": 6018,
+        "name": "Wendell Carter Jr.",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 6022,
+        "name": "Shai Gilgeous-Alexander",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 10288,
+        "name": "Reed Sheppard",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 5194,
+        "name": "Tim Hardaway Jr.",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "DEN"
+      },
+      {
+        "player_id": 6212,
+        "name": "Ty Jerome",
+        "positions": [
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "MEM"
+      }
+    ],
+    "8": [
+      {
+        "player_id": 5324,
+        "name": "Zach LaVine",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 6205,
+        "name": "Nickeil Alexander-Walker",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 5824,
+        "name": "Malik Monk",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 6174,
+        "name": "P.J. Washington",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 6021,
+        "name": "Mikal Bridges",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NYK"
+      },
+      {
+        "player_id": 6562,
+        "name": "Jalen Johnson",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 5007,
+        "name": "Anthony Davis",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 10097,
+        "name": "Dereck Lively II",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "DAL"
+      },
+      {
+        "player_id": 6567,
+        "name": "Quentin Grimes",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 10100,
+        "name": "Keyonte George",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 5637,
+        "name": "Buddy Hield",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5958,
+        "name": "Deandre Ayton",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 10276,
+        "name": "Jared McCain",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6702,
+        "name": "Jalen Williams",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "OKC"
+      },
+      {
+        "player_id": 6226,
+        "name": "Daniel Gafford",
+        "positions": [
+          "C"
+        ],
+        "status": "O",
+        "team": "DAL"
+      }
+    ],
+    "9": [
+      {
+        "player_id": 6355,
+        "name": "Anthony Edwards",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 10290,
+        "name": "Stephon Castle",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 10448,
+        "name": "Tre Johnson",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 10265,
+        "name": "Matas Buzelis",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "CHI"
+      },
+      {
+        "player_id": 5073,
+        "name": "Khris Middleton",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 5475,
+        "name": "Kelly Oubre Jr.",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 5827,
+        "name": "Bam Adebayo",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 5464,
+        "name": "Kristaps Porziņģis",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6047,
+        "name": "Mitchell Robinson",
+        "positions": [
+          "C"
+        ],
+        "status": "INJ",
+        "team": "NYK"
+      },
+      {
+        "player_id": 5764,
+        "name": "Lonzo Ball",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CLE"
+      },
+      {
+        "player_id": 10107,
+        "name": "Cason Wallace",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "GTD",
+        "team": "OKC"
+      },
+      {
+        "player_id": 6692,
+        "name": "Chet Holmgren",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 5856,
+        "name": "Isaiah Hartenstein",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 5660,
+        "name": "Dejounte Murray",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "NOP"
+      },
+      {
+        "player_id": 5765,
+        "name": "Jayson Tatum",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "BOS"
+      }
+    ],
+    "10": [
+      {
+        "player_id": 6413,
+        "name": "Tyrese Maxey",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 10273,
+        "name": "Bub Carrington",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "WAS"
+      },
+      {
+        "player_id": 6422,
+        "name": "Desmond Bane",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
         "player_id": 6403,
         "name": "Devin Vassell",
         "positions": [
@@ -4027,14 +3514,279 @@
         "team": "SAS"
       },
       {
-        "player_id": 10462,
-        "name": "Ace Bailey",
+        "player_id": 6707,
+        "name": "Tari Eason",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "HOU"
+      },
+      {
+        "player_id": 5432,
+        "name": "Karl-Anthony Towns",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "NYK"
+      },
+      {
+        "player_id": 5835,
+        "name": "Jarrett Allen",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "CLE"
+      },
+      {
+        "player_id": 5482,
+        "name": "Bobby Portis",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 10115,
+        "name": "Brandin Podziemski",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 6581,
+        "name": "Neemias Queta",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 6597,
+        "name": "Aaron Wiggins",
         "positions": [
           "SG",
           "SF"
         ],
         "status": "",
+        "team": "OKC"
+      },
+      {
+        "player_id": 6606,
+        "name": "Austin Reaves",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "LAL"
+      },
+      {
+        "player_id": 6694,
+        "name": "Keegan Murray",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "INJ",
+        "team": "SAC"
+      }
+    ],
+    "11": [
+      {
+        "player_id": 6016,
+        "name": "Trae Young",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6698,
+        "name": "Dyson Daniels",
+        "positions": [
+          "PG",
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6019,
+        "name": "Collin Sexton",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 6619,
+        "name": "Sam Hauser",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "BOS"
+      },
+      {
+        "player_id": 5318,
+        "name": "Julius Randle",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 4901,
+        "name": "Tobias Harris",
+        "positions": [
+          "PF"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 5294,
+        "name": "Joel Embiid",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "PHI"
+      },
+      {
+        "player_id": 6712,
+        "name": "Walker Kessler",
+        "positions": [
+          "C"
+        ],
+        "status": "",
         "team": "UTA"
+      },
+      {
+        "player_id": 5640,
+        "name": "Jakob Poeltl",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 6417,
+        "name": "Immanuel Quickley",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 6048,
+        "name": "Gary Trent Jr.",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIL"
+      },
+      {
+        "player_id": 10450,
+        "name": "Kon Knueppel",
+        "positions": [
+          "SF"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 5159,
+        "name": "Kentavious Caldwell-Pope",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6175,
+        "name": "Tyler Herro",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "MIA"
+      },
+      {
+        "player_id": 4840,
+        "name": "Kyrie Irving",
+        "positions": [
+          "PG"
+        ],
+        "status": "INJ",
+        "team": "DAL"
+      },
+      {
+        "player_id": 10048,
+        "name": "Scoot Henderson",
+        "positions": [
+          "PG"
+        ],
+        "status": "INJ",
+        "team": "POR"
+      }
+    ],
+    "12": [
+      {
+        "player_id": 6164,
+        "name": "Ja Morant",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6515,
+        "name": "Scottie Barnes",
+        "positions": [
+          "SG",
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 6418,
+        "name": "Payton Pritchard",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "BOS"
       },
       {
         "player_id": 6550,
@@ -4047,8 +3799,8 @@
         "team": "ORL"
       },
       {
-        "player_id": 6411,
-        "name": "Saddiq Bey",
+        "player_id": 6559,
+        "name": "Trey Murphy III",
         "positions": [
           "SF",
           "PF"
@@ -4057,13 +3809,315 @@
         "team": "NOP"
       },
       {
-        "player_id": 5958,
-        "name": "Deandre Ayton",
+        "player_id": 6420,
+        "name": "Jaden McDaniels",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "MIN"
+      },
+      {
+        "player_id": 10094,
+        "name": "Victor Wembanyama",
         "positions": [
           "C"
         ],
         "status": "",
-        "team": "LAL"
+        "team": "SAS"
+      },
+      {
+        "player_id": 6398,
+        "name": "Onyeka Okongwu",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "ATL"
+      },
+      {
+        "player_id": 6516,
+        "name": "Jalen Suggs",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "ORL"
+      },
+      {
+        "player_id": 6073,
+        "name": "Duncan Robinson",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "DET"
+      },
+      {
+        "player_id": 10464,
+        "name": "Yang Hansen",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "POR"
+      },
+      {
+        "player_id": 10101,
+        "name": "Gradey Dick",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 10272,
+        "name": "Kyshawn George",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "WAS"
+      }
+    ],
+    "13": [
+      {
+        "player_id": 4563,
+        "name": "James Harden",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "LAC"
+      },
+      {
+        "player_id": 10467,
+        "name": "Dylan Harper",
+        "positions": [
+          "SG"
+        ],
+        "status": "",
+        "team": "SAS"
+      },
+      {
+        "player_id": 10445,
+        "name": "Egor Dëmin",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "BKN"
+      },
+      {
+        "player_id": 6023,
+        "name": "Miles Bridges",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 6577,
+        "name": "Herbert Jones",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "NOP"
+      },
+      {
+        "player_id": 6569,
+        "name": "Cam Thomas",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "BKN"
+      },
+      {
+        "player_id": 6705,
+        "name": "Mark Williams",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "PHX"
+      },
+      {
+        "player_id": 6733,
+        "name": "Moussa Diabaté",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "CHA"
+      },
+      {
+        "player_id": 10110,
+        "name": "Taylor Hendricks",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "UTA"
+      },
+      {
+        "player_id": 6717,
+        "name": "Nikola Jović",
+        "positions": [
+          "PF"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 5638,
+        "name": "Jamal Murray",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "DEN"
+      },
+      {
+        "player_id": 4612,
+        "name": "Stephen Curry",
+        "positions": [
+          "PG"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5647,
+        "name": "Guerschon Yabusele",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "NYK"
+      },
+      {
+        "player_id": 10099,
+        "name": "Bilal Coulibaly",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "INJ",
+        "team": "WAS"
+      },
+      {
+        "player_id": 5767,
+        "name": "De'Aaron Fox",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "INJ",
+        "team": "SAS"
+      },
+      {
+        "player_id": 10287,
+        "name": "Zach Edey",
+        "positions": [
+          "C"
+        ],
+        "status": "INJ",
+        "team": "MEM"
+      },
+      {
+        "player_id": 6167,
+        "name": "Darius Garland",
+        "positions": [
+          "PG"
+        ],
+        "status": "INJ",
+        "team": "CLE"
+      }
+    ],
+    "14": [
+      {
+        "player_id": 5187,
+        "name": "Dennis Schröder",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "status": "",
+        "team": "SAC"
+      },
+      {
+        "player_id": 5506,
+        "name": "Norman Powell",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 5292,
+        "name": "Andrew Wiggins",
+        "positions": [
+          "SG",
+          "SF"
+        ],
+        "status": "",
+        "team": "MIA"
+      },
+      {
+        "player_id": 4912,
+        "name": "Jimmy Butler III",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 5658,
+        "name": "Pascal Siakam",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "IND"
+      },
+      {
+        "player_id": 6165,
+        "name": "RJ Barrett",
+        "positions": [
+          "SF",
+          "PF"
+        ],
+        "status": "",
+        "team": "TOR"
+      },
+      {
+        "player_id": 5352,
+        "name": "Nikola Jokić",
+        "positions": [
+          "C"
+        ],
+        "status": "",
+        "team": "DEN"
       },
       {
         "player_id": 5663,
@@ -4075,78 +4129,56 @@
         "team": "LAC"
       },
       {
-        "player_id": 10312,
-        "name": "Pelle Larsson",
+        "player_id": 4892,
+        "name": "Klay Thompson",
         "positions": [
           "SG",
           "SF"
         ],
         "status": "",
-        "team": "MIA"
+        "team": "DAL"
       },
       {
-        "player_id": 6169,
-        "name": "Coby White",
+        "player_id": 6578,
+        "name": "Miles McBride",
         "positions": [
           "PG",
           "SG"
         ],
         "status": "",
-        "team": "CHI"
-      },
-      {
-        "player_id": 6021,
-        "name": "Mikal Bridges",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "",
         "team": "NYK"
       },
       {
-        "player_id": 10096,
-        "name": "Ausar Thompson",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "status": "",
-        "team": "DET"
-      },
-      {
-        "player_id": 6569,
-        "name": "Cam Thomas",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "status": "INJ",
-        "team": "BKN"
-      },
-      {
-        "player_id": 5475,
-        "name": "Kelly Oubre Jr.",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "status": "INJ",
-        "team": "PHI"
-      },
-      {
-        "player_id": 5295,
-        "name": "Aaron Gordon",
+        "player_id": 5069,
+        "name": "Draymond Green",
         "positions": [
           "PF",
           "C"
         ],
+        "status": "",
+        "team": "GSW"
+      },
+      {
+        "player_id": 6254,
+        "name": "Luguentz Dort",
+        "positions": [
+          "SG",
+          "SF"
+        ],
         "status": "GTD",
-        "team": "DEN"
+        "team": "OKC"
+      },
+      {
+        "player_id": 4245,
+        "name": "Al Horford",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "status": "",
+        "team": "GSW"
       }
     ]
   },
-  "last_updated": "2025-11-20 19:31:09"
+  "last_updated": "2025-10-23 12:32:20"
 }
