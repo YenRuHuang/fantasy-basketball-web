@@ -1,5 +1,5 @@
 /**
- * 蛇星刁手 Fantasy Basketball Data Center - Static Server
+ * 大亂鬥 Fantasy Basketball Data Center - Static Server
  * 提供 JSON 數據和靜態網頁服務
  */
 
@@ -22,7 +22,7 @@ app.get('/health', (req, res) => {
     res.json({
         status: 'healthy',
         service: 'snakestar-basketball-data-center',
-        league: '蛇星刁手',
+        league: '大亂鬥',
         timestamp: new Date().toISOString()
     });
 });
@@ -114,7 +114,7 @@ app.use((err, req, res, next) => {
 // 啟動服務器
 app.listen(PORT, () => {
     console.log('='.repeat(80));
-    console.log(' 蛇星刁手 Fantasy Basketball Data Center - Server Started');
+    console.log(' 大亂鬥 Fantasy Basketball Data Center - Server Started');
     console.log('='.repeat(80));
     console.log(`\n🚀 Server running on port ${PORT}`);
     console.log(`📊 Main page: http://localhost:${PORT}`);
