@@ -54,9 +54,10 @@ try:
     print(f"總週數: Week {num_weeks}")
     print()
 
-    # 獲取所有隊伍
+    # 獲取所有隊伍（使用 standings 以獲得戰績）
     print("步驟 3: 獲取所有隊伍資訊...")
-    teams = yahoo_query.get_league_teams()
+    standings = yahoo_query.get_league_standings()
+    teams = standings.teams if hasattr(standings, 'teams') else []
 
     teams_data = []
     for i, team in enumerate(teams, 1):
@@ -76,20 +77,28 @@ try:
             except:
                 pass
 
-        # 獲取戰績
+        # 獲取戰績（從 team_standings）
         wins = 0
         losses = 0
         ties = 0
+        rank = i
+        
         if hasattr(team, 'team_standings'):
-            standings = team.team_standings
-            if hasattr(standings, 'outcome_totals'):
-                outcome = standings.outcome_totals
+            standings_obj = team.team_standings
+            
+            # 獲取排名
+            if hasattr(standings_obj, 'rank'):
+                rank = int(standings_obj.rank) if standings_obj.rank else i
+            
+            # 獲取戰績
+            if hasattr(standings_obj, 'outcome_totals'):
+                outcome = standings_obj.outcome_totals
                 wins = int(outcome.wins) if hasattr(outcome, 'wins') and outcome.wins else 0
                 losses = int(outcome.losses) if hasattr(outcome, 'losses') and outcome.losses else 0
                 ties = int(outcome.ties) if hasattr(outcome, 'ties') and outcome.ties else 0
 
         team_info = {
-            'rank': i,
+            'rank': rank,
             'team_id': team.team_id,
             'team_name': team_name,
             'manager': manager_name,
@@ -99,7 +108,7 @@ try:
         }
 
         teams_data.append(team_info)
-        print(f"  {i}. {team_name} (Team ID: {team.team_id}) - {wins}-{losses}-{ties}")
+        print(f"  {rank}. {team_name} (ID: {team.team_id}) - {wins}勝-{losses}敗-{ties}和")
 
     print()
 

@@ -1,12 +1,12 @@
 {
-  "generated_at": "2025-11-21 01:30:25",
+  "generated_at": "2025-11-21 01:40:15",
   "league_name": "大亂鬥",
   "current_week": 5,
   "total_players": 208,
   "tier_distribution": {
-    "S": 90,
-    "A": 74,
-    "B": 6,
+    "S": 106,
+    "A": 55,
+    "B": 9,
     "C": 8,
     "D": 30
   },
@@ -26,54 +26,6 @@
   },
   "players": [
     {
-      "player_name": "Pascal Siakam",
-      "nba_team": "IND",
-      "positions": [
-        "SF",
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 24.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 114.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Toumani Camara",
-      "nba_team": "POR",
-      "positions": [
-        "SF",
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 24.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 114.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
       "player_name": "Jabari Smith Jr.",
       "nba_team": "HOU",
       "positions": [
@@ -90,12 +42,12 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 11.5,
         "special_bonus": 5,
-        "total": 114.8
+        "total": 116.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.575
     },
     {
       "player_name": "Zion Williamson",
@@ -114,464 +66,42 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 5,
-        "total": 114.8
+        "total": 115.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.525
     },
     {
-      "player_name": "Chet Holmgren",
-      "nba_team": "OKC",
+      "player_name": "Pascal Siakam",
+      "nba_team": "IND",
       "positions": [
+        "SF",
         "PF",
         "C"
       ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
+        "position_value": 24.8,
+        "multi_position_bonus": 10,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.0,
         "special_bonus": 5,
-        "total": 109.8
+        "total": 113.8
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.45
     },
     {
-      "player_name": "Yves Missi",
-      "nba_team": "NOP",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Isaiah Stewart",
-      "nba_team": "DET",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Nic Claxton",
-      "nba_team": "BKN",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Santi Aldama",
-      "nba_team": "MEM",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Donovan Clingan",
+      "player_name": "Toumani Camara",
       "nba_team": "POR",
       "positions": [
-        "C"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Quinten Post",
-      "nba_team": "GSW",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kevon Looney",
-      "nba_team": "NOP",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "John Collins",
-      "nba_team": "LAC",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Daniel Gafford",
-      "nba_team": "DAL",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Alperen Sengun",
-      "nba_team": "HOU",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Bobby Portis",
-      "nba_team": "MIL",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jalen Duren",
-      "nba_team": "DET",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Nikola Vučević",
-      "nba_team": "CHI",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Luke Kornet",
-      "nba_team": "SAS",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Wendell Carter Jr.",
-      "nba_team": "ORL",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Myles Turner",
-      "nba_team": "MIL",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jusuf Nurkić",
-      "nba_team": "UTA",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Neemias Queta",
-      "nba_team": "BOS",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Nikola Jokić",
-      "nba_team": "DEN",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Karl-Anthony Towns",
-      "nba_team": "NYK",
-      "positions": [
+        "SF",
         "PF",
         "C"
       ],
@@ -580,38 +110,16 @@
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
+        "position_value": 24.8,
+        "multi_position_bonus": 10,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.0,
         "special_bonus": 5,
-        "total": 109.8
+        "total": 113.8
       },
       "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jarrett Allen",
-      "nba_team": "CLE",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.45
     },
     {
       "player_name": "Ryan Kalkbrenner",
@@ -628,12 +136,12 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 10,
-        "total": 109.8
+        "total": 112.5
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.637
     },
     {
       "player_name": "Bam Adebayo",
@@ -651,12 +159,367 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 5,
-        "total": 109.8
+        "total": 112.5
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Neemias Queta",
+      "nba_team": "BOS",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 5,
+        "total": 112.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Nikola Jokić",
+      "nba_team": "DEN",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 10,
+        "total": 112.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Wendell Carter Jr.",
+      "nba_team": "ORL",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 10,
+        "total": 112.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Myles Turner",
+      "nba_team": "MIL",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 10,
+        "total": 112.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Jusuf Nurkić",
+      "nba_team": "UTA",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 10,
+        "total": 112.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Deandre Ayton",
+      "nba_team": "LAL",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 10,
+        "total": 111.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Ivica Zubac",
+      "nba_team": "LAC",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 10,
+        "total": 111.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Mark Williams",
+      "nba_team": "PHX",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 10,
+        "total": 111.2
+      },
+      "tier": "S",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Steven Adams",
+      "nba_team": "HOU",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 10,
+        "total": 111.2
+      },
+      "tier": "S",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Isaiah Hartenstein",
+      "nba_team": "OKC",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 10,
+        "total": 111.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Zach Edey",
+      "nba_team": "MEM",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 10,
+        "total": 111.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Derik Queen",
+      "nba_team": "NOP",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 10,
+        "total": 111.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Evan Mobley",
+      "nba_team": "CLE",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 10.5,
+        "special_bonus": 5,
+        "total": 110.2
+      },
+      "tier": "S",
+      "win_rate": 0.525
+    },
+    {
+      "player_name": "Kel'el Ware",
+      "nba_team": "MIA",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 10.5,
+        "special_bonus": 5,
+        "total": 110.2
+      },
+      "tier": "S",
+      "win_rate": 0.525
+    },
+    {
+      "player_name": "Rudy Gobert",
+      "nba_team": "MIN",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 10.5,
+        "special_bonus": 10,
+        "total": 110.2
+      },
+      "tier": "S",
+      "win_rate": 0.525
+    },
+    {
+      "player_name": "Dereck Lively II",
+      "nba_team": "DAL",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 10.5,
+        "special_bonus": 10,
+        "total": 110.2
+      },
+      "tier": "S",
+      "win_rate": 0.525
     },
     {
       "player_name": "Onyeka Okongwu",
@@ -727,101 +590,36 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Mark Williams",
-      "nba_team": "PHX",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Steven Adams",
-      "nba_team": "HOU",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Isaiah Hartenstein",
+      "player_name": "Chet Holmgren",
       "nba_team": "OKC",
       "positions": [
+        "PF",
         "C"
       ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
+        "team_strength": 9.2,
+        "special_bonus": 5,
+        "total": 109.0
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.463
     },
     {
-      "player_name": "Zach Edey",
-      "nba_team": "MEM",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Derik Queen",
+      "player_name": "Yves Missi",
       "nba_team": "NOP",
       "positions": [
         "C"
       ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -829,12 +627,80 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.2,
         "special_bonus": 10,
-        "total": 109.8
+        "total": 109.0
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Isaiah Stewart",
+      "nba_team": "DET",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 9.2,
+        "special_bonus": 5,
+        "total": 109.0
+      },
+      "tier": "S",
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Karl-Anthony Towns",
+      "nba_team": "NYK",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 5,
+        "total": 108.8
+      },
+      "tier": "S",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Jarrett Allen",
+      "nba_team": "CLE",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 10,
+        "total": 108.8
+      },
+      "tier": "S",
+      "win_rate": 0.45
     },
     {
       "player_name": "Naz Reid",
@@ -852,12 +718,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 5,
-        "total": 109.8
+        "total": 108.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
       "player_name": "Moussa Diabaté",
@@ -874,12 +740,12 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 10,
-        "total": 109.8
+        "total": 108.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
       "player_name": "Jakob Poeltl",
@@ -896,12 +762,12 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 10,
-        "total": 109.8
+        "total": 108.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
       "player_name": "Andre Drummond",
@@ -918,22 +784,22 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 10,
-        "total": 109.8
+        "total": 108.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
-      "player_name": "Evan Mobley",
-      "nba_team": "CLE",
+      "player_name": "John Collins",
+      "nba_team": "LAC",
       "positions": [
         "PF",
         "C"
       ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -941,66 +807,21 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.0,
         "special_bonus": 5,
-        "total": 109.8
+        "total": 107.8
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.4
     },
     {
-      "player_name": "Kel'el Ware",
-      "nba_team": "MIA",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Rudy Gobert",
-      "nba_team": "MIN",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Dereck Lively II",
+      "player_name": "Daniel Gafford",
       "nba_team": "DAL",
       "positions": [
         "C"
       ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -1008,104 +829,146 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.0,
         "special_bonus": 10,
-        "total": 109.8
+        "total": 107.8
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.4
     },
     {
-      "player_name": "Deandre Ayton",
-      "nba_team": "LAL",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ivica Zubac",
-      "nba_team": "LAC",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kevin Durant",
+      "player_name": "Alperen Sengun",
       "nba_team": "HOU",
       "positions": [
-        "SG",
-        "SF",
-        "PF"
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 5,
+        "total": 107.8
+      },
+      "tier": "S",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Nic Claxton",
+      "nba_team": "BKN",
+      "positions": [
+        "C"
       ],
       "fantasy_team": "哎呦蠻大的",
       "fantasy_team_id": "2",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
+        "team_strength": 7.2,
+        "special_bonus": 10,
+        "total": 107.0
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.362
     },
     {
-      "player_name": "RJ Barrett",
-      "nba_team": "TOR",
+      "player_name": "Santi Aldama",
+      "nba_team": "MEM",
       "positions": [
-        "SG",
-        "SF",
-        "PF"
+        "PF",
+        "C"
       ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
         "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
+        "team_strength": 7.2,
+        "special_bonus": 5,
+        "total": 107.0
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Donovan Clingan",
+      "nba_team": "POR",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 10,
+        "total": 107.0
+      },
+      "tier": "S",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Quinten Post",
+      "nba_team": "GSW",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 10,
+        "total": 107.0
+      },
+      "tier": "S",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Kevon Looney",
+      "nba_team": "NOP",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 10,
+        "total": 107.0
+      },
+      "tier": "S",
+      "win_rate": 0.362
     },
     {
       "player_name": "Josh Hart",
@@ -1117,6 +980,215 @@
       ],
       "fantasy_team": "JW999",
       "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 105.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Bobby Portis",
+      "nba_team": "MIL",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 5,
+        "total": 105.0
+      },
+      "tier": "S",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Jalen Duren",
+      "nba_team": "DET",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 10,
+        "total": 105.0
+      },
+      "tier": "S",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Nikola Vučević",
+      "nba_team": "CHI",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 10,
+        "total": 105.0
+      },
+      "tier": "S",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Luke Kornet",
+      "nba_team": "SAS",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 10,
+        "total": 105.0
+      },
+      "tier": "S",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Mikal Bridges",
+      "nba_team": "NYK",
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 104.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Ausar Thompson",
+      "nba_team": "DET",
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 104.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Scottie Barnes",
+      "nba_team": "TOR",
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 104.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Brandon Ingram",
+      "nba_team": "TOR",
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 104.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Jaime Jaquez Jr.",
+      "nba_team": "MIA",
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "振彥's First-Class Team",
+      "fantasy_team_id": "9",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -1148,12 +1220,12 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 7.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.0,
         "special_bonus": 0,
-        "total": 102.8
+        "total": 101.8
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.45
     },
     {
       "player_name": "Andrew Wiggins",
@@ -1172,204 +1244,12 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 7.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.0,
         "special_bonus": 0,
-        "total": 102.8
+        "total": 101.8
       },
       "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jaime Jaquez Jr.",
-      "nba_team": "MIA",
-      "positions": [
-        "SG",
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "振彥's First-Class Team",
-      "fantasy_team_id": "9",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Scottie Barnes",
-      "nba_team": "TOR",
-      "positions": [
-        "SG",
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Brandon Ingram",
-      "nba_team": "TOR",
-      "positions": [
-        "SG",
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Mikal Bridges",
-      "nba_team": "NYK",
-      "positions": [
-        "SG",
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ausar Thompson",
-      "nba_team": "DET",
-      "positions": [
-        "SG",
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 17.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 102.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Zach LaVine",
-      "nba_team": "SAC",
-      "positions": [
-        "PG",
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 13.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 98.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Amen Thompson",
-      "nba_team": "HOU",
-      "positions": [
-        "PG",
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 13.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 98.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Nickeil Alexander-Walker",
-      "nba_team": "ATL",
-      "positions": [
-        "PG",
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 13.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 98.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.45
     },
     {
       "player_name": "Dyson Daniels",
@@ -1388,12 +1268,407 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 3.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 0,
-        "total": 98.8
+        "total": 101.5
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Amen Thompson",
+      "nba_team": "HOU",
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 13.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 101.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Nickeil Alexander-Walker",
+      "nba_team": "ATL",
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 13.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 101.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Harrison Barnes",
+      "nba_team": "SAS",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 100.5
+      },
+      "tier": "S",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Jalen Johnson",
+      "nba_team": "ATL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 100.5
+      },
+      "tier": "S",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Matas Buzelis",
+      "nba_team": "CHI",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 100.5
+      },
+      "tier": "S",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Miles Bridges",
+      "nba_team": "CHA",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 100.5
+      },
+      "tier": "S",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Austin Reaves",
+      "nba_team": "LAL",
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 13.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 100.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Naji Marshall",
+      "nba_team": "DAL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 100.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "P.J. Washington",
+      "nba_team": "DAL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 100.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Royce O'Neale",
+      "nba_team": "PHX",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 100.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Michael Porter Jr.",
+      "nba_team": "BKN",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 100.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "De'Andre Hunter",
+      "nba_team": "CLE",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 100.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Kevin Durant",
+      "nba_team": "HOU",
+      "positions": [
+        "SG",
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 0,
+        "total": 100.0
+      },
+      "tier": "S",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Franz Wagner",
+      "nba_team": "ORL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 99.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Saddiq Bey",
+      "nba_team": "NOP",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 99.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Tristan da Silva",
+      "nba_team": "ORL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 99.2
+      },
+      "tier": "S",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Jerami Grant",
+      "nba_team": "POR",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 99.2
+      },
+      "tier": "S",
+      "win_rate": 0.575
     },
     {
       "player_name": "Cason Wallace",
@@ -1420,605 +1695,6 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Austin Reaves",
-      "nba_team": "LAL",
-      "positions": [
-        "PG",
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 13.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 98.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Simone Fontecchio",
-      "nba_team": "MIA",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Cameron Johnson",
-      "nba_team": "DEN",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Lauri Markkanen",
-      "nba_team": "UTA",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Herbert Jones",
-      "nba_team": "NOP",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "DeMar DeRozan",
-      "nba_team": "SAC",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Rui Hachimura",
-      "nba_team": "LAL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Cam Whitmore",
-      "nba_team": "WAS",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Michael Porter Jr.",
-      "nba_team": "BKN",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "De'Andre Hunter",
-      "nba_team": "CLE",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Naji Marshall",
-      "nba_team": "DAL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "P.J. Washington",
-      "nba_team": "DAL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Royce O'Neale",
-      "nba_team": "PHX",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jarace Walker",
-      "nba_team": "IND",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kyle Kuzma",
-      "nba_team": "MIL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Sam Hauser",
-      "nba_team": "BOS",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Harrison Barnes",
-      "nba_team": "SAS",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jalen Johnson",
-      "nba_team": "ATL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Matas Buzelis",
-      "nba_team": "CHI",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Miles Bridges",
-      "nba_team": "CHA",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Tristan da Silva",
-      "nba_team": "ORL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jerami Grant",
-      "nba_team": "POR",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Keldon Johnson",
-      "nba_team": "SAS",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "李知恩圖報",
-      "fantasy_team_id": "12",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Deni Avdija",
-      "nba_team": "POR",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "李知恩圖報",
-      "fantasy_team_id": "12",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "LeBron James",
-      "nba_team": "LAL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "李知恩圖報",
-      "fantasy_team_id": "12",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ryan Dunn",
-      "nba_team": "PHX",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "李知恩圖報",
-      "fantasy_team_id": "12",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
       "player_name": "Dillon Brooks",
       "nba_team": "PHX",
       "positions": [
@@ -2034,103 +1710,36 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 7.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 0,
-        "total": 97.8
+        "total": 98.2
       },
       "tier": "S",
-      "win_rate": 0.5
+      "win_rate": 0.525
     },
     {
-      "player_name": "Franz Wagner",
-      "nba_team": "ORL",
+      "player_name": "RJ Barrett",
+      "nba_team": "TOR",
       "positions": [
+        "SG",
         "SF",
         "PF"
       ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
+        "position_value": 17.8,
+        "multi_position_bonus": 10,
         "scarcity_bonus": 7.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 5.2,
         "special_bonus": 0,
-        "total": 97.8
+        "total": 98.0
       },
       "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Saddiq Bey",
-      "nba_team": "NOP",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Draymond Green",
-      "nba_team": "GSW",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 94.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Domantas Sabonis",
-      "nba_team": "SAC",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 94.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.263
     },
     {
       "player_name": "Kyle Filipowski",
@@ -2148,12 +1757,701 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": 10,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 5,
-        "total": 94.8
+        "total": 97.5
       },
-      "tier": "A",
-      "win_rate": 0.5
+      "tier": "S",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Domantas Sabonis",
+      "nba_team": "SAC",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "GTD",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 10,
+        "team_strength": 12.5,
+        "special_bonus": 10,
+        "total": 97.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Simone Fontecchio",
+      "nba_team": "MIA",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 9.2,
+        "special_bonus": 0,
+        "total": 97.0
+      },
+      "tier": "S",
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Cameron Johnson",
+      "nba_team": "DEN",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 9.2,
+        "special_bonus": 0,
+        "total": 97.0
+      },
+      "tier": "S",
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Jarace Walker",
+      "nba_team": "IND",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 96.8
+      },
+      "tier": "S",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Kyle Kuzma",
+      "nba_team": "MIL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 96.8
+      },
+      "tier": "S",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Sam Hauser",
+      "nba_team": "BOS",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 96.8
+      },
+      "tier": "S",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Kon Knueppel",
+      "nba_team": "CHA",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 96.5
+      },
+      "tier": "S",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Aaron Gordon",
+      "nba_team": "DEN",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "GTD",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 10,
+        "team_strength": 11.8,
+        "special_bonus": 5,
+        "total": 96.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Bennedict Mathurin",
+      "nba_team": "IND",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Ayo Dosunmu",
+      "nba_team": "CHI",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Cedric Coward",
+      "nba_team": "MEM",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Desmond Bane",
+      "nba_team": "ORL",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Bilal Coulibaly",
+      "nba_team": "WAS",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Keldon Johnson",
+      "nba_team": "SAS",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "李知恩圖報",
+      "fantasy_team_id": "12",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.425
+    },
+    {
+      "player_name": "Deni Avdija",
+      "nba_team": "POR",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "李知恩圖報",
+      "fantasy_team_id": "12",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.425
+    },
+    {
+      "player_name": "LeBron James",
+      "nba_team": "LAL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "李知恩圖報",
+      "fantasy_team_id": "12",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.425
+    },
+    {
+      "player_name": "Ryan Dunn",
+      "nba_team": "PHX",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "李知恩圖報",
+      "fantasy_team_id": "12",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.5,
+        "special_bonus": 0,
+        "total": 96.2
+      },
+      "tier": "S",
+      "win_rate": 0.425
+    },
+    {
+      "player_name": "Alex Sarr",
+      "nba_team": "WAS",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "GTD",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 10,
+        "team_strength": 11.2,
+        "special_bonus": 10,
+        "total": 96.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Zach LaVine",
+      "nba_team": "SAC",
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 13.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 0,
+        "total": 96.0
+      },
+      "tier": "S",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Herbert Jones",
+      "nba_team": "NOP",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 95.8
+      },
+      "tier": "S",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "DeMar DeRozan",
+      "nba_team": "SAC",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 95.8
+      },
+      "tier": "S",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Rui Hachimura",
+      "nba_team": "LAL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 95.8
+      },
+      "tier": "S",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Devin Vassell",
+      "nba_team": "SAS",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 95.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Ace Bailey",
+      "nba_team": "UTA",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 95.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Pelle Larsson",
+      "nba_team": "MIA",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 95.5
+      },
+      "tier": "S",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Vít Krejčí",
+      "nba_team": "ATL",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 95.2
+      },
+      "tier": "S",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Alex Caruso",
+      "nba_team": "OKC",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 95.2
+      },
+      "tier": "S",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Moses Moody",
+      "nba_team": "GSW",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 95.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Kyshawn George",
+      "nba_team": "WAS",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 95.0
+      },
+      "tier": "S",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Lauri Markkanen",
+      "nba_team": "UTA",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 0,
+        "total": 95.0
+      },
+      "tier": "S",
+      "win_rate": 0.362
     },
     {
       "player_name": "Jaren Jackson Jr.",
@@ -2179,59 +2477,14 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Alex Sarr",
-      "nba_team": "WAS",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 94.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Aaron Gordon",
-      "nba_team": "DEN",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 94.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Klay Thompson",
+      "player_name": "Max Christie",
       "nba_team": "DAL",
       "positions": [
         "SG",
         "SF"
       ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -2239,242 +2492,58 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 3.8,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 0,
-        "total": 93.8
+        "total": 94.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.525
     },
     {
-      "player_name": "Landry Shamet",
-      "nba_team": "NYK",
+      "player_name": "Russell Westbrook",
+      "nba_team": "SAC",
       "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kevin Huerter",
-      "nba_team": "CHI",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jaylen Brown",
-      "nba_team": "BOS",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Cedric Coward",
-      "nba_team": "MEM",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Desmond Bane",
-      "nba_team": "ORL",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Bilal Coulibaly",
-      "nba_team": "WAS",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Bennedict Mathurin",
-      "nba_team": "IND",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ayo Dosunmu",
-      "nba_team": "CHI",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Duncan Robinson",
-      "nba_team": "DET",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kon Knueppel",
-      "nba_team": "CHA",
-      "positions": [
-        "SG",
-        "SF"
+        "PG",
+        "SG"
       ],
       "fantasy_team": "王美露の爹",
       "fantasy_team_id": "8",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 8.8,
+        "position_value": 6.0,
         "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
+        "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 0,
         "total": 93.8
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Immanuel Quickley",
+      "nba_team": "TOR",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 93.8
+      },
+      "tier": "A",
+      "win_rate": 0.637
     },
     {
       "player_name": "Quentin Grimes",
@@ -2546,512 +2615,6 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Vít Krejčí",
-      "nba_team": "ATL",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Alex Caruso",
-      "nba_team": "OKC",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Moses Moody",
-      "nba_team": "GSW",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kyshawn George",
-      "nba_team": "WAS",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Tim Hardaway Jr.",
-      "nba_team": "DEN",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "李知恩圖報",
-      "fantasy_team_id": "12",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ben Sheppard",
-      "nba_team": "IND",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "李知恩圖報",
-      "fantasy_team_id": "12",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Max Christie",
-      "nba_team": "DAL",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Devin Vassell",
-      "nba_team": "SAS",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ace Bailey",
-      "nba_team": "UTA",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Pelle Larsson",
-      "nba_team": "MIA",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 93.8
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jalen Suggs",
-      "nba_team": "ORL",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Donovan Mitchell",
-      "nba_team": "CLE",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ajay Mitchell",
-      "nba_team": "OKC",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Andrew Nembhard",
-      "nba_team": "IND",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "De'Aaron Fox",
-      "nba_team": "SAS",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "James Harden",
-      "nba_team": "LAC",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Ryan Rollins",
-      "nba_team": "MIL",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "LaMelo Ball",
-      "nba_team": "CHA",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Anfernee Simons",
-      "nba_team": "BOS",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Collin Sexton",
-      "nba_team": "CHA",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Brandin Podziemski",
-      "nba_team": "GSW",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Cade Cunningham",
-      "nba_team": "DET",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
       "player_name": "Devin Booker",
       "nba_team": "PHX",
       "positions": [
@@ -3067,12 +2630,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 93.5
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.625
     },
     {
       "player_name": "Dennis Schröder",
@@ -3090,22 +2653,22 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 93.5
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.625
     },
     {
-      "player_name": "Reed Sheppard",
-      "nba_team": "HOU",
+      "player_name": "Cade Cunningham",
+      "nba_team": "DET",
       "positions": [
         "PG",
         "SG"
       ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3113,22 +2676,137 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 12.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 93.5
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.625
     },
     {
-      "player_name": "Keyonte George",
+      "player_name": "Cam Whitmore",
+      "nba_team": "WAS",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 0,
+        "total": 93.0
+      },
+      "tier": "A",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Donte DiVincenzo",
+      "nba_team": "MIN",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 92.8
+      },
+      "tier": "A",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Coby White",
+      "nba_team": "CHI",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 92.8
+      },
+      "tier": "A",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Duncan Robinson",
+      "nba_team": "DET",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 92.8
+      },
+      "tier": "A",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Anthony Black",
+      "nba_team": "ORL",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 92.5
+      },
+      "tier": "A",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Isaiah Collier",
       "nba_team": "UTA",
       "positions": [
         "PG",
         "SG"
       ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3136,22 +2814,114 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 11.2,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 92.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.562
     },
     {
-      "player_name": "Russell Westbrook",
-      "nba_team": "SAC",
+      "player_name": "Tim Hardaway Jr.",
+      "nba_team": "DEN",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "李知恩圖報",
+      "fantasy_team_id": "12",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 8.5,
+        "special_bonus": 0,
+        "total": 92.2
+      },
+      "tier": "A",
+      "win_rate": 0.425
+    },
+    {
+      "player_name": "Ben Sheppard",
+      "nba_team": "IND",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "李知恩圖報",
+      "fantasy_team_id": "12",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 8.5,
+        "special_bonus": 0,
+        "total": 92.2
+      },
+      "tier": "A",
+      "win_rate": 0.425
+    },
+    {
+      "player_name": "Draymond Green",
+      "nba_team": "GSW",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "GTD",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 10,
+        "team_strength": 7.2,
+        "special_bonus": 5,
+        "total": 92.0
+      },
+      "tier": "A",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Landry Shamet",
+      "nba_team": "NYK",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 91.8
+      },
+      "tier": "A",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Anthony Edwards",
+      "nba_team": "MIN",
       "positions": [
         "PG",
         "SG"
       ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3159,22 +2929,22 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 91.5
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.525
     },
     {
-      "player_name": "Immanuel Quickley",
-      "nba_team": "TOR",
+      "player_name": "Jamal Murray",
+      "nba_team": "DEN",
       "positions": [
         "PG",
         "SG"
       ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3182,12 +2952,35 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 91.5
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.525
+    },
+    {
+      "player_name": "Kris Dunn",
+      "nba_team": "LAC",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 10.5,
+        "special_bonus": 0,
+        "total": 91.5
+      },
+      "tier": "A",
+      "win_rate": 0.525
     },
     {
       "player_name": "CJ McCollum",
@@ -3236,14 +3029,37 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Anthony Black",
+      "player_name": "Klay Thompson",
+      "nba_team": "DAL",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 0,
+        "total": 91.0
+      },
+      "tier": "A",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Jalen Suggs",
       "nba_team": "ORL",
       "positions": [
         "PG",
         "SG"
       ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3251,22 +3067,114 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.2,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 90.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.463
     },
     {
-      "player_name": "Isaiah Collier",
+      "player_name": "Donovan Mitchell",
+      "nba_team": "CLE",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 9.2,
+        "special_bonus": 0,
+        "total": 90.2
+      },
+      "tier": "A",
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Ajay Mitchell",
+      "nba_team": "OKC",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 9.2,
+        "special_bonus": 0,
+        "total": 90.2
+      },
+      "tier": "A",
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Andrew Nembhard",
+      "nba_team": "IND",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 9.2,
+        "special_bonus": 0,
+        "total": 90.2
+      },
+      "tier": "A",
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Reed Sheppard",
+      "nba_team": "HOU",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 90.0
+      },
+      "tier": "A",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Keyonte George",
       "nba_team": "UTA",
       "positions": [
         "PG",
         "SG"
       ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3274,12 +3182,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.0,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 90.0
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.45
     },
     {
       "player_name": "Luka Dončić",
@@ -3297,12 +3205,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 89.5
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
       "player_name": "Josh Giddey",
@@ -3320,127 +3228,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 0,
-        "total": 91.0
+        "total": 89.5
       },
       "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Anthony Edwards",
-      "nba_team": "MIN",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jamal Murray",
-      "nba_team": "DEN",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kris Dunn",
-      "nba_team": "LAC",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Donte DiVincenzo",
-      "nba_team": "MIN",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Coby White",
-      "nba_team": "CHI",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 91.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
       "player_name": "Paul George",
@@ -3459,12 +3252,328 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 7.8,
         "health_value": 10,
-        "team_strength": 10.0,
+        "team_strength": 11.5,
         "special_bonus": 0,
-        "total": 87.8
+        "total": 89.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "James Harden",
+      "nba_team": "LAC",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 89.0
+      },
+      "tier": "A",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Ryan Rollins",
+      "nba_team": "MIL",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 89.0
+      },
+      "tier": "A",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "LaMelo Ball",
+      "nba_team": "CHA",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 89.0
+      },
+      "tier": "A",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Kevin Huerter",
+      "nba_team": "CHI",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 0,
+        "total": 89.0
+      },
+      "tier": "A",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Jaylen Brown",
+      "nba_team": "BOS",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": 25,
+        "team_strength": 5.2,
+        "special_bonus": 0,
+        "total": 89.0
+      },
+      "tier": "A",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "VJ Edgecombe",
+      "nba_team": "PHI",
+      "positions": [
+        "SG"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 1.0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 88.5
+      },
+      "tier": "A",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "De'Aaron Fox",
+      "nba_team": "SAS",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 7.2,
+        "special_bonus": 0,
+        "total": 88.2
+      },
+      "tier": "A",
+      "win_rate": 0.362
+    },
+    {
+      "player_name": "Shai Gilgeous-Alexander",
+      "nba_team": "OKC",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 87.5
+      },
+      "tier": "A",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Cam Spencer",
+      "nba_team": "MEM",
+      "positions": [
+        "SG"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 1.0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 87.5
+      },
+      "tier": "A",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Malik Monk",
+      "nba_team": "SAC",
+      "positions": [
+        "SG"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 1.0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 1.0,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 87.2
+      },
+      "tier": "A",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Cooper Flagg",
+      "nba_team": "DAL",
+      "positions": [
+        "PG",
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "GTD",
+      "scores": {
+        "base": 50,
+        "position_value": 13.8,
+        "multi_position_bonus": 10,
+        "scarcity_bonus": 3.8,
+        "health_value": 10,
+        "team_strength": 12.8,
+        "special_bonus": 0,
+        "total": 86.5
+      },
+      "tier": "A",
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Tyrese Maxey",
+      "nba_team": "PHI",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 86.5
+      },
+      "tier": "A",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Jeremiah Fears",
+      "nba_team": "NOP",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 86.2
+      },
+      "tier": "A",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Davion Mitchell",
+      "nba_team": "MIA",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 86.2
+      },
+      "tier": "A",
+      "win_rate": 0.562
     },
     {
       "player_name": "Jimmy Butler III",
@@ -3483,188 +3592,81 @@
         "multi_position_bonus": 10,
         "scarcity_bonus": 7.8,
         "health_value": 10,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 0,
-        "total": 87.8
+        "total": 86.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
-      "player_name": "VJ Edgecombe",
-      "nba_team": "PHI",
+      "player_name": "Anfernee Simons",
+      "nba_team": "BOS",
       "positions": [
+        "PG",
         "SG"
       ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 1.0,
-        "multi_position_bonus": 0,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 5.2,
         "special_bonus": 0,
-        "total": 86.0
+        "total": 86.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.263
     },
     {
-      "player_name": "Cam Spencer",
-      "nba_team": "MEM",
+      "player_name": "Collin Sexton",
+      "nba_team": "CHA",
       "positions": [
+        "PG",
         "SG"
       ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 1.0,
-        "multi_position_bonus": 0,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 5.2,
         "special_bonus": 0,
-        "total": 86.0
+        "total": 86.2
       },
       "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.263
     },
     {
-      "player_name": "Malik Monk",
-      "nba_team": "SAC",
+      "player_name": "Brandin Podziemski",
+      "nba_team": "GSW",
       "positions": [
+        "PG",
         "SG"
       ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
       "status": "Healthy",
       "scores": {
         "base": 50,
-        "position_value": 1.0,
-        "multi_position_bonus": 0,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 5.2,
         "special_bonus": 0,
-        "total": 86.0
+        "total": 86.2
       },
       "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "T.J. McConnell",
-      "nba_team": "IND",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Daniss Jenkins",
-      "nba_team": "DET",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Brandon Williams",
-      "nba_team": "DAL",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Shai Gilgeous-Alexander",
-      "nba_team": "OKC",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jalen Brunson",
-      "nba_team": "NYK",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
+      "win_rate": 0.263
     },
     {
       "player_name": "Payton Pritchard",
@@ -3711,13 +3713,13 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Tyrese Maxey",
-      "nba_team": "PHI",
+      "player_name": "T.J. McConnell",
+      "nba_team": "IND",
       "positions": [
         "PG"
       ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
       "status": "Healthy",
       "scores": {
         "base": 50,
@@ -3725,80 +3727,78 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 0,
         "health_value": 25,
-        "team_strength": 10.0,
+        "team_strength": 9.2,
         "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jeremiah Fears",
-      "nba_team": "NOP",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Davion Mitchell",
-      "nba_team": "MIA",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 85.0
-      },
-      "tier": "A",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Cooper Flagg",
-      "nba_team": "DAL",
-      "positions": [
-        "PG",
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 13.8,
-        "multi_position_bonus": 10,
-        "scarcity_bonus": 3.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 83.8
+        "total": 84.2
       },
       "tier": "B",
-      "win_rate": 0.5
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Jalen Brunson",
+      "nba_team": "NYK",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 84.0
+      },
+      "tier": "B",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Daniss Jenkins",
+      "nba_team": "DET",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 83.0
+      },
+      "tier": "B",
+      "win_rate": 0.4
+    },
+    {
+      "player_name": "Brandon Williams",
+      "nba_team": "DAL",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 25,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 83.0
+      },
+      "tier": "B",
+      "win_rate": 0.4
     },
     {
       "player_name": "Jaden McDaniels",
@@ -3816,58 +3816,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 7.8,
         "health_value": 10,
-        "team_strength": 10.0,
+        "team_strength": 9.2,
         "special_bonus": 0,
-        "total": 82.8
+        "total": 82.0
       },
       "tier": "B",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Zaccharie Risacher",
-      "nba_team": "ATL",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 82.8
-      },
-      "tier": "B",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Sam Merrill",
-      "nba_team": "CLE",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 78.8
-      },
-      "tier": "B",
-      "win_rate": 0.5
+      "win_rate": 0.463
     },
     {
       "player_name": "Shaedon Sharpe",
@@ -3885,12 +3839,35 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 3.8,
         "health_value": 10,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 0,
-        "total": 78.8
+        "total": 81.5
       },
       "tier": "B",
-      "win_rate": 0.5
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Zaccharie Risacher",
+      "nba_team": "ATL",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "GTD",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 10,
+        "team_strength": 7.2,
+        "special_bonus": 0,
+        "total": 80.0
+      },
+      "tier": "B",
+      "win_rate": 0.362
     },
     {
       "player_name": "Nikola Jović",
@@ -3907,102 +3884,35 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 7.8,
         "health_value": 10,
-        "team_strength": 10.0,
+        "team_strength": 11.5,
         "special_bonus": 0,
-        "total": 77.8
+        "total": 79.2
       },
       "tier": "B",
-      "win_rate": 0.5
+      "win_rate": 0.575
     },
     {
-      "player_name": "Stephen Curry",
-      "nba_team": "GSW",
+      "player_name": "Sam Merrill",
+      "nba_team": "CLE",
       "positions": [
-        "PG"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "GTD",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": 10,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 70.0
-      },
-      "tier": "C",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Giannis Antetokounmpo",
-      "nba_team": "MIL",
-      "positions": [
-        "PF",
-        "C"
+        "SG",
+        "SF"
       ],
       "fantasy_team": "默絲佛陀攝影掃地伯",
       "fantasy_team_id": "1",
-      "status": "INJ",
+      "status": "GTD",
       "scores": {
         "base": 50,
-        "position_value": 19.8,
+        "position_value": 8.8,
         "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 69.8
+        "scarcity_bonus": 3.8,
+        "health_value": 10,
+        "team_strength": 9.2,
+        "special_bonus": 0,
+        "total": 78.0
       },
-      "tier": "C",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kristaps Porziņģis",
-      "nba_team": "ATL",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 5,
-        "total": 69.8
-      },
-      "tier": "C",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Joel Embiid",
-      "nba_team": "PHI",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 69.8
-      },
-      "tier": "C",
-      "win_rate": 0.5
+      "tier": "B",
+      "win_rate": 0.463
     },
     {
       "player_name": "Walker Kessler",
@@ -4019,12 +3929,12 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 12.5,
         "special_bonus": 10,
-        "total": 69.8
+        "total": 72.2
       },
       "tier": "C",
-      "win_rate": 0.5
+      "win_rate": 0.625
     },
     {
       "player_name": "Victor Wembanyama",
@@ -4041,12 +3951,12 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 11.5,
         "special_bonus": 10,
-        "total": 69.8
+        "total": 71.2
       },
       "tier": "C",
-      "win_rate": 0.5
+      "win_rate": 0.575
     },
     {
       "player_name": "Anthony Davis",
@@ -4064,12 +3974,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 11.5,
         "special_bonus": 5,
-        "total": 69.8
+        "total": 71.2
       },
       "tier": "C",
-      "win_rate": 0.5
+      "win_rate": 0.575
     },
     {
       "player_name": "Paolo Banchero",
@@ -4087,127 +3997,102 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 11.2,
         "special_bonus": 5,
-        "total": 69.8
+        "total": 71.0
       },
       "tier": "C",
-      "win_rate": 0.5
+      "win_rate": 0.562
     },
     {
-      "player_name": "Jayson Tatum",
-      "nba_team": "BOS",
+      "player_name": "Giannis Antetokounmpo",
+      "nba_team": "MIL",
       "positions": [
-        "SF",
-        "PF"
+        "PF",
+        "C"
       ],
       "fantasy_team": "默絲佛陀攝影掃地伯",
       "fantasy_team_id": "1",
       "status": "INJ",
       "scores": {
         "base": 50,
-        "position_value": 12.8,
+        "position_value": 19.8,
         "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
+        "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 57.8
+        "team_strength": 9.2,
+        "special_bonus": 5,
+        "total": 69.0
       },
-      "tier": "D",
-      "win_rate": 0.5
+      "tier": "C",
+      "win_rate": 0.463
     },
     {
-      "player_name": "Jonathan Kuminga",
-      "nba_team": "GSW",
+      "player_name": "Kristaps Porziņģis",
+      "nba_team": "ATL",
       "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "哎呦蠻大的",
-      "fantasy_team_id": "2",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 57.8
-      },
-      "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kawhi Leonard",
-      "nba_team": "LAC",
-      "positions": [
-        "SF",
-        "PF"
+        "PF",
+        "C"
       ],
       "fantasy_team": "Fu班的捍衛戰士獨行俠",
       "fantasy_team_id": "3",
       "status": "INJ",
       "scores": {
         "base": 50,
-        "position_value": 12.8,
+        "position_value": 19.8,
         "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
+        "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 57.8
+        "team_strength": 8.0,
+        "special_bonus": 5,
+        "total": 67.8
       },
-      "tier": "D",
-      "win_rate": 0.5
+      "tier": "C",
+      "win_rate": 0.4
     },
     {
-      "player_name": "Brandon Miller",
-      "nba_team": "CHA",
+      "player_name": "Joel Embiid",
+      "nba_team": "PHI",
       "positions": [
-        "SF",
-        "PF"
+        "C"
       ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
       "status": "INJ",
       "scores": {
         "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
         "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 57.8
+        "team_strength": 8.0,
+        "special_bonus": 10,
+        "total": 67.8
       },
-      "tier": "D",
-      "win_rate": 0.5
+      "tier": "C",
+      "win_rate": 0.4
     },
     {
-      "player_name": "Derrick Jones Jr.",
-      "nba_team": "LAC",
+      "player_name": "Stephen Curry",
+      "nba_team": "GSW",
       "positions": [
-        "SF",
-        "PF"
+        "PG"
       ],
-      "fantasy_team": "JW999",
-      "fantasy_team_id": "5",
-      "status": "INJ",
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
+      "status": "GTD",
       "scores": {
         "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": -15,
-        "team_strength": 10.0,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": 10,
+        "team_strength": 7.2,
         "special_bonus": 0,
-        "total": 57.8
+        "total": 67.2
       },
-      "tier": "D",
-      "win_rate": 0.5
+      "tier": "C",
+      "win_rate": 0.362
     },
     {
       "player_name": "Keegan Murray",
@@ -4225,12 +4110,104 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 7.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 12.5,
         "special_bonus": 0,
-        "total": 57.8
+        "total": 60.2
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Derrick Jones Jr.",
+      "nba_team": "LAC",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "JW999",
+      "fantasy_team_id": "5",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": -15,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 60.2
+      },
+      "tier": "D",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Kelly Oubre Jr.",
+      "nba_team": "PHI",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Lakers in 5",
+      "fantasy_team_id": "14",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": -15,
+        "team_strength": 11.8,
+        "special_bonus": 0,
+        "total": 59.5
+      },
+      "tier": "D",
+      "win_rate": 0.588
+    },
+    {
+      "player_name": "Jalen Williams",
+      "nba_team": "OKC",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "雷霆總冠軍",
+      "fantasy_team_id": "11",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": -15,
+        "team_strength": 11.2,
+        "special_bonus": 0,
+        "total": 59.0
+      },
+      "tier": "D",
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "OG Anunoby",
+      "nba_team": "NYK",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": -15,
+        "team_strength": 10.5,
+        "special_bonus": 0,
+        "total": 58.2
+      },
+      "tier": "D",
+      "win_rate": 0.525
     },
     {
       "player_name": "Tari Eason",
@@ -4256,14 +4233,14 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Jalen Williams",
-      "nba_team": "OKC",
+      "player_name": "Jayson Tatum",
+      "nba_team": "BOS",
       "positions": [
         "SF",
         "PF"
       ],
-      "fantasy_team": "雷霆總冠軍",
-      "fantasy_team_id": "11",
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
       "status": "INJ",
       "scores": {
         "base": 50,
@@ -4271,58 +4248,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 7.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 9.2,
         "special_bonus": 0,
-        "total": 57.8
+        "total": 57.0
       },
       "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "OG Anunoby",
-      "nba_team": "NYK",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 57.8
-      },
-      "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kelly Oubre Jr.",
-      "nba_team": "PHI",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "Lakers in 5",
-      "fantasy_team_id": "14",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 57.8
-      },
-      "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.463
     },
     {
       "player_name": "Christian Braun",
@@ -4340,12 +4271,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 3.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 0,
-        "total": 53.8
+        "total": 56.5
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.637
     },
     {
       "player_name": "Grayson Allen",
@@ -4363,58 +4294,35 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 3.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 0,
-        "total": 53.8
+        "total": 56.5
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.637
     },
     {
-      "player_name": "Aaron Nesmith",
-      "nba_team": "IND",
+      "player_name": "Kawhi Leonard",
+      "nba_team": "LAC",
       "positions": [
-        "SG",
-        "SF"
+        "SF",
+        "PF"
       ],
-      "fantasy_team": "會演是英雄",
-      "fantasy_team_id": "10",
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
       "status": "INJ",
       "scores": {
         "base": 50,
-        "position_value": 8.8,
+        "position_value": 12.8,
         "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
+        "scarcity_bonus": 7.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 8.0,
         "special_bonus": 0,
-        "total": 53.8
+        "total": 55.8
       },
       "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Aaron Wiggins",
-      "nba_team": "OKC",
-      "positions": [
-        "SG",
-        "SF"
-      ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 8.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 3.8,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 53.8
-      },
-      "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.4
     },
     {
       "player_name": "Cam Thomas",
@@ -4432,172 +4340,81 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 3.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 11.8,
         "special_bonus": 0,
-        "total": 53.8
+        "total": 55.5
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.588
     },
     {
-      "player_name": "Tobias Harris",
-      "nba_team": "DET",
+      "player_name": "Aaron Nesmith",
+      "nba_team": "IND",
       "positions": [
+        "SG",
+        "SF"
+      ],
+      "fantasy_team": "會演是英雄",
+      "fantasy_team_id": "10",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 8.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 3.8,
+        "health_value": -15,
+        "team_strength": 11.5,
+        "special_bonus": 0,
+        "total": 55.2
+      },
+      "tier": "D",
+      "win_rate": 0.575
+    },
+    {
+      "player_name": "Jonathan Kuminga",
+      "nba_team": "GSW",
+      "positions": [
+        "SF",
         "PF"
       ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
+      "fantasy_team": "哎呦蠻大的",
+      "fantasy_team_id": "2",
       "status": "INJ",
       "scores": {
         "base": 50,
-        "position_value": 7.8,
-        "multi_position_bonus": 0,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
         "scarcity_bonus": 7.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 7.2,
         "special_bonus": 0,
-        "total": 52.8
+        "total": 55.0
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.362
     },
     {
-      "player_name": "Jalen Green",
-      "nba_team": "PHX",
+      "player_name": "Aaron Wiggins",
+      "nba_team": "OKC",
       "positions": [
-        "PG",
-        "SG"
+        "SG",
+        "SF"
       ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
       "status": "INJ",
       "scores": {
         "base": 50,
-        "position_value": 6.0,
+        "position_value": 8.8,
         "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
+        "scarcity_bonus": 3.8,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 0,
-        "total": 51.0
+        "total": 54.2
       },
       "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Dejounte Murray",
-      "nba_team": "NOP",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 51.0
-      },
-      "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Jrue Holiday",
-      "nba_team": "POR",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 51.0
-      },
-      "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Tre Jones",
-      "nba_team": "CHI",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 51.0
-      },
-      "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Dylan Harper",
-      "nba_team": "SAS",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 51.0
-      },
-      "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Kevin Porter Jr.",
-      "nba_team": "MIL",
-      "positions": [
-        "PG",
-        "SG"
-      ],
-      "fantasy_team": "Super呆呆",
-      "fantasy_team_id": "7",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 6.0,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 1.0,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 51.0
-      },
-      "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.525
     },
     {
       "player_name": "Tyler Herro",
@@ -4615,12 +4432,104 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 12.8,
         "special_bonus": 0,
-        "total": 51.0
+        "total": 53.8
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.637
+    },
+    {
+      "player_name": "Jrue Holiday",
+      "nba_team": "POR",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": -15,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 53.5
+      },
+      "tier": "D",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Tre Jones",
+      "nba_team": "CHI",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": -15,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 53.5
+      },
+      "tier": "D",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Dylan Harper",
+      "nba_team": "SAS",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": -15,
+        "team_strength": 12.5,
+        "special_bonus": 0,
+        "total": 53.5
+      },
+      "tier": "D",
+      "win_rate": 0.625
+    },
+    {
+      "player_name": "Brandon Miller",
+      "nba_team": "CHA",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": -15,
+        "team_strength": 5.2,
+        "special_bonus": 0,
+        "total": 53.0
+      },
+      "tier": "D",
+      "win_rate": 0.263
     },
     {
       "player_name": "Jordan Poole",
@@ -4638,12 +4547,57 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 11.2,
         "special_bonus": 0,
-        "total": 51.0
+        "total": 52.2
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.562
+    },
+    {
+      "player_name": "Tobias Harris",
+      "nba_team": "DET",
+      "positions": [
+        "PF"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 7.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 7.8,
+        "health_value": -15,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 51.8
+      },
+      "tier": "D",
+      "win_rate": 0.45
+    },
+    {
+      "player_name": "Kevin Porter Jr.",
+      "nba_team": "MIL",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Super呆呆",
+      "fantasy_team_id": "7",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": -15,
+        "team_strength": 9.0,
+        "special_bonus": 0,
+        "total": 50.0
+      },
+      "tier": "D",
+      "win_rate": 0.45
     },
     {
       "player_name": "Tyrese Haliburton",
@@ -4661,12 +4615,12 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 0,
-        "total": 51.0
+        "total": 49.5
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
       "player_name": "Stephon Castle",
@@ -4684,21 +4638,67 @@
         "multi_position_bonus": 5,
         "scarcity_bonus": 1.0,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 8.5,
         "special_bonus": 0,
-        "total": 51.0
+        "total": 49.5
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.425
     },
     {
-      "player_name": "Kyrie Irving",
-      "nba_team": "DAL",
+      "player_name": "Jalen Green",
+      "nba_team": "PHX",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": -15,
+        "team_strength": 5.2,
+        "special_bonus": 0,
+        "total": 46.2
+      },
+      "tier": "D",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Dejounte Murray",
+      "nba_team": "NOP",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 6.0,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 1.0,
+        "health_value": -15,
+        "team_strength": 5.2,
+        "special_bonus": 0,
+        "total": 46.2
+      },
+      "tier": "D",
+      "win_rate": 0.263
+    },
+    {
+      "player_name": "Ja Morant",
+      "nba_team": "MEM",
       "positions": [
         "PG"
       ],
-      "fantasy_team": "默絲佛陀攝影掃地伯",
-      "fantasy_team_id": "1",
+      "fantasy_team": "櫻木花道",
+      "fantasy_team_id": "13",
       "status": "INJ",
       "scores": {
         "base": 50,
@@ -4706,34 +4706,12 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 0,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 10.5,
         "special_bonus": 0,
-        "total": 45.0
+        "total": 45.5
       },
       "tier": "D",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Darius Garland",
-      "nba_team": "CLE",
-      "positions": [
-        "PG"
-      ],
-      "fantasy_team": "Fu班的捍衛戰士獨行俠",
-      "fantasy_team_id": "3",
-      "status": "INJ",
-      "scores": {
-        "base": 50,
-        "position_value": 0,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 0,
-        "health_value": -15,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 45.0
-      },
-      "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.525
     },
     {
       "player_name": "Trae Young",
@@ -4758,13 +4736,13 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Ja Morant",
-      "nba_team": "MEM",
+      "player_name": "Kyrie Irving",
+      "nba_team": "DAL",
       "positions": [
         "PG"
       ],
-      "fantasy_team": "櫻木花道",
-      "fantasy_team_id": "13",
+      "fantasy_team": "默絲佛陀攝影掃地伯",
+      "fantasy_team_id": "1",
       "status": "INJ",
       "scores": {
         "base": 50,
@@ -4772,12 +4750,34 @@
         "multi_position_bonus": 0,
         "scarcity_bonus": 0,
         "health_value": -15,
-        "team_strength": 10.0,
+        "team_strength": 9.2,
         "special_bonus": 0,
-        "total": 45.0
+        "total": 44.2
       },
       "tier": "D",
-      "win_rate": 0.5
+      "win_rate": 0.463
+    },
+    {
+      "player_name": "Darius Garland",
+      "nba_team": "CLE",
+      "positions": [
+        "PG"
+      ],
+      "fantasy_team": "Fu班的捍衛戰士獨行俠",
+      "fantasy_team_id": "3",
+      "status": "INJ",
+      "scores": {
+        "base": 50,
+        "position_value": 0,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 0,
+        "health_value": -15,
+        "team_strength": 8.0,
+        "special_bonus": 0,
+        "total": 43.0
+      },
+      "tier": "D",
+      "win_rate": 0.4
     }
   ]
 }
