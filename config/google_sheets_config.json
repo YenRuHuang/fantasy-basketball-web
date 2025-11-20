@@ -1,0 +1,13 @@
+{
+  "service_account_file": "config/google_service_account.json",
+  "spreadsheet_id": "19EPLNaYJTHlqZbMLlaQgF-OtmjLDMmb46ldem1380-o",
+  "sheets": {
+    "roster": "陣容",
+    "stats": "統計",
+    "matchup": "對戰",
+    "analysis": "分析",
+    "trades": "交易建議"
+  },
+  "update_frequency": "hourly",
+  "auto_format": true
+}

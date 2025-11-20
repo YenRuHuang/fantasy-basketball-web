@@ -1,0 +1,16 @@
+# Google Sheets 整合
+gspread>=5.12.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.1.0
+google-auth-httplib2>=0.1.1
+
+# 進階資料處理
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# 排程任務
+schedule>=1.2.0
+apscheduler>=3.10.0
+
+# 通知系統
+python-telegram-bot>=20.0  # 可選：Telegram 通知

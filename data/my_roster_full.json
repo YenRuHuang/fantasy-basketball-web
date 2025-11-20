@@ -1,0 +1,144 @@
+{
+  "team_name": "默絲佛陀攝影掃地伯",
+  "team_id": 1,
+  "week": 1,
+  "players": [
+    {
+      "name": "Andrew Nembhard",
+      "team": "IND",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Donovan Mitchell",
+      "team": "CLE",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Lonzo Ball",
+      "team": "CLE",
+      "positions": [
+        "PG",
+        "SG"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Bradley Beal",
+      "team": "LAC",
+      "positions": [
+        "SG",
+        "SF"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Kyle Filipowski",
+      "team": "UTA",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Chet Holmgren",
+      "team": "OKC",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Yves Missi",
+      "team": "NOP",
+      "positions": [
+        "C"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "team": "MIL",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Jalen Suggs",
+      "team": "ORL",
+      "positions": [
+        "PG"
+      ],
+      "status": "GTD",
+      "stats": {}
+    },
+    {
+      "name": "Jaden McDaniels",
+      "team": "MIN",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Cameron Johnson",
+      "team": "DEN",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Jayson Tatum",
+      "team": "BOS",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "status": "INJ",
+      "stats": {}
+    },
+    {
+      "name": "Russell Westbrook",
+      "team": "SAC",
+      "positions": [
+        "PG"
+      ],
+      "status": "",
+      "stats": {}
+    },
+    {
+      "name": "Kyrie Irving",
+      "team": "DAL",
+      "positions": [
+        "PG"
+      ],
+      "status": "INJ",
+      "stats": {}
+    }
+  ],
+  "total_players": 14
+}

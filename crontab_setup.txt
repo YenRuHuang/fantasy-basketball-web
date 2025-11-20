@@ -1,0 +1,43 @@
+# Fantasy Basketball 自動同步 Crontab 設定
+#
+# 使用方法:
+# 1. 編輯 crontab: crontab -e
+# 2. 複製以下內容貼上
+# 3. 儲存並退出 (按 ESC，然後輸入 :wq，按 Enter)
+#
+# Crontab 格式說明:
+# 分鐘 小時 日 月 星期 指令
+# *    *   *  *   *   command
+#
+# ============================================================
+
+# 選項 1: 每小時自動同步 (推薦)
+# 每小時的第 0 分鐘執行
+0 * * * * /Users/murs/Documents/fantasy-basketball-analyzer/auto_sync.sh
+
+# 選項 2: 每天早上 8 點同步
+# 取消下面的註解來使用
+# 0 8 * * * /Users/murs/Documents/fantasy-basketball-analyzer/auto_sync.sh
+
+# 選項 3: 每天早上 8 點和晚上 8 點同步
+# 取消下面的註解來使用
+# 0 8,20 * * * /Users/murs/Documents/fantasy-basketball-analyzer/auto_sync.sh
+
+# 選項 4: 每 2 小時同步一次
+# 取消下面的註解來使用
+# 0 */2 * * * /Users/murs/Documents/fantasy-basketball-analyzer/auto_sync.sh
+
+# 選項 5: 工作日（週一到週五）每小時同步
+# 取消下面的註解來使用
+# 0 * * * 1-5 /Users/murs/Documents/fantasy-basketball-analyzer/auto_sync.sh
+
+# ============================================================
+# 查看同步日誌:
+# cat /Users/murs/Documents/fantasy-basketball-analyzer/logs/auto_sync.log
+#
+# 查看 crontab 狀態:
+# crontab -l
+#
+# 刪除 crontab:
+# crontab -r
+# ============================================================

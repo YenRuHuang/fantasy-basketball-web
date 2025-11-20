@@ -1,0 +1,13 @@
+{
+  "service_account_file": "config/google_service_account.json",
+  "spreadsheet_id": "1KHS9wNfJ0dItWzj3uvCc63F1e06Hdol-flwxHYxLyjo",
+  "spreadsheet_name": "Fantasy 大亂鬥 Data Center",
+  "sheets": {
+    "standings": "聯盟排名",
+    "matchups": "本週對戰",
+    "schedule": "完整賽程",
+    "roster": "球員陣容",
+    "stats": "球隊統計",
+    "info": "聯盟資訊"
+  }
+}

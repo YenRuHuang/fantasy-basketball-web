@@ -1,0 +1,18 @@
+# Yahoo Fantasy Sports API - 核心套件
+yfpy
+yahoo-fantasy-api
+
+# 資料處理
+pandas
+numpy
+
+# HTTP 請求
+requests
+oauthlib
+
+# 環境變數
+python-dotenv
+
+# 日期處理
+python-dateutil
+pytz
