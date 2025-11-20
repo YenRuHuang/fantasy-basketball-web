@@ -33,21 +33,53 @@ print()
 # ============================================================================
 print("步驟 2: 分析賽程難度...")
 
-# 計算每隊勝率
-team_win_rates = {}
-for team in teams:
-    team_id = str(team['team_id'])
-    wins = team.get('wins', 0)
-    losses = team.get('losses', 0)
-    ties = team.get('ties', 0)
-    total = wins + losses + ties
+# 計算每隊實力（基於戰績或球員陣容）
+team_strengths = {}
 
-    if total == 0:
-        win_rate = 0.500
-    else:
-        win_rate = (wins + ties * 0.5) / total
+# 檢查是否有戰績數據
+has_games = any(team.get('wins', 0) + team.get('losses', 0) + team.get('ties', 0) > 0 for team in teams)
 
-    team_win_rates[team_id] = win_rate
+if has_games:
+    # 使用戰績計算勝率
+    for team in teams:
+        team_id = str(team['team_id'])
+        wins = team.get('wins', 0)
+        losses = team.get('losses', 0)
+        ties = team.get('ties', 0)
+        total = wins + losses + ties
+
+        if total == 0:
+            win_rate = 0.500
+        else:
+            win_rate = (wins + ties * 0.5) / total
+
+        team_strengths[team_id] = win_rate
+else:
+    # 比賽尚未開始，使用球員陣容強度評估
+    print(\"  (比賽尚未開始，使用球員陣容強度評估隊伍實力)\")\n    
+    # 計算每隊的球員數和多位置球員數
+    roster_scores = {}
+    for team in teams:
+        team_id = str(team['team_id'])
+        team_roster = rosters.get(team_id, [])
+        
+        total_players = len(team_roster)
+        multi_position_count = sum(1 for p in team_roster if len(p.get('positions', [])) >= 3)
+        active_players = sum(1 for p in team_roster if p.get('status', '') not in ['O', 'INJ', 'OUT'])
+        
+        # 綜合評分：球員數 + 多位置球員 + 健康球員
+        score = (total_players * 10) + (multi_position_count * 5) + (active_players * 2)
+        roster_scores[team_id] = score
+    
+    # 正規化到 0.3 - 0.7 區間（避免極端值）
+    if roster_scores:
+        min_score = min(roster_scores.values())
+        max_score = max(roster_scores.values())
+        score_range = max_score - min_score if max_score > min_score else 1
+        
+        for team_id, score in roster_scores.items():
+            normalized = 0.3 + (score - min_score) / score_range * 0.4
+            team_strengths[team_id] = normalized
 
 schedule_analysis = []
 
@@ -65,15 +97,15 @@ for team in teams:
         if week_str in team_schedule:
             opponent_id = str(team_schedule[week_str]['opponent_id'])
             opponent_name = team_schedule[week_str]['opponent_name']
-            opponent_win_rate = team_win_rates.get(opponent_id, 0.500)
+            opponent_strength = team_strengths.get(opponent_id, 0.500)
 
             future_opponents.append({
                 'week': week,
                 'opponent': opponent_name,
-                'win_rate': round(opponent_win_rate, 3)
+                'win_rate': round(opponent_strength, 3)
             })
 
-            total_difficulty += opponent_win_rate
+            total_difficulty += opponent_strength
 
     avg_difficulty = total_difficulty / len(future_opponents) if future_opponents else 0.500
 
@@ -91,7 +123,7 @@ for team in teams:
     schedule_analysis.append({
         'team_name': team_name,
         'team_id': team_id,
-        'current_win_rate': round(team_win_rates[team_id], 3),
+        'current_win_rate': round(team_strengths[team_id], 3),
         'avg_opponent_strength': round(avg_difficulty, 3),
         'difficulty_level': difficulty_level,
         'emoji': emoji,
@@ -223,8 +255,8 @@ for matchup in current_matchups:
     team1_name = matchup['team1_name']
     team2_name = matchup['team2_name']
 
-    team1_wr = team_win_rates.get(team1_id, 0.500)
-    team2_wr = team_win_rates.get(team2_id, 0.500)
+    team1_wr = team_strengths.get(team1_id, 0.500)
+    team2_wr = team_strengths.get(team2_id, 0.500)
 
     avg_strength = (team1_wr + team2_wr) / 2
     win_rate_diff = abs(team1_wr - team2_wr)

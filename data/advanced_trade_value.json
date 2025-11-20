@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20 19:46:04",
+  "generated_at": "2025-11-21 01:04:53",
   "league_name": "大亂鬥",
   "current_week": 5,
   "total_players": 208,
@@ -369,6 +369,29 @@
       "win_rate": 0.5
     },
     {
+      "player_name": "Bobby Portis",
+      "nba_team": "MIL",
+      "positions": [
+        "PF",
+        "C"
+      ],
+      "fantasy_team": "Great Team",
+      "fantasy_team_id": "4",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 19.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 10.0,
+        "special_bonus": 5,
+        "total": 109.8
+      },
+      "tier": "S",
+      "win_rate": 0.5
+    },
+    {
       "player_name": "Jalen Duren",
       "nba_team": "DET",
       "positions": [
@@ -429,29 +452,6 @@
         "health_value": 25,
         "team_strength": 10.0,
         "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Bobby Portis",
-      "nba_team": "MIL",
-      "positions": [
-        "PF",
-        "C"
-      ],
-      "fantasy_team": "Great Team",
-      "fantasy_team_id": "4",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 19.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 5,
         "total": 109.8
       },
       "tier": "S",
@@ -524,28 +524,6 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Nikola Jokić",
-      "nba_team": "DEN",
-      "positions": [
-        "C"
-      ],
-      "fantasy_team": "Stojakovic",
-      "fantasy_team_id": "6",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 14.8,
-        "multi_position_bonus": 0,
-        "scarcity_bonus": 14.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 10,
-        "total": 109.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
       "player_name": "Neemias Queta",
       "nba_team": "BOS",
       "positions": [
@@ -563,6 +541,28 @@
         "health_value": 25,
         "team_strength": 10.0,
         "special_bonus": 5,
+        "total": 109.8
+      },
+      "tier": "S",
+      "win_rate": 0.5
+    },
+    {
+      "player_name": "Nikola Jokić",
+      "nba_team": "DEN",
+      "positions": [
+        "C"
+      ],
+      "fantasy_team": "Stojakovic",
+      "fantasy_team_id": "6",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 14.8,
+        "multi_position_bonus": 0,
+        "scarcity_bonus": 14.8,
+        "health_value": 25,
+        "team_strength": 10.0,
+        "special_bonus": 10,
         "total": 109.8
       },
       "tier": "S",
@@ -1789,6 +1789,29 @@
       "win_rate": 0.5
     },
     {
+      "player_name": "Harrison Barnes",
+      "nba_team": "SAS",
+      "positions": [
+        "SF",
+        "PF"
+      ],
+      "fantasy_team": "王美露の爹",
+      "fantasy_team_id": "8",
+      "status": "Healthy",
+      "scores": {
+        "base": 50,
+        "position_value": 12.8,
+        "multi_position_bonus": 5,
+        "scarcity_bonus": 7.8,
+        "health_value": 25,
+        "team_strength": 10.0,
+        "special_bonus": 0,
+        "total": 97.8
+      },
+      "tier": "S",
+      "win_rate": 0.5
+    },
+    {
       "player_name": "Jalen Johnson",
       "nba_team": "ATL",
       "positions": [
@@ -1837,29 +1860,6 @@
     {
       "player_name": "Miles Bridges",
       "nba_team": "CHA",
-      "positions": [
-        "SF",
-        "PF"
-      ],
-      "fantasy_team": "王美露の爹",
-      "fantasy_team_id": "8",
-      "status": "Healthy",
-      "scores": {
-        "base": 50,
-        "position_value": 12.8,
-        "multi_position_bonus": 5,
-        "scarcity_bonus": 7.8,
-        "health_value": 25,
-        "team_strength": 10.0,
-        "special_bonus": 0,
-        "total": 97.8
-      },
-      "tier": "S",
-      "win_rate": 0.5
-    },
-    {
-      "player_name": "Harrison Barnes",
-      "nba_team": "SAS",
       "positions": [
         "SF",
         "PF"
@@ -3052,8 +3052,8 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Dennis Schröder",
-      "nba_team": "SAC",
+      "player_name": "Devin Booker",
+      "nba_team": "PHX",
       "positions": [
         "PG",
         "SG"
@@ -3075,8 +3075,8 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Devin Booker",
-      "nba_team": "PHX",
+      "player_name": "Dennis Schröder",
+      "nba_team": "SAC",
       "positions": [
         "PG",
         "SG"
@@ -4508,8 +4508,8 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Tre Jones",
-      "nba_team": "CHI",
+      "player_name": "Jrue Holiday",
+      "nba_team": "POR",
       "positions": [
         "PG",
         "SG"
@@ -4531,8 +4531,8 @@
       "win_rate": 0.5
     },
     {
-      "player_name": "Jrue Holiday",
-      "nba_team": "POR",
+      "player_name": "Tre Jones",
+      "nba_team": "CHI",
       "positions": [
         "PG",
         "SG"

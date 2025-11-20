@@ -76,18 +76,30 @@ try:
             except:
                 pass
 
+        # 獲取戰績
+        wins = 0
+        losses = 0
+        ties = 0
+        if hasattr(team, 'team_standings'):
+            standings = team.team_standings
+            if hasattr(standings, 'outcome_totals'):
+                outcome = standings.outcome_totals
+                wins = int(outcome.wins) if hasattr(outcome, 'wins') and outcome.wins else 0
+                losses = int(outcome.losses) if hasattr(outcome, 'losses') and outcome.losses else 0
+                ties = int(outcome.ties) if hasattr(outcome, 'ties') and outcome.ties else 0
+
         team_info = {
             'rank': i,
             'team_id': team.team_id,
             'team_name': team_name,
             'manager': manager_name,
-            'wins': 0,
-            'losses': 0,
-            'ties': 0
+            'wins': wins,
+            'losses': losses,
+            'ties': ties
         }
 
         teams_data.append(team_info)
-        print(f"  {i}. {team_name} (Team ID: {team.team_id})")
+        print(f"  {i}. {team_name} (Team ID: {team.team_id}) - {wins}-{losses}-{ties}")
 
     print()
 

@@ -1,0 +1,187 @@
+{
+  "league_name": "大亂鬥",
+  "league_id": "71325",
+  "num_teams": 14,
+  "current_week": 1,
+  "season": "2025",
+  "teams": [
+    {
+      "rank": 1,
+      "team_id": 1,
+      "team_name": "默絲佛陀攝影掃地伯",
+      "manager": "Murs",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 2,
+      "team_id": 2,
+      "team_name": "哎呦蠻大的",
+      "manager": "brian",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 3,
+      "team_id": 3,
+      "team_name": "Fu班的捍衛戰士獨行俠",
+      "manager": "Fu",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 4,
+      "team_id": 4,
+      "team_name": "Great Team",
+      "manager": "昕彤",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 5,
+      "team_id": 5,
+      "team_name": "JW999",
+      "manager": "JW999",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 6,
+      "team_id": 6,
+      "team_name": "Stojakovic",
+      "manager": "Stojakovic",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 7,
+      "team_id": 7,
+      "team_name": "Super呆呆",
+      "manager": "EDEN",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 8,
+      "team_id": 8,
+      "team_name": "王美露の爹",
+      "manager": "蜆仔",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 9,
+      "team_id": 9,
+      "team_name": "振彥's First-Class Team",
+      "manager": "振彥",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 10,
+      "team_id": 10,
+      "team_name": "會演是英雄",
+      "manager": "Derek",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 11,
+      "team_id": 11,
+      "team_name": "雷霆總冠軍",
+      "manager": "Bruce Lin",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 12,
+      "team_id": 12,
+      "team_name": "李知恩圖報",
+      "manager": "宣宏",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 13,
+      "team_id": 13,
+      "team_name": "櫻木花道",
+      "manager": "新皓",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    {
+      "rank": 14,
+      "team_id": 14,
+      "team_name": "Lakers in 5",
+      "manager": "Curry",
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    }
+  ],
+  "matchups": [
+    {
+      "team1_id": 1,
+      "team1_name": "默絲佛陀攝影掃地伯",
+      "team2_id": 5,
+      "team2_name": "JW999",
+      "week": 1
+    },
+    {
+      "team1_id": 2,
+      "team1_name": "哎呦蠻大的",
+      "team2_id": 7,
+      "team2_name": "Super呆呆",
+      "week": 1
+    },
+    {
+      "team1_id": 3,
+      "team1_name": "Fu班的捍衛戰士獨行俠",
+      "team2_id": 14,
+      "team2_name": "Lakers in 5",
+      "week": 1
+    },
+    {
+      "team1_id": 4,
+      "team1_name": "Great Team",
+      "team2_id": 13,
+      "team2_name": "櫻木花道",
+      "week": 1
+    },
+    {
+      "team1_id": 6,
+      "team1_name": "Stojakovic",
+      "team2_id": 11,
+      "team2_name": "雷霆總冠軍",
+      "week": 1
+    },
+    {
+      "team1_id": 8,
+      "team1_name": "王美露の爹",
+      "team2_id": 10,
+      "team2_name": "會演是英雄",
+      "week": 1
+    },
+    {
+      "team1_id": 9,
+      "team1_name": "振彥's First-Class Team",
+      "team2_id": 12,
+      "team2_name": "李知恩圖報",
+      "week": 1
+    }
+  ],
+  "last_updated": "2025-10-22 16:00:00"
+}
