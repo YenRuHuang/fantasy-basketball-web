@@ -34,6 +34,7 @@ wheels/
 # Yahoo API Credentials (重要：不要提交認證資訊)
 config/credentials.json
 config/private.json
+config/google_service_account.json
 *.secret
 
 # Data files
