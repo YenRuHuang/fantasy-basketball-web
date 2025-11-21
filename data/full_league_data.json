@@ -2099,7 +2099,7 @@
           "SG",
           "SF"
         ],
-        "status": "GTD",
+        "status": "",
         "team": "DAL"
       },
       {
@@ -2269,7 +2269,7 @@
           "SF",
           "PF"
         ],
-        "status": "INJ",
+        "status": "",
         "team": "SAC"
       },
       {
@@ -2308,7 +2308,7 @@
         "positions": [
           "C"
         ],
-        "status": "GTD",
+        "status": "INJ",
         "team": "SAC"
       },
       {
@@ -2628,7 +2628,7 @@
           "PG",
           "SG"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "CHI"
       },
       {
@@ -2712,7 +2712,7 @@
           "SF",
           "PF"
         ],
-        "status": "GTD",
+        "status": "",
         "team": "PHI"
       },
       {
@@ -2733,7 +2733,7 @@
           "PF",
           "C"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "HOU"
       },
       {
@@ -2743,7 +2743,7 @@
           "SF",
           "PF"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "POR"
       },
       {
@@ -2761,7 +2761,7 @@
         "positions": [
           "C"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "HOU"
       },
       {
@@ -2799,7 +2799,7 @@
         "positions": [
           "PF"
         ],
-        "status": "GTD",
+        "status": "O",
         "team": "MIA"
       },
       {
@@ -3159,7 +3159,7 @@
           "PF",
           "C"
         ],
-        "status": "GTD",
+        "status": "O",
         "team": "MEM"
       },
       {
@@ -3169,7 +3169,7 @@
           "PF",
           "C"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "ATL"
       },
       {
@@ -3316,7 +3316,7 @@
           "SG",
           "SF"
         ],
-        "status": "GTD",
+        "status": "O",
         "team": "CLE"
       },
       {
@@ -3467,7 +3467,7 @@
           "SF",
           "PF"
         ],
-        "status": "",
+        "status": "O",
         "team": "MIA"
       },
       {
@@ -3508,7 +3508,7 @@
         "positions": [
           "C"
         ],
-        "status": "",
+        "status": "GTD",
         "team": "CLE"
       },
       {
@@ -3787,7 +3787,7 @@
           "PF",
           "C"
         ],
-        "status": "INJ",
+        "status": "",
         "team": "ATL"
       },
       {
@@ -3875,7 +3875,7 @@
         "positions": [
           "PG"
         ],
-        "status": "GTD",
+        "status": "",
         "team": "GSW"
       },
       {
@@ -3956,7 +3956,7 @@
           "SF",
           "PF"
         ],
-        "status": "GTD",
+        "status": "",
         "team": "ATL"
       },
       {
@@ -4148,5 +4148,5 @@
       }
     ]
   },
-  "last_updated": "2025-11-21 01:40:02"
+  "last_updated": "2025-11-21 11:08:20"
 }

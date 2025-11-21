@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-21 01:40:15",
+  "generated_at": "2025-11-21 11:08:20",
   "league_name": "大亂鬥",
   "current_week": 5,
   "total_weeks": 22,
@@ -640,6 +640,20 @@
         "trade_value": 80
       },
       {
+        "player_name": "Cooper Flagg",
+        "team_name": "王美露の爹",
+        "positions": [
+          "PG",
+          "SG",
+          "SF"
+        ],
+        "num_positions": 3,
+        "health_status": "健康",
+        "versatility_score": 80,
+        "health_adjustment": 0,
+        "trade_value": 80
+      },
+      {
         "player_name": "Josh Hart",
         "team_name": "JW999",
         "positions": [
@@ -724,12 +738,12 @@
         "trade_value": 80
       },
       {
-        "player_name": "Jabari Smith Jr.",
+        "player_name": "Paul George",
         "team_name": "會演是英雄",
         "positions": [
+          "SG",
           "SF",
-          "PF",
-          "C"
+          "PF"
         ],
         "num_positions": 3,
         "health_status": "健康",
@@ -809,20 +823,6 @@
       },
       {
         "player_name": "Trey Murphy III",
-        "team_name": "Super呆呆",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "num_positions": 3,
-        "health_status": "健康",
-        "versatility_score": 80,
-        "health_adjustment": 0,
-        "trade_value": 80
-      },
-      {
-        "player_name": "Andrew Wiggins",
         "team_name": "Super呆呆",
         "positions": [
           "SG",
@@ -916,20 +916,6 @@
         "health_status": "健康",
         "versatility_score": 70,
         "health_adjustment": 0,
-        "trade_value": 70
-      },
-      {
-        "player_name": "Cooper Flagg",
-        "team_name": "王美露の爹",
-        "positions": [
-          "PG",
-          "SG",
-          "SF"
-        ],
-        "num_positions": 3,
-        "health_status": "每日觀察",
-        "versatility_score": 80,
-        "health_adjustment": -10,
         "trade_value": 70
       },
       {
@@ -1042,6 +1028,19 @@
         "positions": [
           "SG",
           "SF"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Keegan Murray",
+        "team_name": "Stojakovic",
+        "positions": [
+          "SF",
+          "PF"
         ],
         "num_positions": 2,
         "health_status": "健康",
@@ -1284,19 +1283,6 @@
         "trade_value": 70
       },
       {
-        "player_name": "Coby White",
-        "team_name": "Lakers in 5",
-        "positions": [
-          "PG",
-          "SG"
-        ],
-        "num_positions": 2,
-        "health_status": "健康",
-        "versatility_score": 70,
-        "health_adjustment": 0,
-        "trade_value": 70
-      },
-      {
         "player_name": "Anthony Black",
         "team_name": "會演是英雄",
         "positions": [
@@ -1307,20 +1293,6 @@
         "health_status": "健康",
         "versatility_score": 70,
         "health_adjustment": 0,
-        "trade_value": 70
-      },
-      {
-        "player_name": "Paul George",
-        "team_name": "會演是英雄",
-        "positions": [
-          "SG",
-          "SF",
-          "PF"
-        ],
-        "num_positions": 3,
-        "health_status": "每日觀察",
-        "versatility_score": 80,
-        "health_adjustment": -10,
         "trade_value": 70
       },
       {
@@ -1337,16 +1309,17 @@
         "trade_value": 70
       },
       {
-        "player_name": "Jerami Grant",
+        "player_name": "Jabari Smith Jr.",
         "team_name": "會演是英雄",
         "positions": [
           "SF",
-          "PF"
+          "PF",
+          "C"
         ],
-        "num_positions": 2,
-        "health_status": "健康",
-        "versatility_score": 70,
-        "health_adjustment": 0,
+        "num_positions": 3,
+        "health_status": "每日觀察",
+        "versatility_score": 80,
+        "health_adjustment": -10,
         "trade_value": 70
       },
       {
@@ -1524,19 +1497,6 @@
         "positions": [
           "SG",
           "SF"
-        ],
-        "num_positions": 2,
-        "health_status": "健康",
-        "versatility_score": 70,
-        "health_adjustment": 0,
-        "trade_value": 70
-      },
-      {
-        "player_name": "Onyeka Okongwu",
-        "team_name": "振彥's First-Class Team",
-        "positions": [
-          "PF",
-          "C"
         ],
         "num_positions": 2,
         "health_status": "健康",
@@ -1988,6 +1948,19 @@
         "trade_value": 70
       },
       {
+        "player_name": "Kristaps Porziņģis",
+        "team_name": "Fu班的捍衛戰士獨行俠",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
         "player_name": "LaMelo Ball",
         "team_name": "Fu班的捍衛戰士獨行俠",
         "positions": [
@@ -2058,6 +2031,19 @@
         "positions": [
           "PF",
           "C"
+        ],
+        "num_positions": 2,
+        "health_status": "健康",
+        "versatility_score": 70,
+        "health_adjustment": 0,
+        "trade_value": 70
+      },
+      {
+        "player_name": "Zaccharie Risacher",
+        "team_name": "哎呦蠻大的",
+        "positions": [
+          "SF",
+          "PF"
         ],
         "num_positions": 2,
         "health_status": "健康",
@@ -2317,6 +2303,19 @@
         "trade_value": 60
       },
       {
+        "player_name": "Coby White",
+        "team_name": "Lakers in 5",
+        "positions": [
+          "PG",
+          "SG"
+        ],
+        "num_positions": 2,
+        "health_status": "每日觀察",
+        "versatility_score": 70,
+        "health_adjustment": -10,
+        "trade_value": 60
+      },
+      {
         "player_name": "Aaron Gordon",
         "team_name": "Lakers in 5",
         "positions": [
@@ -2342,19 +2341,20 @@
         "trade_value": 60
       },
       {
-        "player_name": "Mark Williams",
+        "player_name": "Jerami Grant",
         "team_name": "會演是英雄",
         "positions": [
-          "C"
+          "SF",
+          "PF"
         ],
-        "num_positions": 1,
-        "health_status": "健康",
-        "versatility_score": 60,
-        "health_adjustment": 0,
+        "num_positions": 2,
+        "health_status": "每日觀察",
+        "versatility_score": 70,
+        "health_adjustment": -10,
         "trade_value": 60
       },
       {
-        "player_name": "Steven Adams",
+        "player_name": "Mark Williams",
         "team_name": "會演是英雄",
         "positions": [
           "C"
@@ -2474,7 +2474,7 @@
         "trade_value": 60
       },
       {
-        "player_name": "Jaren Jackson Jr.",
+        "player_name": "Onyeka Okongwu",
         "team_name": "振彥's First-Class Team",
         "positions": [
           "PF",
@@ -2548,19 +2548,6 @@
         "trade_value": 60
       },
       {
-        "player_name": "Sam Merrill",
-        "team_name": "默絲佛陀攝影掃地伯",
-        "positions": [
-          "SG",
-          "SF"
-        ],
-        "num_positions": 2,
-        "health_status": "每日觀察",
-        "versatility_score": 70,
-        "health_adjustment": -10,
-        "trade_value": 60
-      },
-      {
         "player_name": "Yves Missi",
         "team_name": "默絲佛陀攝影掃地伯",
         "positions": [
@@ -2585,15 +2572,17 @@
         "trade_value": 60
       },
       {
-        "player_name": "Jarrett Allen",
+        "player_name": "Andrew Wiggins",
         "team_name": "Super呆呆",
         "positions": [
-          "C"
+          "SG",
+          "SF",
+          "PF"
         ],
-        "num_positions": 1,
-        "health_status": "健康",
-        "versatility_score": 60,
-        "health_adjustment": 0,
+        "num_positions": 3,
+        "health_status": "受傷",
+        "versatility_score": 80,
+        "health_adjustment": -20,
         "trade_value": 60
       },
       {
@@ -2669,6 +2658,18 @@
         "trade_value": 60
       },
       {
+        "player_name": "Stephen Curry",
+        "team_name": "哎呦蠻大的",
+        "positions": [
+          "PG"
+        ],
+        "num_positions": 1,
+        "health_status": "健康",
+        "versatility_score": 60,
+        "health_adjustment": 0,
+        "trade_value": 60
+      },
+      {
         "player_name": "Draymond Green",
         "team_name": "哎呦蠻大的",
         "positions": [
@@ -2691,19 +2692,6 @@
         "health_status": "健康",
         "versatility_score": 60,
         "health_adjustment": 0,
-        "trade_value": 60
-      },
-      {
-        "player_name": "Zaccharie Risacher",
-        "team_name": "哎呦蠻大的",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "num_positions": 2,
-        "health_status": "每日觀察",
-        "versatility_score": 70,
-        "health_adjustment": -10,
         "trade_value": 60
       },
       {
@@ -2818,31 +2806,6 @@
         "trade_value": 50
       },
       {
-        "player_name": "Keegan Murray",
-        "team_name": "Stojakovic",
-        "positions": [
-          "SF",
-          "PF"
-        ],
-        "num_positions": 2,
-        "health_status": "受傷",
-        "versatility_score": 70,
-        "health_adjustment": -20,
-        "trade_value": 50
-      },
-      {
-        "player_name": "Domantas Sabonis",
-        "team_name": "Stojakovic",
-        "positions": [
-          "C"
-        ],
-        "num_positions": 1,
-        "health_status": "每日觀察",
-        "versatility_score": 60,
-        "health_adjustment": -10,
-        "trade_value": 50
-      },
-      {
         "player_name": "Jrue Holiday",
         "team_name": "Stojakovic",
         "positions": [
@@ -2921,10 +2884,10 @@
         "trade_value": 50
       },
       {
-        "player_name": "Nikola Jović",
+        "player_name": "Steven Adams",
         "team_name": "會演是英雄",
         "positions": [
-          "PF"
+          "C"
         ],
         "num_positions": 1,
         "health_status": "每日觀察",
@@ -3036,11 +2999,37 @@
         "trade_value": 50
       },
       {
+        "player_name": "Jaren Jackson Jr.",
+        "team_name": "振彥's First-Class Team",
+        "positions": [
+          "PF",
+          "C"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
         "player_name": "Tari Eason",
         "team_name": "振彥's First-Class Team",
         "positions": [
           "SF",
           "PF"
+        ],
+        "num_positions": 2,
+        "health_status": "受傷",
+        "versatility_score": 70,
+        "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Sam Merrill",
+        "team_name": "默絲佛陀攝影掃地伯",
+        "positions": [
+          "SG",
+          "SF"
         ],
         "num_positions": 2,
         "health_status": "受傷",
@@ -3072,6 +3061,18 @@
         "health_status": "受傷",
         "versatility_score": 70,
         "health_adjustment": -20,
+        "trade_value": 50
+      },
+      {
+        "player_name": "Jarrett Allen",
+        "team_name": "Super呆呆",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "每日觀察",
+        "versatility_score": 60,
+        "health_adjustment": -10,
         "trade_value": 50
       },
       {
@@ -3114,19 +3115,6 @@
         "trade_value": 50
       },
       {
-        "player_name": "Kristaps Porziņģis",
-        "team_name": "Fu班的捍衛戰士獨行俠",
-        "positions": [
-          "PF",
-          "C"
-        ],
-        "num_positions": 2,
-        "health_status": "受傷",
-        "versatility_score": 70,
-        "health_adjustment": -20,
-        "trade_value": 50
-      },
-      {
         "player_name": "Kawhi Leonard",
         "team_name": "Fu班的捍衛戰士獨行俠",
         "positions": [
@@ -3137,18 +3125,6 @@
         "health_status": "受傷",
         "versatility_score": 70,
         "health_adjustment": -20,
-        "trade_value": 50
-      },
-      {
-        "player_name": "Stephen Curry",
-        "team_name": "哎呦蠻大的",
-        "positions": [
-          "PG"
-        ],
-        "num_positions": 1,
-        "health_status": "每日觀察",
-        "versatility_score": 60,
-        "health_adjustment": -10,
         "trade_value": 50
       },
       {
@@ -3204,10 +3180,34 @@
         "trade_value": 50
       },
       {
+        "player_name": "Domantas Sabonis",
+        "team_name": "Stojakovic",
+        "positions": [
+          "C"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
         "player_name": "Walker Kessler",
         "team_name": "JW999",
         "positions": [
           "C"
+        ],
+        "num_positions": 1,
+        "health_status": "受傷",
+        "versatility_score": 60,
+        "health_adjustment": -20,
+        "trade_value": 40
+      },
+      {
+        "player_name": "Nikola Jović",
+        "team_name": "會演是英雄",
+        "positions": [
+          "PF"
         ],
         "num_positions": 1,
         "health_status": "受傷",
